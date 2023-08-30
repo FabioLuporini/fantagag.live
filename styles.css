@@ -1,0 +1,269 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+
+.background-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    z-index: -1;
+}
+
+.background-left, .background-right {
+    position: absolute;
+    bottom: 0;
+    width: 50%;
+    height: 10%;
+    min-height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: fixed; /* Posizionamento fisso per mantenere le immagini sempre visibili */
+    bottom: 0; /* Allinea le immagini in basso */
+    width: 10%; /* Dimensioni del 50% della larghezza della pagina */
+    height: auto; /* Altezza automatica */
+    z-index: -1; /* Posiziona lo sfondo sotto il contenuto */
+}
+
+.background-left {
+    background-image: url(immagini/skin_left.png);
+    left: 0;
+}
+
+.background-right {
+    background-image: url(immagini/skin_right.png);
+    right: 0;
+}
+
+/* Stile per il container con scorrimento */
+.container {
+    width: 100%;
+    max-width: 1200px; /* Adatta la larghezza massima a tua scelta */
+    margin: 0 auto; /* Centra il container orizzontalmente */
+    padding: 20px; /* Aggiungi padding per separare il contenuto dai bordi */
+    background-color: rgba(255, 255, 255, 1); /* Esempio di sfondo leggermente trasparente */
+    position: relative; /* Posizionamento relativo per posizionare i contenuti all'interno */
+    box-sizing: border-box;
+    z-index: 1; /* Posiziona il contenuto sopra lo sfondo */
+}
+
+.section {
+    height: 220px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative; /* Per posizionare il logo sopra la sezione */
+    border-radius: 5px; /* Angoli stondati */
+    overflow: hidden; /* Nasconde eventuali contenuti che eccedono la sezione */
+}
+
+.centered-logo {
+    max-width: 50%;
+    height: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); /* Centra l'immagine */
+    z-index: 2; /* Mette il logo sopra la sezione */
+}
+
+.background-image {
+    width: 100%;
+    height: 100%;
+    background-image: url(immagini/banner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center
+}
+
+.band {
+    width: 100%;
+    height: 48px;
+    background-color: rgba(46, 107, 230, 1);
+    border-radius: 5px; /* Angoli stondati */
+    overflow: hidden; /* Nasconde eventuali contenuti che eccedono la tabella */
+}
+
+.text-below-band {
+    font-family: "Open Sans Condensed", Arial, sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    color: #656d80;
+}
+
+/* Animazione per il testo "LIVE" */
+@keyframes blinking {
+    0%, 100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+}
+
+.live {
+    animation: blinking 2s infinite;
+}
+
+/* Animazione per il cerchio verde */
+@keyframes pulsate {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+.circle {
+    width: 12px;
+    height: 12px;
+    background-color: green;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 8px;
+    animation: pulsate 1s infinite;
+    animation-delay: 1s; /* Ritarda l'avvio dell'animazione */
+}
+
+.table-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    text-align: center; /* Centra il testo nelle sezioni */
+}
+
+.header-cell {
+    padding: 8px;
+    border: 1px solid #ccc;
+    font-family: "Open Sans Condensed", Arial, sans-serif;
+}
+
+.responsive-table {
+    max-width: 900px;
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 10px;
+    font-weight: 500;
+    color: #656d80;
+    margin: 0;
+    border-collapse: collapse; /* Rimuovi i bordi interni */
+    border: none; /* Rimuovi il bordo esterno */
+    table-layout: fixed; /* Fissa la larghezza delle colonne per evitare il rigonfiamento delle celle */
+    width: 100%; /* Rende la tabella occupare l'intera larghezza del suo contenitore */
+    overflow-x: auto; /* Aggiungi una barra di scorrimento orizzontale se la tabella supera la larghezza del contenitore */
+    border-radius: 5px; /* Angoli stondati */
+    overflow: hidden; /* Nasconde eventuali contenuti che eccedono la tabella */
+}
+
+.responsive-table th, .responsive-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    font-family: "Open Sans Condensed", Arial, sans-serif;
+    font-size: 13px;
+    font-weight: 300;
+    color: #656d80;
+    border: none;
+    padding: 8px;
+    text-align: center;
+    vertical-align: middle;
+    
+
+    /* Imposta larghezza fissa per le colonne */
+    width: 16.66%; /* Poiché ci sono 6 colonne, ognuna occupa il 16.66% della larghezza totale */
+}
+
+/* Colori di sfondo alternati */
+.responsive-table tbody tr:nth-child(even) {
+    background-color: rgba(200, 200, 200, 0.3); /* Grigio più chiaro e trasparente */
+}
+
+.responsive-table tbody tr:nth-child(odd) {
+    background-color: rgba(150, 150, 150, 0.3); /* Grigio più scuro e trasparente */
+}
+
+/* Sfondo al passaggio del cursore */
+.responsive-table tbody tr:hover {
+    background-color: rgba(46, 107, 230, 0.3); /* Blu trasparente al passaggio del cursore */
+}
+
+/* Cerchio con logo */
+.logo-cell {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Media query per schermi più piccoli */
+@media screen and (max-width: 768px) {
+    /* Aggiungi qui i tuoi stili per la versione mobile */
+    /* Modifica dimensioni dei font, spaziature, layout, ecc. */
+    
+    /* Ad esempio, puoi nascondere alcune sezioni o riorganizzarle */
+    .background-left, .background-right {
+        display: none; /* Nascondi lo sfondo composto */
+    }
+    
+    .centered-logo {
+        max-width: 80%; /* Riduci la larghezza del logo */
+    }
+
+    .responsive-table th, .responsive-table td {
+        font-size: 12px; /* Riduci il font per le tabelle */
+        padding: 6px; /* Riduci il padding delle celle */
+    }
+
+    .responsive-table tbody tr:nth-child(even),
+    .responsive-table tbody tr:nth-child(odd) {
+        /*background-color: transparent; /* Rimuovi i colori di sfondo alternati */
+    }
+}
+
+
+/* Stile per lo sfondo */
+/*.background-container {
+    background-image: url(immagini/skin_left.png), url(immagini/skin_right.png);
+    /* Aggiungi qui i percorsi delle tue immagini */
+    /*background-repeat: no-repeat;
+    background-size: 100% 100%, 100% 100%; /* Dimensioni delle immagini del 50% della larghezza della pagina e altezza automatica */
+    /*background-position: left top, right top; /* Posizione delle immagini agli angoli opposti */
+    /*position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* Mette lo sfondo al di sotto del contenuto */
+/*}
+
+/* Cerchio con logo */
+/*.logo-circle {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.1); /* Colore di sfondo trasparente */
+    /*display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-circle img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto; /* Centra l'immagine all'interno del cerchio */
+    /*max-width: 100%;
+    max-height: 100%;
+    
+}*/
