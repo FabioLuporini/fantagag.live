@@ -53,13 +53,14 @@ body, html {
 }
 
 .header {
-    height: 150px; /* Altezza desiderata della sezione dell'header */
+    height: 105px; /* Altezza desiderata della sezione dell'header */
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     overflow: hidden;
     background-color: #000000; /* Colore di sfondo della sezione dell'header */
+    border-radius: 5px; /* Angoli stondati */
 }
 
 .header img {
