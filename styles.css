@@ -119,6 +119,12 @@ body, html {
     font-weight: 700;
     color: #656d80;
 }
+.text-below-band-2 {
+    font-family: "Open Sans Condensed", Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    color: #656d80;
+}
 
 /* Animazione per il testo "LIVE" */
 @keyframes blinking {
