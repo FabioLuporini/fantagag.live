@@ -52,6 +52,22 @@ body, html {
     z-index: 1; /* Posiziona il contenuto sopra lo sfondo */
 }
 
+.header {
+    height: 150px; /* Altezza desiderata della sezione dell'header */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background-color: #000000; /* Colore di sfondo della sezione dell'header */
+}
+
+.header img {
+    width: 200%;
+    height: 200%;
+    object-fit: contain;
+}
+
 .section {
     height: 220px;
     display: flex;
