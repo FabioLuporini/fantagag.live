@@ -127,6 +127,13 @@ body, html {
     color: #656d80;
     text-align: center;
 }
+.copyright {
+    font-family: "Open Sans Condensed", Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    color: #656d80;
+    text-align: center;
+}
 
 /* Animazione per il testo "LIVE" */
 @keyframes blinking {
