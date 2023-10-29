@@ -44,22 +44,22 @@ body, html {
 .container {
     width: 100%;
     max-width: 1200px; /* Adatta la larghezza massima a tua scelta */
+    height:auto;
     margin: 0 auto; /* Centra il container orizzontalmente */
-    padding: 20px; /* Aggiungi padding per separare il contenuto dai bordi */
+    padding: 10px; /* Aggiungi padding per separare il contenuto dai bordi */
     background-color: rgba(255, 255, 255, 1); /* Esempio di sfondo leggermente trasparente */
     position: relative; /* Posizionamento relativo per posizionare i contenuti all'interno */
     box-sizing: border-box;
     z-index: 1; /* Posiziona il contenuto sopra lo sfondo */
-}
 
 .header {
-    height: 105px; /* Altezza desiderata della sezione dell'header */
+    height: 100px; /* Altezza desiderata della sezione dell'header */
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     overflow: hidden;
-    background-color: #000000; /* Colore di sfondo della sezione dell'header */
+    background-color: #2E6BE6FF; /* Colore di sfondo della sezione dell'header */
     border-radius: 5px; /* Angoli stondati */
 }
 
@@ -67,6 +67,8 @@ body, html {
     width: 200%;
     height: 200%;
     object-fit: contain;
+}
+
 }
 
 .section {
@@ -101,10 +103,14 @@ body, html {
 
 .band {
     width: 100%;
-    height: 48px;
+    max-width: 900px;
+    align-content: center;
+    position:;
+    height: 2px;
     background-color: rgba(46, 107, 230, 1);
     border-radius: 5px; /* Angoli stondati */
     overflow: hidden; /* Nasconde eventuali contenuti che eccedono la tabella */
+    margin: auto;
 }
 
 .text-below-band {
@@ -169,7 +175,6 @@ body, html {
 .responsive-table {
     max-width: 900px;
     width: 100%;
-    border-collapse: collapse;
     font-size: 10px;
     font-weight: 500;
     color: #656d80;
@@ -183,22 +188,35 @@ body, html {
     overflow: hidden; /* Nasconde eventuali contenuti che eccedono la tabella */
 }
 
-.responsive-table th, .responsive-table td {
-    border: 1px solid #ccc;
+/* ... codice CSS precedente ... */
+
+.responsive-table th,
+.responsive-table td {
+    font-size: 13px;
     padding: 8px;
     font-family: "Open Sans Condensed", Arial, sans-serif;
-    font-size: 13px;
     font-weight: 300;
     color: #656d80;
     border: none;
     padding: 8px;
     text-align: center;
     vertical-align: middle;
-    
-
-    /* Imposta larghezza fissa per le colonne */
-    width: 16.66%; /* Poiché ci sono 6 colonne, ognuna occupa il 16.66% della larghezza totale */
 }
+
+/* Imposta larghezza fissa per la prima colonna */
+.responsive-table th:first-child,
+.responsive-table td:first-child {
+    width: 50px;
+}
+
+/* Imposta larghezza uguale per le altre colonne */
+.responsive-table th:not(:first-child),
+.responsive-table td:not(:first-child) {
+    width: calc(100% / 5); /* Poiché ci sono 6 colonne, ognuna occupa il 16.66% della larghezza totale */
+}
+
+/* ... codice CSS successivo ... */
+
 
 /* Colori di sfondo alternati */
 .responsive-table tbody tr:nth-child(even) {
@@ -216,9 +234,7 @@ body, html {
 
 /* Cerchio con logo */
 .logo-cell {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    margin: auto;
 }
 
 /* Media query per schermi più piccoli */
