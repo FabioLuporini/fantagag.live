@@ -51,7 +51,8 @@ body, html {
     position: relative; /* Posizionamento relativo per posizionare i contenuti all'interno */
     box-sizing: border-box;
     z-index: 1; /* Posiziona il contenuto sopra lo sfondo */
-
+}
+    
 .header {
     height: 60px; /* Altezza desiderata della sezione dell'header */
     width: 100%;
@@ -259,6 +260,10 @@ body, html {
     /* Modifica dimensioni dei font, spaziature, layout, ecc. */
     
     /* Ad esempio, puoi nascondere alcune sezioni o riorganizzarle */
+    .background-container {
+        display: none; /* Nascondi lo sfondo composto */
+    }
+    
     .background-left, .background-right {
         display: none; /* Nascondi lo sfondo composto */
     }
