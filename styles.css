@@ -53,7 +53,7 @@ body, html {
     z-index: 1; /* Posiziona il contenuto sopra lo sfondo */
 
 .header {
-    height: 70px; /* Altezza desiderata della sezione dell'header */
+    height: 60px; /* Altezza desiderata della sezione dell'header */
     width: 100%;
     display: flex;
     justify-content: center;
@@ -63,12 +63,13 @@ body, html {
     border-radius: 5px; /* Angoli stondati */
 }
 
-.header img {
-    width: 200%;
-    height: 200%;
-    object-fit: contain;
-}
-
+.header .image-container {
+    width: 100%; /* Larghezza del contenitore dell'immagine */
+    height: 100%; /* Altezza del contenitore dell'immagine */
+    background-image: url('immagini/f1_gag.gif'); /* Aggiungi il percorso corretto per la tua immagine */
+    background-size: auto 200%; /* Imposta la dimensione dell'immagine di sfondo al 200% */
+    background-repeat: no-repeat;
+    background-position: center; /* Centra l'immagine di sfondo */
 }
 
 .section {
