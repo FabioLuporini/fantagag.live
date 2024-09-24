@@ -1,6 +1,6 @@
 // Oggetto che associa i nomi delle squadre ai nomi delle immagini
 const immaginiSquadre = {
-    "A.C. Looter": "a.c._looter.png",
+    "A.C. Looters": "a.c._looters.png",
     "CA River Nave": "ca_river_nave.png",
     "CABJ Xeneizes": "cabj_xeneizes.png",
     "F,C SHAKA": "f,c_shaka.png",
