@@ -1,5 +1,5 @@
 Team: Loop FC
-Titolari (Starters):
+Titolari:
 Sommer: 5
 Dimarco: 7.5
 Danilo: 6
@@ -11,7 +11,7 @@ Suslov: 6
 Zaniolo: 0
 Bonny: 0
 Retegui: 9.5
-Panchinari (Substitutes):
+Panchinari:
 Vasquez D.: 0
 Di Gennaro: 0
 Gila: 0
@@ -25,7 +25,7 @@ Politano: 10
 Luvumbo: 6
 *********
 Team: CABJ Xeneizes
-Titolari (Starters):
+Titolari:
 Okoye: 0
 Tavares N.: 0
 Coco: 6
@@ -37,7 +37,7 @@ Vlasic: 6
 Mkhitaryan: 15.5
 Lookman: 10
 Morata: 0
-Panchinari (Substitutes):
+Panchinari:
 Suzuki: 0
 Gollini: 0
 Marin R.: 0
@@ -51,7 +51,7 @@ Belotti: 9
 Piccoli: 6
 *********
 Team: PS Marlia United
-Titolari (Starters):
+Titolari:
 De Gea: 0
 Bijol: 6.5
 Rrahmani: 0
@@ -63,7 +63,7 @@ Orsolini: 6
 Dybala: 12.0
 Lukaku: 10
 Castellanos: 6
-Panchinari (Substitutes):
+Panchinari:
 Svilar: 0
 Terracciano: 3.5
 Coulibaly W.: 0
@@ -75,7 +75,7 @@ Messias: 0
 Thauvin: 5.0
 *********
 Team: Fc Galaxy
-Titolari (Starters):
+Titolari:
 Carnesecchi: 3
 Kyriakopoulos: 0
 Cambiaso: 5.0
@@ -87,7 +87,7 @@ Fazzini: 5
 Chukwueze: 5
 Pohjanpalo: 6
 Kvaratskhelia: 5.5
-Panchinari (Substitutes):
+Panchinari:
 Rui Patricio: 7.5
 Scuffet: 0
 Dodo': 6
@@ -102,7 +102,7 @@ Vlahovic: 13.5
 Cutrone: 0
 *********
 Team: A.C. Looters
-Titolari (Starters):
+Titolari:
 Meret: 3.5
 Angelino: 0
 Vojvoda: 6
@@ -114,7 +114,7 @@ Pulisic: 5
 Dia: 0
 De Ketelaere: 5.5
 Neres: 0
-Panchinari (Substitutes):
+Panchinari:
 Caprile: 0
 Skorupski: 6
 Posch: 6
@@ -130,7 +130,7 @@ Calhanoglu: 8.5
 Ilic: 6
 *********
 Team: Real Barbarian
-Titolari (Starters):
+Titolari:
 Maignan: 1
 Ehizibue: 0
 Ruggeri: 5.5
@@ -142,7 +142,7 @@ Conceicao: 0
 Reijnders: 5
 Dovbyk: 0
 Thuram: 10.5
-Panchinari (Substitutes):
+Panchinari:
 Falcone: 6
 Sportiello: 0
 Dumfries: 6.5
@@ -158,7 +158,7 @@ Pinamonti: 13.5
 Mosquera: 6
 *********
 Team: CA River Nave
-Titolari (Starters):
+Titolari:
 Provedel: 4
 Mancini: 10
 Zortea: 5.5
@@ -170,7 +170,7 @@ Pessina: 6.5
 McTominay: 0
 Lucca: 5.5
 Martinez L.: 8
-Panchinari (Substitutes):
+Panchinari:
 Milinkovic-Savic V.: 6
 Montipo': 6
 Beukema: 6
@@ -185,7 +185,7 @@ Brenner: 0
 Yildiz: 0
 *********
 Team: F,C SHAKA
-Titolari (Starters):
+Titolari:
 Di Gregorio: 0
 Spinazzola: 6.5
 Lazaro: 6
@@ -197,7 +197,7 @@ Strefezza: 6
 Zielinski: 7.5
 Kean: 0
 Colombo: 7.5
-Panchinari (Substitutes):
+Panchinari:
 Perin: 0
 Martinez Jo.: 3.5
 Olivera: 6
