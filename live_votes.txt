@@ -1,215 +1,525 @@
-Team: Loop FC
-Titolari:
-Sommer: 5
-Dimarco: 7.5
-Danilo: 6
-Buongiorno: 0
-Ederson D.s.: 5
-Colpani: 10
-Cristante: 12
-Suslov: 6
-Zaniolo: 0
-Bonny: 0
-Retegui: 9.5
-Panchinari:
-Vasquez D.: 0
-Di Gennaro: 0
-Gila: 0
-Pavlovic: 0
-Emerson Royal: 0
-Loftus-Cheek: 5.5
-Richardson: 0
-Hermoso: 0
-Krstovic: 8.5
-Politano: 10
-Luvumbo: 6
-*********
-Team: CABJ Xeneizes
-Titolari:
-Okoye: 0
-Tavares N.: 0
-Coco: 6
-Giannetti L.: 0
-Pavard: 0
-Ndoye: 6
-Barella: 6.5
-Vlasic: 6
-Mkhitaryan: 15.5
-Lookman: 10
-Morata: 0
-Panchinari:
-Suzuki: 0
-Gollini: 0
-Marin R.: 0
-Maripan: 6
-N'Dicka: 0
-Tchatchoua: 6
-Gilmour: 0
-Tchaouna: 0
-Kone' M.: 0
-Belotti: 9
-Piccoli: 6
-*********
-Team: PS Marlia United
-Titolari:
-De Gea: 0
-Bijol: 6.5
-Rrahmani: 0
-Bastoni: 6
-Hien: 0
-Man: 0
-Paz N.: 0
-Orsolini: 6
-Dybala: 12.0
-Lukaku: 10
-Castellanos: 6
-Panchinari:
-Svilar: 0
-Terracciano: 3.5
-Coulibaly W.: 0
-Cabal: 0
-Kossounou: 0
-Brescianini: 6.5
-De Roon: 8.5
-Messias: 0
-Thauvin: 5.0
 *********
 Team: Fc Galaxy
 Titolari:
 Carnesecchi: 3
-Kyriakopoulos: 0
-Cambiaso: 5.0
-Zappacosta: 6
-Pellegrini Lo.: 0
-Frattesi: 9.5
-Pasalic: 5.5
-Fazzini: 5
-Chukwueze: 5
-Pohjanpalo: 6
-Kvaratskhelia: 5.5
-Panchinari:
-Rui Patricio: 7.5
-Scuffet: 0
-Dodo': 6
-Valeri: 0
-Mina: 0
-Martin: 5.5
-Dorgu: 6
-Oristanio: 6
-Fabbian: 6
-Adams C.: 6
-Vlahovic: 13.5
-Cutrone: 0
+*********
+*********
 *********
 Team: A.C. Looters
 Titolari:
-Meret: 3.5
-Angelino: 0
-Vojvoda: 6
 Kolasinac: 5
-Guendouzi: 6
-Zambo Anguissa: 5
-Ricci S.: 6
-Pulisic: 5
-Dia: 0
-De Ketelaere: 5.5
-Neres: 0
-Panchinari:
-Caprile: 0
-Skorupski: 6
-Posch: 6
-Sabelli: 6
-Fofana Y.: 0
-Freuler: 6
-Djuric: 0
-Soule': 8
-Bremer: 5.5
-Carlos Augusto: 6.5
-Sosa B.: 6
-Calhanoglu: 8.5
-Ilic: 6
+*********
+Team: Fc Galaxy
+Titolari:
+Zappacosta: 6
 *********
 Team: Real Barbarian
 Titolari:
-Maignan: 1
-Ehizibue: 0
 Ruggeri: 5.5
-Di Lorenzo: 6
-Tomori: 0
-Bernabe': 0
-Thuram K.: 0
-Conceicao: 0
-Reijnders: 5
-Dovbyk: 0
-Thuram: 10.5
+*********
+Team: PS Marlia United
 Panchinari:
-Falcone: 6
-Sportiello: 0
-Dumfries: 6.5
+De Roon: 8.5
+*********
+Team: Loop FC
+Titolari:
+Ederson D.s.: 5
+*********
+Team: F,C SHAKA
+Panchinari:
+Koopmeiners: 9.5
+*********
+Team: A.C. Looters
+Titolari:
+De Ketelaere: 5.5
+*********
+Team: CABJ Xeneizes
+Titolari:
+Lookman: 10
+*********
+Team: CA River Nave
+Titolari:
+Zortea: 5.5
+*********
+Team: Fc Galaxy
+Titolari:
+Pasalic: 5.5
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+Team: Loop FC
+Panchinari:
+Luvumbo: 6
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+Team: Fc Galaxy
+Titolari:
+Fazzini: 5
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+Team: F,C SHAKA
+Titolari:
+Baldanzi: 5
+*********
+*********
+Team: PS Marlia United
+Panchinari:
+Terracciano: 3.5
+*********
+Team: Fc Galaxy
+Panchinari:
+Dodo': 6
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+Team: Real Barbarian
+Panchinari:
 Biraghi: 6
-Miranda J.: 6
-Gallo: 5.5
-Lobotka: 5.5
-Vecino: 0
-Adli: 0
-Da Cunha: 0
-Mihaila: 0
-Pinamonti: 13.5
-Mosquera: 6
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+Team: A.C. Looters
+Panchinari:
+Soule': 8
+*********
+*********
+*********
+*********
+*********
+Team: PS Marlia United
+Panchinari:
+Brescianini: 6.5
+*********
+*********
+*********
+*********
+Team: F,C SHAKA
+Panchinari:
+Martinez Jo.: 3.5
+*********
+*********
+*********
+*********
+Team: Fc Galaxy
+Panchinari:
+Martin: 5.5
+*********
+Team: A.C. Looters
+Panchinari:
+Sabelli: 6
+*********
+*********
+*********
+Team: CA River Nave
+Panchinari:
+Frendrup: 6.5
+*********
+*********
+Team: Loop FC
+Titolari:
+Retegui: 9.5
+*********
+*********
+*********
+*********
+*********
+*********
+Team: Loop FC
+Titolari:
+Sommer: 5
+*********
+Team: CA River Nave
+Titolari:
+Darmian: 5.5
+*********
+*********
+Team: PS Marlia United
+Titolari:
+Bastoni: 6
+*********
+Team: Real Barbarian
+Panchinari:
+Dumfries: 6.5
+*********
+Team: CABJ Xeneizes
+Titolari:
+Barella: 6.5
+*********
+Team: A.C. Looters
+Panchinari:
+Calhanoglu: 8.5
+*********
+Team: CABJ Xeneizes
+Titolari:
+Mkhitaryan: 15.5
+*********
+Team: Loop FC
+Titolari:
+Dimarco: 7.5
+*********
+Team: Real Barbarian
+Titolari:
+Thuram: 10.5
+*********
+Team: CA River Nave
+Titolari:
+Martinez L.: 8
+*********
+*********
+Team: Fc Galaxy
+Titolari:
+Frattesi: 9.5
+*********
+*********
+Team: CA River Nave
+Titolari:
+De Vrij: 6
+*********
+Team: A.C. Looters
+Panchinari:
+Carlos Augusto: 6.5
+*********
+*********
+*********
+Team: F,C SHAKA
+Panchinari:
+Gatti: 6.0
+*********
+Team: A.C. Looters
+Panchinari:
+Bremer: 5.5
+*********
+Team: Loop FC
+Titolari:
+Danilo: 6
+*********
+*********
+*********
+Team: F,C SHAKA
+Panchinari:
+Locatelli: 7.5
+*********
+*********
+*********
+Team: Fc Galaxy
+Panchinari:
+Vlahovic: 13.5
+*********
+*********
+*********
+*********
+Team: Fc Galaxy
+Titolari:
+Cambiaso: 5.0
+*********
+*********
+Team: F,C SHAKA
+Titolari:
+Kean: 0
+*********
 *********
 Team: CA River Nave
 Titolari:
 Provedel: 4
-Mancini: 10
-Zortea: 5.5
-Darmian: 5.5
-De Vrij: 6
-Gosens: 0
-Maldini: 0
-Pessina: 6.5
-McTominay: 0
-Lucca: 5.5
-Martinez L.: 8
-Panchinari:
-Milinkovic-Savic V.: 6
-Montipo': 6
-Beukema: 6
-Hummels: 0
-Ferguson: 6
-Frendrup: 6.5
-Lazovic: 6
-Le Fee: 0
-Paredes: 6.5
-Noslin: 0
-Brenner: 0
-Yildiz: 0
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
 *********
 Team: F,C SHAKA
 Titolari:
-Di Gregorio: 0
-Spinazzola: 6.5
-Lazaro: 6
-Bellanova: 0
 Zaccagni: 5.5
-Baldanzi: 5
-Samardzic: 6
-Strefezza: 6
-Zielinski: 7.5
-Kean: 0
-Colombo: 7.5
+*********
+*********
+Team: A.C. Looters
+Titolari:
+Guendouzi: 6
+*********
+*********
+*********
+Team: PS Marlia United
+Titolari:
+Castellanos: 6
+*********
+Team: Real Barbarian
 Panchinari:
-Perin: 0
-Martinez Jo.: 3.5
-Olivera: 6
-Gatti: 6.0
-Holm: 6
-Mazzocchi: 0
+Falcone: 6
+*********
+*********
+*********
+*********
+Team: Real Barbarian
+Panchinari:
+Gallo: 5.5
+*********
+*********
+*********
+*********
+*********
+Team: Loop FC
+Panchinari:
+Krstovic: 8.5
+*********
+*********
+*********
+Team: Fc Galaxy
+Panchinari:
+Dorgu: 6
+*********
+*********
+Team: F,C SHAKA
+Titolari:
+Strefezza: 6
+*********
+*********
+Team: CABJ Xeneizes
+Panchinari:
+Piccoli: 6
+*********
+*********
+Team: Real Barbarian
+Titolari:
+Maignan: 1
+*********
+*********
+*********
+*********
+Team: F,C SHAKA
+Panchinari:
 Hernandez T.: 4.5
-Koopmeiners: 9.5
-Locatelli: 7.5
-Zurkowski: 0
-Leao: 0
-Mbangula: 0
-Vitinha O.: 0
+*********
+Team: Loop FC
+Panchinari:
+Loftus-Cheek: 5.5
+*********
+*********
+Team: Real Barbarian
+Titolari:
+Reijnders: 5
+*********
+Team: A.C. Looters
+Titolari:
+Pulisic: 5
+*********
+*********
+*********
+*********
+*********
+*********
+Team: Fc Galaxy
+Titolari:
+Chukwueze: 5
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+Team: CA River Nave
+Titolari:
+Pessina: 6.5
+*********
+*********
+Team: Loop FC
+Titolari:
+Colpani: 10
+*********
+*********
+Team: F,C SHAKA
+Titolari:
+Colombo: 7.5
+*********
+*********
+*********
+Team: Fc Galaxy
+Titolari:
+Kyriakopoulos: 0
+*********
+*********
+*********
+*********
+*********
+Team: A.C. Looters
+Titolari:
+Meret: 3.5
+*********
+Team: Real Barbarian
+Titolari:
+Di Lorenzo: 6
+*********
+*********
+*********
+*********
+Team: A.C. Looters
+Titolari:
+Zambo Anguissa: 5
+*********
+Team: Real Barbarian
+Panchinari:
+Lobotka: 5.5
+*********
+Team: F,C SHAKA
+Titolari:
+Zielinski: 7.5
+*********
+*********
+*********
+Team: Fc Galaxy
+Titolari:
+Kvaratskhelia: 5.5
+*********
+Team: F,C SHAKA
+Panchinari:
+Olivera: 6
+*********
+*********
+Team: Loop FC
+Panchinari:
+Politano: 10
+*********
+*********
+*********
+Team: Fc Galaxy
+Panchinari:
+Rui Patricio: 7.5
+*********
+Team: CA River Nave
+Titolari:
+Mancini: 10
+*********
+*********
+*********
+*********
+Team: Loop FC
+Titolari:
+Cristante: 12
+*********
+Team: CA River Nave
+Panchinari:
+Paredes: 6.5
+*********
+*********
+Team: F,C SHAKA
+Titolari:
+Spinazzola: 6.5
+*********
+Team: PS Marlia United
+Titolari:
+Dybala: 12.0
+*********
+Team: PS Marlia United
+Titolari:
+Lukaku: 10
+*********
+*********
+Team: CABJ Xeneizes
+Panchinari:
+Belotti: 9
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+Team: Real Barbarian
+Panchinari:
+Pinamonti: 13.5
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+*********
+Team: PS Marlia United
+Titolari:
+Bijol: 6.5
+*********
+*********
+*********
+Team: F,C SHAKA
+Titolari:
+Samardzic: 6
+*********
+*********
+*********
+*********
+Team: CA River Nave
+Titolari:
+Lucca: 5.5
+*********
+Team: PS Marlia United
+Panchinari:
+Thauvin: 5.0
+*********
+*********
+*********
+*********
+*********
+*********
 *********
 
