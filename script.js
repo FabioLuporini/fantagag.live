@@ -2,7 +2,7 @@
 const immaginiSquadre = {
     "A.C. Looters": "a.c._looters.png",
     "CA River Nave": "ca_river_nave.png",
-    "CABJ Xeneizes": "cabj_xeneizes.png",
+    "Fc Amaca Boys": "fc_amaca_boys.png",
     "F,C SHAKA": "f,c_shaka.png",
     "Fc Galaxy": "fc_galaxy.png",
     "Loop FC": "loop_fc.png",
