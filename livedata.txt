@@ -1,1 +1,1 @@
-[('Fc Amaca Boys', 81.0, '4-5-1'), ('Real Barbarian', 74.0, '5-3-2'), ('F,C SHAKA', 70.5, '3-4-3'), ('Fc Galaxy', 70.5, '5-3-2'), ('A.C. Looters', 68.5, '5-4-1'), ('CA River Nave', 67.5, '4-3-3'), ('PS Marlia United', 66.0, '4-3-3'), ('Loop FC', 65.0, '4-4-2')]
+[('Fc Amaca Boys', 81.0, '4-5-1'), ('Real Barbarian', 74.5, '5-3-2'), ('F,C SHAKA', 70.5, '3-4-3'), ('Fc Galaxy', 70.0, '5-3-2'), ('A.C. Looters', 68.0, '5-4-1'), ('CA River Nave', 67.5, '4-3-3'), ('PS Marlia United', 65.5, '4-3-3'), ('Loop FC', 63.5, '4-4-2')]
