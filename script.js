@@ -9,6 +9,10 @@ const immaginiSquadre = {
     "Real Barbarian": "real_barbarian.png"
 };
 
+const STORAGE_CLASSIFICA = "fantagagClassifica";
+const STORAGE_MOVIMENTI = "fantagagMovimenti";
+const DURATA_SORPASSO = 1500;
+
 function associaImmagini() {
     const righe = document.querySelectorAll(".team-row");
 
@@ -19,8 +23,11 @@ function associaImmagini() {
         if (!immagine) return;
 
         const logoCell = riga.querySelector(".logo-cell");
-        const img = document.createElement("img");
+        if (!logoCell) return;
 
+        if (logoCell.querySelector(".team-logo")) return;
+
+        const img = document.createElement("img");
         img.src = `immagini/${immagine}`;
         img.alt = nomeSquadra;
         img.className = "team-logo";
@@ -29,42 +36,74 @@ function associaImmagini() {
     });
 }
 
-function leggiClassificaPrecedente() {
+function leggiStorage(chiave, valoreDefault = null) {
     try {
-        const salvata = localStorage.getItem("fantagagClassifica");
-        return salvata ? JSON.parse(salvata) : null;
+        const salvato = localStorage.getItem(chiave);
+        return salvato ? JSON.parse(salvato) : valoreDefault;
     } catch (errore) {
-        console.log("Impossibile leggere la classifica precedente", errore);
-        return null;
+        console.log(`Impossibile leggere ${chiave}`, errore);
+        return valoreDefault;
     }
 }
 
-function salvaClassificaCorrente(righe) {
+function salvaStorage(chiave, valore) {
+    try {
+        localStorage.setItem(chiave, JSON.stringify(valore));
+    } catch (errore) {
+        console.log(`Impossibile salvare ${chiave}`, errore);
+    }
+}
+
+function creaClassificaCorrente(righe) {
     const classifica = {};
 
     righe.forEach((riga, indice) => {
         classifica[riga.dataset.team.trim()] = indice + 1;
     });
 
-    localStorage.setItem("fantagagClassifica", JSON.stringify(classifica));
+    return classifica;
+}
+
+function mostraMovimenti(righe, movimenti) {
+    righe.forEach(riga => {
+        const squadra = riga.dataset.team.trim();
+        const movement = riga.querySelector(".movement");
+
+        if (!movement) return;
+
+        movement.textContent = "";
+        movement.classList.remove("up", "down");
+
+        const differenza = movimenti[squadra];
+
+        if (!differenza) return;
+
+        if (differenza > 0) {
+            movement.textContent = `▲ +${differenza}`;
+            movement.classList.add("up");
+        } else {
+            movement.textContent = `▼ ${differenza}`;
+            movement.classList.add("down");
+        }
+    });
 }
 
 function animaSorpassi() {
     const righe = Array.from(document.querySelectorAll(".team-row"));
     if (!righe.length) return;
 
-    const precedente = leggiClassificaPrecedente();
+    const precedente = leggiStorage(STORAGE_CLASSIFICA, null);
+    const movimentiPrecedenti = leggiStorage(STORAGE_MOVIMENTI, {});
+    const corrente = creaClassificaCorrente(righe);
 
+    // Prima visita: salva la classifica senza animazione.
     if (!precedente) {
-        salvaClassificaCorrente(righe);
+        salvaStorage(STORAGE_CLASSIFICA, corrente);
+        salvaStorage(STORAGE_MOVIMENTI, {});
         return;
     }
 
-    const posizioneTop = {};
-    righe.forEach((riga, indice) => {
-        posizioneTop[indice + 1] = riga.getBoundingClientRect().top;
-    });
-
+    const nuoviMovimenti = {};
     let esisteCambio = false;
 
     righe.forEach((riga, indice) => {
@@ -75,61 +114,105 @@ function animaSorpassi() {
         if (!vecchiaPosizione) return;
 
         const differenza = vecchiaPosizione - nuovaPosizione;
-        if (differenza === 0) return;
 
-        esisteCambio = true;
+        if (differenza !== 0) {
+            esisteCambio = true;
+            nuoviMovimenti[squadra] = differenza;
+        }
+    });
 
-        const movement = riga.querySelector(".movement");
+    // Nessun nuovo cambio:
+    // mantiene ▲/▼ dell'ultimo sorpasso senza rifare l'animazione.
+    if (!esisteCambio) {
+        mostraMovimenti(righe, movimentiPrecedenti);
+        return;
+    }
+
+    mostraMovimenti(righe, nuoviMovimenti);
+
+    const posizioneTop = {};
+
+    righe.forEach((riga, indice) => {
+        posizioneTop[indice + 1] =
+            riga.getBoundingClientRect().top;
+    });
+
+    righe.forEach((riga, indice) => {
+        const squadra = riga.dataset.team.trim();
+        const nuovaPosizione = indice + 1;
+        const vecchiaPosizione = precedente[squadra];
+        const differenza = nuoviMovimenti[squadra];
+
+        if (!vecchiaPosizione || !differenza) return;
 
         if (differenza > 0) {
-            movement.textContent = `▲ +${differenza}`;
-            movement.classList.add("up");
             riga.classList.add("position-up");
         } else {
-            movement.textContent = `▼ ${differenza}`;
-            movement.classList.add("down");
             riga.classList.add("position-down");
         }
 
-        const posizioneVecchiaTop = posizioneTop[vecchiaPosizione];
-        const posizioneNuovaTop = riga.getBoundingClientRect().top;
+        const posizioneVecchiaTop =
+            posizioneTop[vecchiaPosizione];
+
+        const posizioneNuovaTop =
+            riga.getBoundingClientRect().top;
 
         if (posizioneVecchiaTop === undefined) return;
 
-        const distanza = posizioneVecchiaTop - posizioneNuovaTop;
+        const distanza =
+            posizioneVecchiaTop - posizioneNuovaTop;
 
         riga.style.transition = "none";
-        riga.style.transform = `translateY(${distanza}px)`;
+        riga.style.transform =
+            `translateY(${distanza}px)`;
+
+        riga.style.zIndex = "5";
     });
 
     document.body.offsetHeight;
 
     requestAnimationFrame(() => {
         righe.forEach(riga => {
+
             if (
                 !riga.classList.contains("position-up") &&
                 !riga.classList.contains("position-down")
             ) return;
 
-            riga.style.transition = "transform 850ms cubic-bezier(.2,.8,.2,1)";
+            // Animazione stile sorpasso Formula 1
+            riga.style.transition =
+                `transform ${DURATA_SORPASSO}ms cubic-bezier(.16, 1, .3, 1)`;
+
             riga.style.transform = "translateY(0)";
         });
     });
 
-    if (esisteCambio) {
-        setTimeout(() => {
-            righe.forEach(riga => {
-                if (riga.classList.contains("position-up")) {
-                    riga.classList.add("arrived-up");
-                }
-                if (riga.classList.contains("position-down")) {
-                    riga.classList.add("arrived-down");
-                }
-            });
-        }, 850);
-    }
+    setTimeout(() => {
 
-    salvaClassificaCorrente(righe);
+        righe.forEach(riga => {
+
+            if (riga.classList.contains("position-up")) {
+                riga.classList.add("arrived-up");
+            }
+
+            if (riga.classList.contains("position-down")) {
+                riga.classList.add("arrived-down");
+            }
+
+            riga.style.zIndex = "";
+        });
+
+    }, DURATA_SORPASSO);
+
+    salvaStorage(
+        STORAGE_CLASSIFICA,
+        corrente
+    );
+
+    salvaStorage(
+        STORAGE_MOVIMENTI,
+        nuoviMovimenti
+    );
 }
 
 document.addEventListener("DOMContentLoaded", () => {
