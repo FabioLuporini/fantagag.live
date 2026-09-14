@@ -191,9 +191,9 @@ body {
     overflow: hidden;
     box-shadow: 0 3px 8px rgba(0, 0, 0, 0.035);
     transition:
-        transform 1500ms cubic-bezier(.16, 1, .3, 1),
-        box-shadow 1500ms ease,
-        background-color 1500ms ease;
+        transform 2200ms cubic-bezier(.16, 1, .3, 1),
+        box-shadow 2200ms ease,
+        background-color 2200ms ease;
 }
 
 .team-row::before {
@@ -463,3 +463,566 @@ body {
     .module { font-size: 13px; }
     .points { font-size: 17px; }
 }
+
+/* Composizione FantaGAG: tipografia, illustrazione e accenti verdi. */
+.main-header {
+    min-height: 246px;
+    padding: 28px 30px 22px;
+    display: flex;
+    align-items: center;
+    background: #f4f7f3;
+    border: 0;
+}
+.main-header::after { display: none; }
+.brand { width: 59%; gap: 20px; align-items: center; }
+.fantagag-logo { width: 92px; height: 92px; flex-shrink: 0; }
+.brand-text { min-width: 0; }
+.start-lights {
+    padding: 0; gap: 8px; border: 0; background: none;
+    box-shadow: none; border-radius: 0; margin-bottom: 14px;
+}
+.start-light {
+    width: 9px; height: 9px; background: #4d9a65;
+    box-shadow: none; animation-name: gentleLights; animation-duration: 5s;
+}
+@keyframes gentleLights { 0%, 35%, 100% { opacity: .5; } 18% { opacity: 1; } }
+.brand-title {
+    margin: 0; font-size: 37px; line-height: 1;
+    letter-spacing: 1px; color: #193c2b;
+}
+.brand-claim {
+    margin-top: 13px; font-size: 26px; font-weight: 700;
+    line-height: 1.15; color: #3d654d;
+}
+.brand-season {
+    display: inline-block; margin-top: 16px; padding: 5px 9px;
+    border-radius: 4px; background: #e5ede4;
+    font-size: 10px; letter-spacing: 1.7px; color: #526d59;
+}
+.header-illustration {
+    position: absolute; width: 48%; height: 86%; right: 10px; bottom: 7%;
+    object-fit: contain; object-position: right center; mix-blend-mode: multiply;
+}
+.live-bar {
+    min-height: 49px; padding: 0 30px 12px;
+    background: #f4f7f3; border: 0; box-shadow: none;
+}
+.live-status { font-size: 18px; }
+.update-time { font-size: 12px; border-left-color: #d5dfd3; }
+.standings { padding-top: 14px; background: linear-gradient(#f4f7f3, #fff 130px); }
+.footer-text { letter-spacing: 1px; font-size: 12px; }
+@media screen and (max-width: 600px) {
+    .main-header { min-height: 330px; padding: 22px 18px 0; align-items: flex-start; }
+    .brand { width: 100%; gap: 16px; align-items: center; }
+    .fantagag-logo { width: 68px; height: 68px; }
+    .start-lights { margin-bottom: 10px; gap: 7px; }
+    .start-light { width: 8px; height: 8px; }
+    .brand-title { font-size: 31px; }
+    .brand-claim { margin-top: 9px; font-size: 23px; }
+    .brand-season { margin-top: 11px; font-size: 9px; letter-spacing: 1.3px; }
+    .header-illustration { width: 92%; height: 153px; right: 12px; bottom: 3px; object-position: right bottom; }
+    .live-bar { min-height: 43px; padding: 0 14px 10px; }
+    .live-status { font-size: 16px; }
+    .update-time { font-size: 10px; }
+    .standings { padding-top: 10px; }
+}
+@media screen and (max-width: 370px) {
+    .main-header { padding-left: 14px; padding-right: 14px; }
+    .brand { gap: 12px; }
+    .fantagag-logo { width: 56px; height: 56px; }
+    .brand-title { font-size: 28px; }
+    .brand-claim { font-size: 21px; }
+}
+
+/* Rifiniture e separatori della barra di aggiornamento. */
+.main-header { padding-top: 30px; padding-bottom: 26px; }
+.brand-title { letter-spacing: 1.5px; }
+.brand-claim { margin-top: 15px; color: #315c43; }
+.brand-season { border: 1px solid #d9e4d8; }
+.header-illustration { width: 47%; right: 14px; }
+.live-bar {
+    border-top: 1px solid #cad8cc;
+    border-bottom: 1px solid #cad8cc;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background: #f9fbf8;
+}
+.standings { padding-top: 18px; }
+@media screen and (max-width: 600px) {
+    .main-header { padding-top: 22px; padding-bottom: 0; }
+    .brand-claim { margin-top: 9px; }
+    .header-illustration { width: 92%; right: 12px; }
+    .live-bar { padding-top: 10px; padding-bottom: 10px; }
+    .standings { padding-top: 12px; }
+}
+
+/* Riduzione dello spazio prima della barra di aggiornamento. */
+.main-header { min-height: 218px; padding-top: 22px; padding-bottom: 16px; }
+@media screen and (max-width: 600px) {
+ .main-header { min-height: 310px; padding-top: 18px; padding-bottom: 0; }
+ .header-illustration { height: 140px; bottom: 0; }
+}
+
+/* Claim in un riquadro coordinato con l'header. */
+.brand-claim {
+    display: inline-block;
+    max-width: 100%;
+    padding: 9px 12px;
+    background: #e5ede4;
+    border: 1px solid #cbdcca;
+    border-radius: 6px;
+    font-weight: 700;
+    line-height: 1.2;
+}
+.brand-season { display: table; }
+@media screen and (max-width: 600px) {
+    .brand-claim { padding: 7px 10px; font-size: 21px; }
+    .main-header { min-height: 324px; }
+}
+@media screen and (max-width: 370px) {
+    .brand-claim { font-size: 19px; padding: 7px 8px; }
+}
+
+/* Claim più piccolo, stagione più leggibile e semafori originali. */
+.start-lights {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 7px 10px;
+    border: 1px solid #34483b;
+    border-radius: 8px;
+    background: linear-gradient(180deg, #25352c, #14201a);
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.12);
+}
+.start-light {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background: radial-gradient(circle at 35% 30%, #a0ffb5, #23d34f 55%, #139639);
+    box-shadow: 0 0 5px rgba(35, 211, 79, 0.25);
+    animation: startLightPulse 4s ease-in-out infinite;
+}
+.start-light:nth-child(2) { animation-delay: 180ms; }
+.start-light:nth-child(3) { animation-delay: 360ms; }
+.start-light:nth-child(4) { animation-delay: 540ms; }
+.start-light:nth-child(5) { animation-delay: 720ms; }
+@keyframes startLightPulse {
+    0%, 30%, 100% { opacity: 0.72; }
+    15% { opacity: 1; box-shadow: 0 0 9px rgba(35, 211, 79, 0.55); }
+}
+.start-lights { margin-bottom: 10px; }
+.brand-claim { font-size: 22px; padding: 8px 11px; }
+.brand-season { font-size: 13px; font-weight: 700; letter-spacing: 1.6px; padding: 6px 10px; }
+@media screen and (max-width: 600px) {
+    .brand-claim { font-size: 19px; padding: 7px 9px; }
+    .brand-season { font-size: 12px; letter-spacing: 1px; }
+    .start-lights { gap: 6px; padding: 5px 8px; border-radius: 6px; }
+    .start-light { width: 11px; height: 11px; }
+}
+@media screen and (max-width: 370px) {
+    .brand-claim { font-size: 18px; }
+    .brand-season { font-size: 11px; }
+}
+@media (prefers-reduced-motion: reduce) {
+    .start-light { animation: none; }
+}
+
+/* Anche su telefono l'illustrazione resta accanto ai testi. */
+@media screen and (max-width: 600px) {
+    .main-header {
+        min-height: 188px;
+        padding: 16px 12px;
+        display: flex;
+        align-items: center;
+    }
+    .brand { width: 65%; gap: 8px; align-items: center; }
+    .fantagag-logo { width: 42px; height: 42px; }
+    .brand-title { font-size: 24px; letter-spacing: .5px; }
+    .brand-claim { font-size: 16px; padding: 6px 7px; margin-top: 9px; }
+    .brand-season { font-size: 10px; letter-spacing: .5px; padding: 5px 6px; margin-top: 9px; }
+    .start-lights { gap: 5px; padding: 5px 7px; margin-bottom: 9px; }
+    .start-light { width: 9px; height: 9px; }
+    .header-illustration {
+        width: 35%; height: 80%; right: 4px; bottom: 10%;
+        object-fit: contain; object-position: right center;
+    }
+}
+@media screen and (max-width: 370px) {
+    .brand { gap: 6px; width: 66%; }
+    .fantagag-logo { width: 34px; height: 34px; }
+    .brand-title { font-size: 22px; }
+    .brand-claim { font-size: 15px; padding: 5px 6px; }
+    .brand-season { font-size: 9px; }
+    .header-illustration { width: 34%; }
+}
+
+/* Logo originale, senza illustrazione aggiuntiva; footer coordinato. */
+.brand { width: 100%; }
+.footer-text {
+    display: inline-block;
+    margin-top: 12px;
+    padding: 8px 11px;
+    background: #e5ede4;
+    border: 1px solid #cbdcca;
+    border-radius: 6px;
+    color: #315c43;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: .5px;
+}
+@media screen and (max-width: 600px) {
+    .brand { width: 100%; }
+    .footer-text { font-size: 12px; padding: 7px 9px; }
+}
+
+/* Motivo diagonale originale sul lato destro. */
+.main-header::after {
+    content: "";
+    display: block;
+    pointer-events: none;
+    position: absolute;
+    right: -50px;
+    top: -100px;
+    width: 190px;
+    height: 300px;
+    background: linear-gradient(
+        135deg,
+        transparent 0 35%,
+        rgba(61, 101, 77, 0.07) 35% 42%,
+        transparent 42% 49%,
+        rgba(61, 101, 77, 0.04) 49% 56%,
+        transparent 56%
+    );
+    transform: rotate(5deg);
+}
+
+/* Claim centrale tipografico e diagonali coordinate alla classifica. */
+.main-header { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 24px; }
+.brand { width: 100%; }
+.header-claim {
+    position: relative; z-index: 2; justify-self: center;
+    margin: 0; padding: 0; border: 0; border-radius: 0; background: none;
+    text-align: center; color: #244b34;
+    font-family: 'Arial Black', Arial, sans-serif;
+    font-style: italic; transform: rotate(-3deg);
+}
+.header-claim strong { display: block; font-size: 34px; font-weight: 900; letter-spacing: -1.5px; line-height: 1.05; }
+.header-claim span { display: block; margin-top: 7px; font-size: 22px; font-weight: 700; letter-spacing: -.5px; }
+.main-header::after {
+    display: block; content: ''; position: absolute; inset: 0;
+    width: auto; height: auto; transform: none; pointer-events: none;
+    background: linear-gradient(110deg, transparent 0%, transparent 77%, #e7eee8 77%, #f0f5f1 100%);
+}
+@media screen and (max-width: 600px) {
+    .main-header { display: grid; min-height: 166px; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: 10px; }
+    .header-claim { padding: 0; margin: 0; }
+    .header-claim strong { font-size: 23px; letter-spacing: -1px; }
+    .header-claim span { font-size: 16px; margin-top: 5px; }
+    .brand-season { font-size: 9px; letter-spacing: 0; }
+}
+@media screen and (max-width: 370px) {
+    .main-header { gap: 6px; }
+    .header-claim strong { font-size: 20px; }
+    .header-claim span { font-size: 14px; }
+    .brand-title { font-size: 20px; }
+    .brand-season { font-size: 8px; padding: 5px 4px; }
+}
+
+/* Vista compatta sui telefoni in verticale: otto squadre e footer. */
+@media screen and (max-width: 600px) and (orientation: portrait) {
+    .page {
+        min-height: 640px;
+        min-height: max(640px, 100svh);
+        height: 100vh;
+        height: 100svh;
+        display: flex;
+        flex-direction: column;
+    }
+    .main-header {
+        flex: 0 0 auto;
+        min-height: 128px;
+        padding: 12px;
+    }
+    .brand-title { font-size: 22px; }
+    .brand-season { margin-top: 7px; }
+    .start-lights { margin-bottom: 7px; }
+    .live-bar {
+        flex: 0 0 auto;
+        min-height: 38px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+    }
+    .standings {
+        flex: 1 0 auto;
+        min-height: 408px;
+        display: flex;
+        flex-direction: column;
+        padding: 8px 7px;
+    }
+    .standings-header { flex: 0 0 auto; padding-bottom: 6px; }
+    .team-row {
+        flex: 1 0 43px;
+        min-height: 43px;
+        margin-bottom: 4px;
+    }
+    .team-row:last-child { margin-bottom: 0; }
+    .position-number { font-size: 22px; }
+    .movement { min-height: 12px; margin-top: 2px; font-size: 9px; }
+    .team-logo { width: 34px; height: 34px; }
+    .footer { flex: 0 0 auto; padding: 5px 14px 10px; }
+    .finish-line { height: 3px; }
+    .footer-text { margin-top: 7px; padding: 6px 9px; }
+}
+
+/* Stagione sotto il claim. */
+.header-claim .brand-season {
+    display: table;
+    margin: 12px auto 0;
+    font-family: "Open Sans Condensed", Arial, sans-serif;
+    font-style: normal;
+    line-height: 1.2;
+}
+@media screen and (max-width: 600px) {
+    .header-claim .brand-season { margin-top: 9px; }
+}
+
+/* Logo più presente, senza deformazioni. */
+.fantagag-logo { width: 112px; height: 112px; object-fit: contain; flex-shrink: 0; }
+.brand { gap: 18px; }
+@media screen and (max-width: 600px) {
+    .fantagag-logo { width: 64px; height: 64px; }
+    .brand { gap: 8px; }
+    .main-header { grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); }
+    .brand-title { font-size: 22px; letter-spacing: 0; }
+}
+@media screen and (max-width: 370px) {
+    .fantagag-logo { width: 54px; height: 54px; }
+    .brand { gap: 6px; }
+    .brand-title { font-size: 19px; }
+}
+
+/* Semaforo: rosso iniziale, verde sequenziale, reset simultaneo. */
+.start-light {
+    background: #d83c3c;
+    opacity: 1;
+    box-shadow: 0 0 5px rgba(216, 60, 60, .25);
+    animation: signalOne 8s steps(1, end) infinite;
+}
+.start-light:nth-child(1) { animation-name: signalOne; animation-delay: 0s; }
+.start-light:nth-child(2) { animation-name: signalTwo; animation-delay: 0s; }
+.start-light:nth-child(3) { animation-name: signalThree; animation-delay: 0s; }
+.start-light:nth-child(4) { animation-name: signalFour; animation-delay: 0s; }
+.start-light:nth-child(5) { animation-name: signalFive; animation-delay: 0s; }
+@keyframes signalOne {
+    0%, 90%, 100% { background: #d83c3c; box-shadow: 0 0 5px rgba(216, 60, 60, .25); opacity: 1; }
+    20% { background: #23d34f; box-shadow: 0 0 6px rgba(35, 211, 79, .35); opacity: 1; }
+}
+@keyframes signalTwo {
+    0%, 90%, 100% { background: #d83c3c; box-shadow: 0 0 5px rgba(216, 60, 60, .25); opacity: 1; }
+    30% { background: #23d34f; box-shadow: 0 0 6px rgba(35, 211, 79, .35); opacity: 1; }
+}
+@keyframes signalThree {
+    0%, 90%, 100% { background: #d83c3c; box-shadow: 0 0 5px rgba(216, 60, 60, .25); opacity: 1; }
+    40% { background: #23d34f; box-shadow: 0 0 6px rgba(35, 211, 79, .35); opacity: 1; }
+}
+@keyframes signalFour {
+    0%, 90%, 100% { background: #d83c3c; box-shadow: 0 0 5px rgba(216, 60, 60, .25); opacity: 1; }
+    50% { background: #23d34f; box-shadow: 0 0 6px rgba(35, 211, 79, .35); opacity: 1; }
+}
+@keyframes signalFive {
+    0%, 90%, 100% { background: #d83c3c; box-shadow: 0 0 5px rgba(216, 60, 60, .25); opacity: 1; }
+    60% { background: #23d34f; box-shadow: 0 0 6px rgba(35, 211, 79, .35); opacity: 1; }
+}
+@media (prefers-reduced-motion: reduce) {
+    .start-light { animation: none; background: #23d34f; box-shadow: none; }
+}
+
+/* Blocco claim e stagione leggermente più grande. */
+.header-claim strong { font-size: 38px; }
+.header-claim span { font-size: 25px; }
+.header-claim .brand-season { font-size: 14px; padding: 7px 11px; }
+@media screen and (max-width: 600px) {
+    .header-claim strong { font-size: 26px; }
+    .header-claim span { font-size: 18px; }
+    .header-claim .brand-season { font-size: 10px; padding: 6px; letter-spacing: .2px; }
+}
+@media screen and (max-width: 370px) {
+    .header-claim strong { font-size: 22px; }
+    .header-claim span { font-size: 16px; }
+    .header-claim .brand-season { font-size: 9px; padding: 5px; }
+}
+
+/* Dimensione finale del logo. */
+.fantagag-logo { width: 122px; height: 122px; }
+@media screen and (max-width: 600px) {
+    .fantagag-logo { width: 70px; height: 70px; }
+    .brand { gap: 6px; }
+}
+@media screen and (max-width: 370px) {
+    .fantagag-logo { width: 59px; height: 59px; }
+    .brand { gap: 5px; }
+}
+
+
+.team-row.skidding { overflow: visible; }
+.skid-effect { position:absolute; left:4px; top:50%; width:100px; height:36px; transform:translateY(-50%); pointer-events:none; z-index:12; }
+.skid-effect::before {
+ content:''; position:absolute; right:75%; top:7px; width:64px; height:20px;
+ background:repeating-linear-gradient(100deg, transparent 0 5px, rgba(32,42,36,.3) 5px 9px);
+ clip-path:polygon(0 0,100% 0,100% 22%,0 22%,0 78%,100% 78%,100% 100%,0 100%);
+ transform-origin:right center; animation:tireTrace 1000ms ease-out both;
+}
+.skid-effect i { position:absolute; left:0; top:5px; width:22px; height:22px; border-radius:50%; background:radial-gradient(circle,rgba(178,190,179,.7),rgba(225,232,225,.35) 55%,transparent 72%); animation:tireSmoke 850ms ease-out both; }
+.skid-effect i:nth-child(2) { top:16px; animation-delay:100ms; }
+.skid-effect i:nth-child(3) { top:-3px; animation-delay:190ms; }
+@keyframes tireTrace {0%{opacity:0;transform:scaleX(.1)}20%{opacity:.65}70%{opacity:.3}100%{opacity:0;transform:scaleX(1.3)}}
+@keyframes tireSmoke {0%{opacity:0;transform:translateX(0) scale(.4)}20%{opacity:.8}100%{opacity:0;transform:translate(-40px,-8px) scale(2.3)}}
+@media(prefers-reduced-motion:reduce){.skid-effect{display:none}}
+
+
+/* Scia e fumo sotto la squadra in sorpasso. */
+.skid-effect {
+    left: 18%; top: auto; bottom: -7px;
+    width: 62%; height: 18px; transform: none;
+}
+.skid-effect::before {
+    left: 8%; right: auto; top: 3px; width: 76%; height: 9px;
+    transform-origin: center;
+    animation: tireTraceBelow 1200ms ease-out both;
+}
+.skid-effect i {
+    left: 15%; top: -5px; width: 52px; height: 28px;
+    background: radial-gradient(ellipse, rgba(150,164,153,.62), rgba(205,214,207,.45) 45%, transparent 73%);
+    animation: tireSmokeBelow 1100ms ease-out both;
+}
+.skid-effect i:nth-child(2) { left: 43%; top: -2px; animation-delay: 90ms; }
+.skid-effect i:nth-child(3) { left: 70%; top: -6px; animation-delay: 160ms; }
+@keyframes tireTraceBelow {
+    0% { opacity: 0; transform: scaleX(.35); }
+    20% { opacity: .5; }
+    100% { opacity: 0; transform: scaleX(1.05); }
+}
+@keyframes tireSmokeBelow {
+    0% { opacity: 0; transform: translateY(0) scale(.45); }
+    20% { opacity: .85; }
+    60% { opacity: .5; }
+    100% { opacity: 0; transform: translate(-15px, 14px) scale(1.9); }
+}
+
+
+/* Solo fumo, più denso e diffuso sotto la riga. */
+.skid-effect::before { display: none; }
+.skid-effect { bottom: -9px; }
+.skid-effect i {
+    width: 76px; height: 38px; top: -8px;
+    background: radial-gradient(ellipse, rgba(130,145,135,.85) 0%, rgba(177,189,180,.72) 32%, rgba(210,218,212,.48) 54%, transparent 75%);
+    animation-name: smokeCloud;
+    animation-duration: 1150ms;
+}
+.skid-effect i:nth-child(2) { top: -5px; }
+.skid-effect i:nth-child(3) { top: -9px; }
+@keyframes smokeCloud {
+    0% { opacity: 0; transform: translateY(0) scale(.5); }
+    18% { opacity: 1; }
+    48% { opacity: .85; }
+    100% { opacity: 0; transform: translate(-10px, 20px) scale(2.1); }
+}
+
+@media(max-width:600px){.live-bar{flex-wrap:wrap;gap:6px}.live-bar button{font-size:11px!important}}
+.driver-portrait{width:54px;height:65px;object-fit:contain;transform-origin:center bottom;animation:driverBreath 4s ease-in-out infinite}@keyframes driverBreath{0%,100%{transform:translateY(0) rotate(-.5deg)}50%{transform:translateY(-1px) rotate(.5deg)}}@media(max-width:600px){.driver-portrait{width:38px;height:42px}}@media(prefers-reduced-motion:reduce){.driver-portrait{animation:none}}
+.driver-portrait{animation:none!important;transform:none!important}
+
+/* Ritratti più leggibili, con spazio dedicato. */
+.standings-header,.team-row { grid-template-columns:65px 96px minmax(0,1fr) 80px 95px; }
+.team-row { min-height:94px; }
+.driver-portrait { width:86px; height:90px; object-fit:contain; animation:none!important; transform:none!important; }
+@media screen and (max-width:600px) {
+ .standings-header,.team-row { grid-template-columns:36px 70px minmax(0,1fr) 43px 53px; }
+ .driver-portrait { width:66px; height:78px; }
+ .team-row { min-height:82px; flex-basis:82px; }
+ .team-name { font-size:14px; padding:0 3px; }
+ .page { height:auto; }
+ .standings { flex:0 0 auto; }
+}
+
+
+/* Ripristino vista completa sui telefoni in verticale. */
+@media screen and (max-width:600px) and (orientation:portrait) {
+ .page { height:100vh; height:100svh; min-height:640px; min-height:max(640px,100svh); }
+ .standings { flex:1 0 auto; min-height:408px; }
+ .team-row { flex:1 0 43px; min-height:43px; }
+ .logo-cell { align-self:stretch; min-height:0; position:relative; }
+ .driver-portrait { position:absolute; inset:2px 0; width:100%; height:calc(100% - 4px); object-fit:contain; }
+ .standings-header,.team-row { grid-template-columns:36px 56px minmax(0,1fr) 43px 53px; }
+ .live-bar button { padding:5px 6px!important; font-size:10px!important; }
+}
+
+
+/* Ritaglio laterale più stretto, senza deformare il ritratto. */
+.driver-portrait { clip-path:inset(0 12% 0 12%); }
+
+
+/* Zoom su volto e spalle: taglio inferiore, lati visibili. */
+.driver-portrait {
+    clip-path:none;
+    object-fit:cover;
+    object-position:center 8%;
+}
+@media screen and (max-width:600px) and (orientation:portrait) {
+    .standings-header,.team-row { grid-template-columns:36px 66px minmax(0,1fr) 43px 53px; }
+    .driver-portrait {
+        inset:1px 0;
+        width:100%;
+        height:calc(100% - 2px);
+        object-fit:cover;
+        object-position:center 8%;
+    }
+}
+
+
+/* Cornice Looters coordinata con la tuta. */
+.driver-portrait {
+    box-sizing:border-box;
+    border:1.5px solid #744298;
+    border-radius:9px;
+    background:#f4eff7;
+}
+@media screen and (max-width:600px) and (orientation:portrait) {
+    .driver-portrait {
+        inset:3px 2px;
+        width:calc(100% - 4px);
+        height:calc(100% - 6px);
+        border-radius:7px;
+    }
+}
+
+.driver-portrait { border-radius:0 !important; }
+
+.driver-portrait {
+    border:0;
+    border-left:4px solid #744298;
+    border-radius:0;
+}
+
+.galaxy-portrait{border-left-color:#b4bd24;background:#f1f2e8}
+.marlia-portrait{border-left-color:#19864a;background:#edf5ee}
+.barbarian-portrait{border-left-color:#db252c;background:#f6eded}
+.loop-portrait{border-left-color:#298bd5;background:#edf5fa}
+.amaca-portrait{border-left-color:#ee8a17;background:#f7f1e8}
+.shaka-portrait{border-left-color:#1265b5;background:#f1f2e8}
+.river-portrait{border-left-color:#e82232;background:#f1f2e8}
+.matchday{font:700 11px Arial,sans-serif;white-space:nowrap;color:#315c43}.live-bar{gap:8px}.live-bar .update-time{margin-left:auto}@media(max-width:400px){.matchday{font-size:10px}.live-bar .update-time{font-size:10px}}
+.live-bar .update-time{line-height:1.3;text-align:right;white-space:normal}
+#matchday{font-family:inherit;padding-right:0;flex-shrink:0;letter-spacing:inherit}
+
+.live-bar .update-time{display:flex;flex-direction:row;align-items:baseline;gap:5px;color:#315c43;text-align:right;font-style:italic;font-weight:700;line-height:1.15}
+.update-label{font-size:16px;letter-spacing:.02em}
+.update-value{font-size:13px;font-weight:700;font-variant-numeric:tabular-nums;white-space:nowrap}
+@media(max-width:600px){.update-label{font-size:14px}.update-value{font-size:11px}}
+
+@media(max-width:600px){.live-bar{gap:6px}.live-bar .live-status{padding-right:0}.update-label{font-size:11px;white-space:nowrap}.update-value{font-size:10px}.live-bar .update-time{gap:4px}}
+
+.update-value.update-flash{animation:updateFlash 3s ease-in-out infinite}
+@keyframes updateFlash{0%,100%{opacity:1}50%{opacity:.25}}
+@media(prefers-reduced-motion:reduce){.update-value.update-flash{animation:none}}
