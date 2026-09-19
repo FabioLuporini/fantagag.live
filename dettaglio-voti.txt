@@ -10,23 +10,23 @@ Miranda J.: 6.5
 Rowe: 6
 Gonzalez N.: 6
 Conceicao: 6
-Piccoli: 6
+Piccoli: 5.5
 Hojlund: 6
-Dybala: 6
+Dybala: 6.5
 
 PANCHINA
 Meret: 6
-Provedel: 6
+Provedel: 0
 Bartesaghi: 6
 Gabbia: 6
 Kabasele: 5
-N'Dicka: 6
+N'Dicka: 0
 Perrone: 6
-Romano: 6
+Romano: 6.5
 Pasalic: 6
 Cristante: 6
 Fitz-Jim: 6
-Esposito F.P.: 6
+Esposito F.P.: 0
 Colombo: 6
 
 
@@ -35,10 +35,10 @@ F,C SHAKA
 
 TITOLARI
 Mandas: 6
-Vojvoda: 6
+Vojvoda: 5.5
 Kamara H.: 5.5
 Holm: 0
-Mora: 6
+Mora: 0
 Gudmundsson A.: 6
 Goncalves P.: 6
 Ekkelenkamp: 6
@@ -50,9 +50,9 @@ PANCHINA
 Vicario: 6
 Grabara: 6
 Valeri: 6
-Bisseck: 6
-Spence: 6
-Stones: 6
+Bisseck: 5.5
+Spence: 0
+Stones: 0
 Badiashile: 6
 Jones C.: 6
 Calò: 6
@@ -71,10 +71,10 @@ Diego Carlos: 6
 Hermoso: 6
 Celik: 6
 Delprato: 6
-Konè M.: 6
+Konè M.: 10
 Politano: 6
 Vlasic: 5.5
-Barella: 6
+Barella: 5.5
 Berardi: 5.5
 Malen: 6
 
@@ -91,14 +91,14 @@ Ghedjemis: 6
 Gaetano: 6
 Bobcek: 6
 Kempf: 6
-Koulierakis: 6
+Koulierakis: 0
 
 
 Loop FC
 ========================================
 
 TITOLARI
-Skorupski: 7
+Skorupski: 4
 Balerdi: 6
 Ramon: 6
 Wesley: 6
@@ -113,13 +113,13 @@ Kolo Muani: 6
 PANCHINA
 Carnesecchi: 6
 Sportiello: 6
-Carlos Augusto: 6
+Carlos Augusto: 0
 Colpani: 0
 Mbangula: 0
 Raspadori: 6
-Bonny: 6
+Bonny: 0
 Beto: 6
-Belghali: 0
+Belghali: 5.5
 
 
 Fc Amaca Boys
@@ -146,8 +146,8 @@ Bellanova: 6
 Sutalo J.: 6
 Bernasconi: 6
 Dragusin: 6
-Mandragora: 5.5
-Sucic P.: 6
+Mandragora: 7
+Sucic P.: 0
 Douglas Luiz: 6
 Scamacca: 6
 
@@ -156,29 +156,29 @@ PS Marlia United
 ========================================
 
 TITOLARI
-Svilar: 6
+Svilar: 7.5
 Bremer: 6
 Chalobah T.: 6
-Lulli: 6
+Lulli: 0
 Baturina: 6
 Alajbegovic: 6
 Cissè A.: 6
 Saelemaekers: 6
 Koopmeiners: 6
-Martinez L.: 6
+Martinez L.: 5.5
 Mendy P.: 6.5
 
 PANCHINA
-Gollini: 6
+Gollini: 0
 Stankovic F.: 6
-Pavard: 6
-Akanji: 6
+Pavard: 0
+Akanji: 5.5
 Lucumì: 6
 Comuzzo: 0
 Ederson D.S.: 6
 Kessiè: 6
 Vergara: 6
-Soulè: 6
+Soulè: 6.5
 Cambiaghi: 6
 Lucca: 6
 
@@ -203,7 +203,7 @@ PANCHINA
 Sanchez Ro.: 6
 De Gea: 6
 Valle: 6
-Bastoni: 6
+Bastoni: 5.5
 Jimenez A.: 6
 Valdepenas: 6
 Kelly L.: 6
@@ -219,15 +219,15 @@ Real Barbarian
 ========================================
 
 TITOLARI
-Martinez Jo.: 6
-Molina N.: 6
-Theate: 6.5
-Dimarco: 6
+Martinez Jo.: 5
+Molina N.: 7.5
+Theate: 6
+Dimarco: 5.5
 Pulisic: 6
 Taylor K.: 6
 Zaniolo: 5
 Diouf: 6
-Orsolini: 0
+Orsolini: 6
 Davis K.: 6
 Ramos G.: 6
 
@@ -235,7 +235,7 @@ PANCHINA
 Muric: 2.5
 Turati: 0
 Ostigard: 6
-Mina: 6.5
+Mina: 7
 Kristensen T.: 6
 Idzes: 0
 Hutchinson: 6
