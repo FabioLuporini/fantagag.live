@@ -34,7 +34,7 @@ F,C SHAKA
 ========================================
 
 TITOLARI
-Mandas: 7
+Mandas: 6.5
 Vojvoda: 5.5
 Kamara H.: 5.5
 Holm: 0
