@@ -6,7 +6,7 @@ Milinkovic-Savic V.: 6
 Tavares N.: 6
 Mancini: 6
 Gila: 6
-Miranda J.: 6
+Miranda J.: 6.5
 Rowe: 6
 Gonzalez N.: 6
 Conceicao: 6
@@ -19,7 +19,7 @@ Meret: 6
 Provedel: 6
 Bartesaghi: 6
 Gabbia: 6
-Kabasele: 6
+Kabasele: 5
 N'Dicka: 6
 Perrone: 6
 Romano: 6
@@ -36,8 +36,8 @@ F,C SHAKA
 TITOLARI
 Mandas: 6
 Vojvoda: 6
-Kamara H.: 6
-Holm: 6
+Kamara H.: 5.5
+Holm: 0
 Mora: 6
 Gudmundsson A.: 6
 Goncalves P.: 6
@@ -57,7 +57,7 @@ Badiashile: 6
 Jones C.: 6
 Calò: 6
 Samardzic: 6
-Massolin: 6
+Massolin: 0
 Raimondo: 6
 Krstovic: 6
 
@@ -66,25 +66,25 @@ CA River Nave
 ========================================
 
 TITOLARI
-Okoye: 6
+Okoye: 5
 Diego Carlos: 6
 Hermoso: 6
 Celik: 6
 Delprato: 6
 Konè M.: 6
 Politano: 6
-Vlasic: 6
+Vlasic: 5.5
 Barella: 6
 Berardi: 5.5
 Malen: 6
 
 PANCHINA
-Perri: 6
+Perri: 5
 Bijlow: 6
 Romero D.: 6
 Esposito Se.: 5.5
 Chukwueze: 6
-Bernardeschi: 6
+Bernardeschi: 10
 Tiago Gabriel: 6
 El Shaarawy: 6
 Ghedjemis: 6
@@ -98,7 +98,7 @@ Loop FC
 ========================================
 
 TITOLARI
-Skorupski: 6
+Skorupski: 7
 Balerdi: 6
 Ramon: 6
 Wesley: 6
@@ -115,11 +115,11 @@ Carnesecchi: 6
 Sportiello: 6
 Carlos Augusto: 6
 Colpani: 0
-Mbangula: 6
+Mbangula: 0
 Raspadori: 6
 Bonny: 6
 Beto: 6
-Belghali: 6
+Belghali: 0
 
 
 Fc Amaca Boys
@@ -139,14 +139,14 @@ Bowie: 6
 Pinamonti: 6
 
 PANCHINA
-Caprile: 6
+Caprile: 8
 Falcone: 6
 Rrahmani: 6
 Bellanova: 6
 Sutalo J.: 6
 Bernasconi: 6
 Dragusin: 6
-Mandragora: 6
+Mandragora: 5.5
 Sucic P.: 6
 Douglas Luiz: 6
 Scamacca: 6
@@ -166,7 +166,7 @@ Cissè A.: 6
 Saelemaekers: 6
 Koopmeiners: 6
 Martinez L.: 6
-Mendy P.: 6
+Mendy P.: 6.5
 
 PANCHINA
 Gollini: 6
@@ -174,7 +174,7 @@ Stankovic F.: 6
 Pavard: 6
 Akanji: 6
 Lucumì: 6
-Comuzzo: 6
+Comuzzo: 0
 Ederson D.S.: 6
 Kessiè: 6
 Vergara: 6
@@ -210,7 +210,7 @@ Kelly L.: 6
 Da Cunha: 6
 Oulai: 6
 Zambo Anguissa: 6
-Casadei: 6
+Casadei: 0
 Kean: 6
 Yeboah J.: 6
 
@@ -221,13 +221,13 @@ Real Barbarian
 TITOLARI
 Martinez Jo.: 6
 Molina N.: 6
-Theate: 6
+Theate: 6.5
 Dimarco: 6
 Pulisic: 6
 Taylor K.: 6
-Zaniolo: 6
+Zaniolo: 5
 Diouf: 6
-Orsolini: 6
+Orsolini: 0
 Davis K.: 6
 Ramos G.: 6
 
@@ -235,14 +235,14 @@ PANCHINA
 Muric: 2.5
 Turati: 0
 Ostigard: 6
-Mina: 6
+Mina: 6.5
 Kristensen T.: 6
 Idzes: 0
 Hutchinson: 6
 Jashari: 6
 Sarr P.: 6
 Woltemade: 6
-Simeone: 6
+Simeone: 5.5
 Yildiz: 6
 
 
