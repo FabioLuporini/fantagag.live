@@ -4,7 +4,7 @@ A.C. Looters
 TITOLARI
 Milinkovic-Savic V.: 6
 Tavares N.: 6
-Mancini: 6.5
+Mancini: 6
 Gila: 6
 Miranda J.: 6.5
 Rowe: 6
@@ -20,11 +20,11 @@ Provedel: 0
 Bartesaghi: 6
 Gabbia: 6
 Kabasele: 5
-N'Dicka: 0
+N'Dicka: 5.5
 Perrone: 6
 Romano: 6.5
 Pasalic: 6
-Cristante: 6
+Cristante: 6.5
 Fitz-Jim: 6
 Esposito F.P.: 0
 Colombo: 6
@@ -34,12 +34,12 @@ F,C SHAKA
 ========================================
 
 TITOLARI
-Mandas: 6
+Mandas: 7
 Vojvoda: 5.5
 Kamara H.: 5.5
 Holm: 0
 Mora: 0
-Gudmundsson A.: 6
+Gudmundsson A.: 0
 Goncalves P.: 6
 Ekkelenkamp: 6
 Kvernadze: 6
@@ -54,7 +54,7 @@ Bisseck: 5
 Spence: 0
 Stones: 0
 Badiashile: 6
-Jones C.: 6
+Jones C.: 5.5
 Calò: 6
 Samardzic: 6
 Massolin: 0
@@ -68,7 +68,7 @@ CA River Nave
 TITOLARI
 Okoye: 5
 Diego Carlos: 6
-Hermoso: 6
+Hermoso: 5.5
 Celik: 6
 Delprato: 6
 Konè M.: 14
@@ -91,7 +91,7 @@ Ghedjemis: 6
 Gaetano: 6
 Bobcek: 6
 Kempf: 6
-Koulierakis: 0
+Koulierakis: 5.5
 
 
 Loop FC
@@ -107,13 +107,13 @@ Modric: 6
 Zielinski: 5.5
 Milla: 6
 McKennie: 6
-Thuram: 5.5
+Thuram: 7.5
 Kolo Muani: 6
 
 PANCHINA
 Carnesecchi: 6
 Sportiello: 6
-Carlos Augusto: 0
+Carlos Augusto: 6.5
 Colpani: 0
 Mbangula: 0
 Raspadori: 6
@@ -136,7 +136,7 @@ De Bruyne: 6
 Rabiot: 6
 Thorstvedt: 5.5
 Bowie: 6
-Pinamonti: 6
+Pinamonti: 0
 
 PANCHINA
 Caprile: 8
@@ -147,7 +147,7 @@ Sutalo J.: 6
 Bernasconi: 6
 Dragusin: 6
 Mandragora: 7
-Sucic P.: 0
+Sucic P.: 6
 Douglas Luiz: 6
 Scamacca: 6
 
@@ -156,7 +156,7 @@ PS Marlia United
 ========================================
 
 TITOLARI
-Svilar: 7.5
+Svilar: 5
 Bremer: 6
 Chalobah T.: 6
 Lulli: 0
@@ -165,14 +165,14 @@ Alajbegovic: 6
 Cissè A.: 6
 Saelemaekers: 6
 Koopmeiners: 6
-Martinez L.: 5.5
+Martinez L.: 14
 Mendy P.: 6.5
 
 PANCHINA
 Gollini: 0
-Stankovic F.: 6
+Stankovic F.: 7
 Pavard: 0
-Akanji: 5
+Akanji: 5.5
 Lucumì: 6
 Comuzzo: 0
 Ederson D.S.: 6
@@ -203,7 +203,7 @@ PANCHINA
 Sanchez Ro.: 6
 De Gea: 6
 Valle: 6
-Bastoni: 5.5
+Bastoni: 5
 Jimenez A.: 6
 Valdepenas: 6
 Kelly L.: 6
@@ -219,14 +219,14 @@ Real Barbarian
 ========================================
 
 TITOLARI
-Martinez Jo.: 4
+Martinez Jo.: 4.5
 Molina N.: 7.5
 Theate: 6
 Dimarco: 5.5
 Pulisic: 6
 Taylor K.: 6
 Zaniolo: 5
-Diouf: 6
+Diouf: 6.5
 Orsolini: 6
 Davis K.: 6
 Ramos G.: 6
