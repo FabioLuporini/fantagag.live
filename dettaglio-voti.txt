@@ -4,7 +4,7 @@ A.C. Looters
 TITOLARI
 Milinkovic-Savic V.: 6
 Tavares N.: 6
-Mancini: 6
+Mancini: 6.5
 Gila: 6
 Miranda J.: 6.5
 Rowe: 6
@@ -12,7 +12,7 @@ Gonzalez N.: 6
 Conceicao: 6
 Piccoli: 5.5
 Hojlund: 6
-Dybala: 6.5
+Dybala: 7
 
 PANCHINA
 Meret: 6
@@ -50,7 +50,7 @@ PANCHINA
 Vicario: 6
 Grabara: 6
 Valeri: 6
-Bisseck: 5.5
+Bisseck: 5
 Spence: 0
 Stones: 0
 Badiashile: 6
@@ -71,10 +71,10 @@ Diego Carlos: 6
 Hermoso: 6
 Celik: 6
 Delprato: 6
-Konè M.: 10
+Konè M.: 14
 Politano: 6
 Vlasic: 5.5
-Barella: 5.5
+Barella: 5
 Berardi: 5.5
 Malen: 6
 
@@ -99,15 +99,15 @@ Loop FC
 
 TITOLARI
 Skorupski: 4
-Balerdi: 6
+Balerdi: 6.5
 Ramon: 6
-Wesley: 6
+Wesley: 6.5
 Di Lorenzo: 6
 Modric: 6
-Zielinski: 6
+Zielinski: 5.5
 Milla: 6
 McKennie: 6
-Thuram: 6
+Thuram: 5.5
 Kolo Muani: 6
 
 PANCHINA
@@ -172,7 +172,7 @@ PANCHINA
 Gollini: 0
 Stankovic F.: 6
 Pavard: 0
-Akanji: 5.5
+Akanji: 5
 Lucumì: 6
 Comuzzo: 0
 Ederson D.S.: 6
@@ -219,7 +219,7 @@ Real Barbarian
 ========================================
 
 TITOLARI
-Martinez Jo.: 5
+Martinez Jo.: 4
 Molina N.: 7.5
 Theate: 6
 Dimarco: 5.5
