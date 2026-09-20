@@ -108,7 +108,7 @@ Zielinski: 5.5
 Milla: 5.5
 McKennie: 6
 Thuram: 7.5
-Kolo Muani: 6
+Kolo Muani: 6.5
 
 PANCHINA
 Carnesecchi: 5
@@ -116,7 +116,7 @@ Sportiello: 0
 Carlos Augusto: 6.5
 Colpani: 0
 Mbangula: 0
-Raspadori: 0
+Raspadori: 6
 Bonny: 0
 Beto: 5.5
 Belghali: 5.5
@@ -176,7 +176,7 @@ Akanji: 5.5
 Lucumì: 6.5
 Comuzzo: 0
 Ederson D.S.: 6
-Kessiè: 5.5
+Kessiè: 5
 Vergara: 0
 Soulè: 6.5
 Cambiaghi: 6
