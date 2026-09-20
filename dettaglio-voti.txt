@@ -9,7 +9,7 @@ Gila: 6
 Miranda J.: 6.5
 Rowe: 6
 Gonzalez N.: 6
-Conceicao: 6
+Conceicao: 9.5
 Piccoli: 5.5
 Hojlund: 5.5
 Dybala: 7
@@ -21,13 +21,13 @@ Bartesaghi: 6
 Gabbia: 6
 Kabasele: 5
 N'Dicka: 5.5
-Perrone: 0
+Perrone: 6
 Romano: 6.5
-Pasalic: 6
+Pasalic: 0
 Cristante: 6.5
 Fitz-Jim: 6
 Esposito F.P.: 0
-Colombo: 0
+Colombo: 7.5
 
 
 F,C SHAKA
@@ -47,9 +47,9 @@ Douvikas: 6
 Varela G.: 12
 
 PANCHINA
-Vicario: 6
-Grabara: 6
-Valeri: 6
+Vicario: 7.5
+Grabara: 0
+Valeri: 6.5
 Bisseck: 5
 Spence: 0
 Stones: 0
@@ -58,8 +58,8 @@ Jones C.: 5.5
 Calò: 10
 Samardzic: 6
 Massolin: 0
-Raimondo: 6
-Krstovic: 6
+Raimondo: 5.5
+Krstovic: 5.5
 
 
 CA River Nave
@@ -67,10 +67,10 @@ CA River Nave
 
 TITOLARI
 Okoye: 5
-Diego Carlos: 6
+Diego Carlos: 6.5
 Hermoso: 5.5
-Celik: 6
-Delprato: 6
+Celik: 7.5
+Delprato: 5.5
 Konè M.: 14
 Politano: 7.5
 Vlasic: 5.5
@@ -80,15 +80,15 @@ Malen: 6
 
 PANCHINA
 Perri: 5
-Bijlow: 5
+Bijlow: 4
 Romero D.: 10
 Esposito Se.: 5.5
 Chukwueze: 6
 Bernardeschi: 10
 Tiago Gabriel: 6
-El Shaarawy: 0
+El Shaarawy: 5.5
 Ghedjemis: 7
-Gaetano: 6
+Gaetano: 0
 Bobcek: 0
 Kempf: 0
 Koulierakis: 5.5
@@ -111,12 +111,12 @@ Thuram: 7.5
 Kolo Muani: 6
 
 PANCHINA
-Carnesecchi: 6
-Sportiello: 6
+Carnesecchi: 5
+Sportiello: 0
 Carlos Augusto: 6.5
 Colpani: 0
 Mbangula: 0
-Raspadori: 6
+Raspadori: 0
 Bonny: 0
 Beto: 5.5
 Belghali: 5.5
@@ -128,7 +128,7 @@ Fc Amaca Boys
 TITOLARI
 Maignan: 6
 Pavlovic: 6
-Scalvini: 6
+Scalvini: 5.5
 Kalulu: 6
 Frattesi: 6
 Atta: 5.5
@@ -144,12 +144,12 @@ Falcone: 6
 Rrahmani: 6.5
 Bellanova: 6
 Sutalo J.: 6.5
-Bernasconi: 6
+Bernasconi: 5.5
 Dragusin: 6.5
 Mandragora: 7
 Sucic P.: 6
 Douglas Luiz: 6
-Scamacca: 6
+Scamacca: 0
 
 
 PS Marlia United
@@ -161,10 +161,10 @@ Bremer: 6
 Chalobah T.: 5.5
 Lulli: 0
 Baturina: 5.5
-Alajbegovic: 6
+Alajbegovic: 6.5
 Cissè A.: 6
 Saelemaekers: 6
-Koopmeiners: 6
+Koopmeiners: 0
 Martinez L.: 14
 Mendy P.: 6.5
 
@@ -173,10 +173,10 @@ Gollini: 0
 Stankovic F.: 4
 Pavard: 0
 Akanji: 5.5
-Lucumì: 6
+Lucumì: 6.5
 Comuzzo: 0
 Ederson D.S.: 6
-Kessiè: 6
+Kessiè: 5.5
 Vergara: 0
 Soulè: 6.5
 Cambiaghi: 6
@@ -190,14 +190,14 @@ TITOLARI
 Butez: 4
 Mangas: 6
 Couto: 5
-Kaiki: 0
-Paz N.: 5.5
+Kaiki: 6
+Paz N.: 6
 Zaccagni: 9
 Mastantuono: 5.5
 Moreira: 6
 Pellegrino M.: 5.5
 Laurientè: 6
-Diao: 5.5
+Diao: 5
 
 PANCHINA
 Sanchez Ro.: 0
@@ -206,7 +206,7 @@ Valle: 5
 Bastoni: 5
 Jimenez A.: 10
 Valdepenas: 6
-Kelly L.: 6
+Kelly L.: 0
 Da Cunha: 5.5
 Oulai: 0
 Zambo Anguissa: 0
@@ -236,13 +236,13 @@ Muric: 2.5
 Turati: 0
 Ostigard: 5
 Mina: 7
-Kristensen T.: 6
+Kristensen T.: 5
 Idzes: 0
 Hutchinson: 6
 Jashari: 6
 Sarr P.: 6
-Woltemade: 6
+Woltemade: 0
 Simeone: 5.5
-Yildiz: 6
+Yildiz: 0
 
 
