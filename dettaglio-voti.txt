@@ -133,14 +133,14 @@ Kalulu: 6
 Frattesi: 6
 Atta: 5.5
 De Bruyne: 5.5
-Rabiot: 6
+Rabiot: 10
 Thorstvedt: 5.5
 Bowie: 6
 Pinamonti: 0
 
 PANCHINA
 Caprile: 8
-Falcone: 5
+Falcone: 4
 Rrahmani: 6.5
 Bellanova: 6
 Sutalo J.: 6.5
@@ -229,7 +229,7 @@ Zaniolo: 5
 Diouf: 6.5
 Orsolini: 6
 Davis K.: 6
-Ramos G.: 6
+Ramos G.: 7.5
 
 PANCHINA
 Muric: 2.5
