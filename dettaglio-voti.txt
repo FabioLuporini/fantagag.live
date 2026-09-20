@@ -2,7 +2,7 @@ A.C. Looters
 ========================================
 
 TITOLARI
-Milinkovic-Savic V.: 5.5
+Milinkovic-Savic V.: 6
 Tavares N.: 7.5
 Mancini: 6
 Gila: 6
@@ -21,13 +21,13 @@ Bartesaghi: 6
 Gabbia: 6
 Kabasele: 5
 N'Dicka: 5.5
-Perrone: 6
+Perrone: 0
 Romano: 6.5
 Pasalic: 6
 Cristante: 6.5
 Fitz-Jim: 6
 Esposito F.P.: 0
-Colombo: 6
+Colombo: 0
 
 
 F,C SHAKA
@@ -40,9 +40,9 @@ Kamara H.: 5.5
 Holm: 0
 Mora: 0
 Gudmundsson A.: 0
-Goncalves P.: 0
+Goncalves P.: 5.5
 Ekkelenkamp: 6
-Kvernadze: 6
+Kvernadze: 9.5
 Douvikas: 6
 Varela G.: 12
 
@@ -55,7 +55,7 @@ Spence: 0
 Stones: 0
 Badiashile: 0
 Jones C.: 5.5
-Calò: 6
+Calò: 10
 Samardzic: 6
 Massolin: 0
 Raimondo: 6
@@ -80,17 +80,17 @@ Malen: 6
 
 PANCHINA
 Perri: 5
-Bijlow: 6
-Romero D.: 6
+Bijlow: 5
+Romero D.: 10
 Esposito Se.: 5.5
 Chukwueze: 6
 Bernardeschi: 10
 Tiago Gabriel: 6
-El Shaarawy: 6
-Ghedjemis: 6
+El Shaarawy: 0
+Ghedjemis: 7
 Gaetano: 6
-Bobcek: 6
-Kempf: 6
+Bobcek: 0
+Kempf: 0
 Koulierakis: 5.5
 
 
@@ -100,12 +100,12 @@ Loop FC
 TITOLARI
 Skorupski: 4
 Balerdi: 6.5
-Ramon: 6
+Ramon: 5.5
 Wesley: 6.5
 Di Lorenzo: 6
 Modric: 6
 Zielinski: 5.5
-Milla: 6
+Milla: 5.5
 McKennie: 6
 Thuram: 7.5
 Kolo Muani: 6
@@ -118,7 +118,7 @@ Colpani: 0
 Mbangula: 0
 Raspadori: 6
 Bonny: 0
-Beto: 0
+Beto: 5.5
 Belghali: 5.5
 
 
@@ -132,7 +132,7 @@ Scalvini: 6
 Kalulu: 6
 Frattesi: 6
 Atta: 5.5
-De Bruyne: 6
+De Bruyne: 5.5
 Rabiot: 6
 Thorstvedt: 5.5
 Bowie: 6
@@ -158,9 +158,9 @@ PS Marlia United
 TITOLARI
 Svilar: 5
 Bremer: 6
-Chalobah T.: 6
+Chalobah T.: 5.5
 Lulli: 0
-Baturina: 6
+Baturina: 5.5
 Alajbegovic: 6
 Cissè A.: 6
 Saelemaekers: 6
@@ -180,38 +180,38 @@ Kessiè: 6
 Vergara: 0
 Soulè: 6.5
 Cambiaghi: 6
-Lucca: 0
+Lucca: 5.5
 
 
 Fc Galaxy
 ========================================
 
 TITOLARI
-Butez: 6
+Butez: 4
 Mangas: 6
-Couto: 6
-Kaiki: 6
-Paz N.: 6
+Couto: 5
+Kaiki: 0
+Paz N.: 5.5
 Zaccagni: 9
 Mastantuono: 5.5
 Moreira: 6
 Pellegrino M.: 5.5
 Laurientè: 6
-Diao: 6
+Diao: 5.5
 
 PANCHINA
-Sanchez Ro.: 6
-De Gea: 5
-Valle: 6
+Sanchez Ro.: 0
+De Gea: 5.5
+Valle: 5
 Bastoni: 5
 Jimenez A.: 10
 Valdepenas: 6
 Kelly L.: 6
-Da Cunha: 6
+Da Cunha: 5.5
 Oulai: 0
 Zambo Anguissa: 0
 Casadei: 0
-Kean: 6
+Kean: 0
 Yeboah J.: 3.5
 
 
@@ -234,7 +234,7 @@ Ramos G.: 6
 PANCHINA
 Muric: 2.5
 Turati: 0
-Ostigard: 6
+Ostigard: 5
 Mina: 7
 Kristensen T.: 6
 Idzes: 0
