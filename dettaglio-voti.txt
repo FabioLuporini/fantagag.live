@@ -140,7 +140,7 @@ Pinamonti: 0
 
 PANCHINA
 Caprile: 8
-Falcone: 4
+Falcone: 3
 Rrahmani: 6.5
 Bellanova: 6
 Sutalo J.: 6.5
@@ -194,7 +194,7 @@ Kaiki: 6
 Paz N.: 6
 Zaccagni: 9
 Mastantuono: 5.5
-Moreira: 0
+Moreira: 10
 Pellegrino M.: 5.5
 Laurientè: 6
 Diao: 5
@@ -223,13 +223,13 @@ Martinez Jo.: 4.5
 Molina N.: 7.5
 Theate: 6
 Dimarco: 5.5
-Pulisic: 10
+Pulisic: 10.5
 Taylor K.: 6.5
 Zaniolo: 5
 Diouf: 6.5
 Orsolini: 6
 Davis K.: 6
-Ramos G.: 7.5
+Ramos G.: 8
 
 PANCHINA
 Muric: 2.5
