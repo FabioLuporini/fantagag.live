@@ -2,7 +2,7 @@ A.C. Looters
 ========================================
 
 TITOLARI
-Milinkovic-Savic V.: 6
+Milinkovic-Savic V.: 5.5
 Tavares N.: 7.5
 Mancini: 6
 Gila: 6
@@ -11,11 +11,11 @@ Rowe: 6
 Gonzalez N.: 6
 Conceicao: 6
 Piccoli: 5.5
-Hojlund: 6
+Hojlund: 5.5
 Dybala: 7
 
 PANCHINA
-Meret: 6
+Meret: 0
 Provedel: 0
 Bartesaghi: 6
 Gabbia: 6
@@ -40,7 +40,7 @@ Kamara H.: 5.5
 Holm: 0
 Mora: 0
 Gudmundsson A.: 0
-Goncalves P.: 6
+Goncalves P.: 0
 Ekkelenkamp: 6
 Kvernadze: 6
 Douvikas: 6
@@ -53,7 +53,7 @@ Valeri: 6
 Bisseck: 5
 Spence: 0
 Stones: 0
-Badiashile: 6
+Badiashile: 0
 Jones C.: 5.5
 Calò: 6
 Samardzic: 6
@@ -72,7 +72,7 @@ Hermoso: 5.5
 Celik: 6
 Delprato: 6
 Konè M.: 14
-Politano: 6
+Politano: 7.5
 Vlasic: 5.5
 Barella: 5
 Berardi: 5.5
@@ -118,7 +118,7 @@ Colpani: 0
 Mbangula: 0
 Raspadori: 6
 Bonny: 0
-Beto: 6
+Beto: 0
 Belghali: 5.5
 
 
@@ -131,7 +131,7 @@ Pavlovic: 6
 Scalvini: 6
 Kalulu: 6
 Frattesi: 6
-Atta: 6
+Atta: 5.5
 De Bruyne: 6
 Rabiot: 6
 Thorstvedt: 5.5
@@ -141,11 +141,11 @@ Pinamonti: 0
 PANCHINA
 Caprile: 8
 Falcone: 6
-Rrahmani: 6
+Rrahmani: 6.5
 Bellanova: 6
 Sutalo J.: 6.5
 Bernasconi: 6
-Dragusin: 6
+Dragusin: 6.5
 Mandragora: 7
 Sucic P.: 6
 Douglas Luiz: 6
@@ -177,10 +177,10 @@ Lucumì: 6
 Comuzzo: 0
 Ederson D.S.: 6
 Kessiè: 6
-Vergara: 6
+Vergara: 0
 Soulè: 6.5
 Cambiaghi: 6
-Lucca: 6
+Lucca: 0
 
 
 Fc Galaxy
@@ -193,23 +193,23 @@ Couto: 6
 Kaiki: 6
 Paz N.: 6
 Zaccagni: 9
-Mastantuono: 6
+Mastantuono: 5.5
 Moreira: 6
-Pellegrino M.: 6
+Pellegrino M.: 5.5
 Laurientè: 6
 Diao: 6
 
 PANCHINA
 Sanchez Ro.: 6
-De Gea: 6
+De Gea: 5
 Valle: 6
 Bastoni: 5
-Jimenez A.: 6
+Jimenez A.: 10
 Valdepenas: 6
 Kelly L.: 6
 Da Cunha: 6
-Oulai: 6
-Zambo Anguissa: 6
+Oulai: 0
+Zambo Anguissa: 0
 Casadei: 0
 Kean: 6
 Yeboah J.: 3.5
