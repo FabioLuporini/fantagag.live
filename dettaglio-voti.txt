@@ -2,7 +2,7 @@ A.C. Looters
 ========================================
 
 TITOLARI
-Meret: 6
+Meret: 7
 Tavares N.: 6
 Gila: 6
 Mancini: 6
@@ -10,12 +10,12 @@ Miranda J.: 6
 Rowe: 6
 Gonzalez N.: 6
 Conceicao: 6
-Hojlund: 6
+Hojlund: 6.5
 Esposito F.P.: 7
 Dybala: 6
 
 PANCHINA
-Milinkovic-Savic V.: 6
+Milinkovic-Savic V.: 0
 Provedel: 0
 N'Dicka: 6
 Bartesaghi: 6
@@ -41,7 +41,7 @@ Scalvini: 6
 Rrahmani: 6
 Bellanova: 6
 Sucic P.: 10
-De Bruyne: 6
+De Bruyne: 12.5
 Rabiot: 6
 Frattesi: 6
 De Ketelaere: 6
@@ -88,8 +88,8 @@ Lucumì: 6
 Lulli: 6
 Koopmeiners: 6
 Soulè: 6
-Lang: 6
-Lucca: 6
+Lang: 10
+Lucca: 5.5
 Cambiaghi: 6
 
 
@@ -113,7 +113,7 @@ PANCHINA
 Mandas: 6
 Motta: 6
 Spence: 6
-Badiashile: 6
+Badiashile: 5.5
 Valeri: 5
 Holm: 6
 Stones: 0
@@ -122,7 +122,7 @@ Massolin: 6
 Gudmundsson A.: 6
 Jones C.: 0
 Varela G.: 6
-Raimondo: 6
+Raimondo: 5.5
 Castro S.: 6
 
 
@@ -145,7 +145,7 @@ Kolo Muani: 6
 PANCHINA
 Sportiello: 6
 Skorupski: 6
-Di Lorenzo: 6
+Di Lorenzo: 6.5
 Solet: 6
 Milla: 6
 Modric: 6
@@ -215,12 +215,12 @@ Diego Carlos: 4.5
 Delprato: 5.5
 El Shaarawy: 7
 Chukwueze: 6
-Politano: 6
+Politano: 0
 Gaetano: 6
 Esposito Se.: 6
 Romero D.: 6
-Bobcek: 6
-Ghedjemis: 6
+Bobcek: 5.5
+Ghedjemis: 5.5
 
 
 Fc Galaxy
@@ -248,7 +248,7 @@ Kelly L.: 6
 Kaiki: 6
 Mangas: 6
 Casadei: 6
-Zambo Anguissa: 6
+Zambo Anguissa: 0
 Oulai: 5
 Laurientè: 6
 Pellegrino M.: 6
