@@ -112,9 +112,9 @@ Krstovic: 6
 PANCHINA
 Mandas: 6
 Motta: 6
-Spence: 0
+Spence: 6
 Badiashile: 6
-Valeri: 5.5
+Valeri: 5
 Holm: 6
 Stones: 0
 Calò: 6
