@@ -48,7 +48,7 @@ De Ketelaere: 6
 Scamacca: 6
 
 PANCHINA
-Caprile: 5.5
+Caprile: 6
 Falcone: 3.5
 Bernasconi: 6
 Sutalo J.: 6
