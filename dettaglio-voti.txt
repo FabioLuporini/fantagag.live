@@ -21,7 +21,7 @@ N'Dicka: 6
 Bartesaghi: 0
 Gabbia: 5.5
 Kabasele: 6
-Pasalic: 6
+Pasalic: 0
 Romano: 6.5
 Perrone: 5.5
 Fitz-Jim: 6
@@ -45,12 +45,12 @@ De Bruyne: 12.5
 Rabiot: 10
 Frattesi: 6
 De Ketelaere: 6
-Scamacca: 6
+Scamacca: 0
 
 PANCHINA
 Caprile: 6
 Falcone: 3.5
-Bernasconi: 6
+Bernasconi: 0
 Sutalo J.: 6
 Dragusin: 5
 Kalulu: 6
@@ -73,14 +73,14 @@ Pavard: 6
 Ederson D.S.: 6
 Baturina: 5
 Cissè A.: 0
-Kessiè: 6
+Kessiè: 10
 Alajbegovic: 7.5
 Martinez L.: 6
 Mendy P.: 8
 
 PANCHINA
 Gollini: 7.5
-Stankovic F.: 6
+Stankovic F.: 4
 Akanji: 0
 Cambiaso: 5.5
 Comuzzo: 6
@@ -104,10 +104,10 @@ Bisseck: 6
 Mora: 0
 Ekkelenkamp: 6
 Goncalves P.: 0
-Samardzic: 6
+Samardzic: 0
 Kvernadze: 6
 Douvikas: 5.5
-Krstovic: 6
+Krstovic: 11.5
 
 PANCHINA
 Mandas: 5.5
@@ -130,7 +130,7 @@ Loop FC
 ========================================
 
 TITOLARI
-Carnesecchi: 6
+Carnesecchi: 7
 Spinazzola: 6
 Ramon: 7
 Wesley: 6
@@ -143,7 +143,7 @@ Thuram: 10
 Kolo Muani: 9
 
 PANCHINA
-Sportiello: 6
+Sportiello: 0
 Skorupski: 0
 Di Lorenzo: 6.5
 Solet: 6
@@ -203,7 +203,7 @@ Vlasic: 6
 Barella: 0
 Konè M.: 5.5
 Bernardeschi: 0
-Berardi: 5.5
+Berardi: 5
 Malen: 3.5
 
 PANCHINA
@@ -216,7 +216,7 @@ Delprato: 5.5
 El Shaarawy: 7
 Chukwueze: 5.5
 Politano: 0
-Gaetano: 6
+Gaetano: 0
 Esposito Se.: 6.5
 Romero D.: 6
 Bobcek: 5.5
