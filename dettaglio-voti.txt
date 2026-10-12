@@ -39,7 +39,7 @@ Maignan: 5.5
 Pavlovic: 5.5
 Scalvini: 6
 Rrahmani: 6
-Bellanova: 6
+Bellanova: 7
 Sucic P.: 10
 De Bruyne: 12.5
 Rabiot: 10
@@ -50,7 +50,7 @@ Scamacca: 0
 PANCHINA
 Caprile: 6
 Falcone: 3.5
-Bernasconi: 0
+Bernasconi: 6
 Sutalo J.: 6
 Dragusin: 5
 Kalulu: 6
@@ -80,7 +80,7 @@ Mendy P.: 8
 
 PANCHINA
 Gollini: 7.5
-Stankovic F.: 4
+Stankovic F.: 3
 Akanji: 0
 Cambiaso: 5.5
 Comuzzo: 6
@@ -104,10 +104,10 @@ Bisseck: 6
 Mora: 0
 Ekkelenkamp: 6
 Goncalves P.: 0
-Samardzic: 0
+Samardzic: 6
 Kvernadze: 6
 Douvikas: 5.5
-Krstovic: 11.5
+Krstovic: 15
 
 PANCHINA
 Mandas: 5.5
@@ -130,7 +130,7 @@ Loop FC
 ========================================
 
 TITOLARI
-Carnesecchi: 7
+Carnesecchi: 5
 Spinazzola: 6
 Ramon: 7
 Wesley: 6
