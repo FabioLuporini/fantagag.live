@@ -2,257 +2,249 @@ A.C. Looters
 ========================================
 
 TITOLARI
-Meret: 7
-Tavares N.: 10
-Gila: 6.5
-Mancini: 6.5
-Miranda J.: 6.5
-Rowe: 6
-Gonzalez N.: 5.5
-Conceicao: 5.5
-Hojlund: 6.5
-Esposito F.P.: 7
-Dybala: 6
+Meret: 6
+Gila: 6
+Mancini: 6
+N'Dicka: 6
+Tavares N.: 6
+Bartesaghi: 6
+Gonzalez N.: 6
+Conceicao: 6
+Romano: 6
+Hojlund: 6
+Esposito F.P.: 6
 
 PANCHINA
-Milinkovic-Savic V.: 0
-Provedel: 0
-N'Dicka: 6
-Bartesaghi: 0
-Gabbia: 5.5
-Kabasele: 6
-Pasalic: 0
-Romano: 6.5
-Perrone: 5.5
+Piccoli: 6
+Miranda J.: 6
+Perrone: 6
 Fitz-Jim: 6
-Piccoli: 6.5
-Neres: 6
-Cristante: 0
-Colombo: 0
+Rowe: 6
+Pasalic: 6
+Kabasele: 6
+Milinkovic-Savic V.: 6
+Provedel: 6
 
 
 Fc Amaca Boys
 ========================================
 
 TITOLARI
-Maignan: 5.5
-Pavlovic: 5.5
-Scalvini: 6
+Maignan: 6
+Pavlovic: 6
 Rrahmani: 6
-Bellanova: 7
-Sucic P.: 10
-De Bruyne: 12.5
-Rabiot: 10
-Frattesi: 6
-De Ketelaere: 6
-Scamacca: 0
+Dragusin: 6
+Rabiot: 6
+De Bruyne: 6
+Mandragora: 6
+Sucic P.: 6
+Thorstvedt: 10
+Dovbyk: 6
+Bowie: 0
 
 PANCHINA
 Caprile: 6
-Falcone: 3.5
-Bernasconi: 6
-Sutalo J.: 6
-Dragusin: 5
+Falcone: 6
 Kalulu: 6
-Mandragora: 6
-Thorstvedt: 5
+Bellanova: 6
+Sutalo J.: 6
+Bernasconi: 6
+Frattesi: 6
 Douglas Luiz: 6
-Pinamonti: 10
-Dovbyk: 0
-Bowie: 6
+Scamacca: 6
+Santos A.: 6
+De Ketelaere: 6
+Pinamonti: 6
 
 
 PS Marlia United
 ========================================
 
 TITOLARI
-Svilar: 0
+Gollini: 6
 Bremer: 6
-Chalobah T.: 6.5
-Pavard: 6
+Lulli: 6
+Chalobah T.: 6
+Baturina: 6
+Cissè A.: 6
 Ederson D.S.: 6
-Baturina: 5
-Cissè A.: 0
-Kessiè: 10
-Alajbegovic: 7.5
-Martinez L.: 6
-Mendy P.: 8
+Alajbegovic: 6
+Soulè: 6
+Mendy P.: 6
+Lang: 6
 
 PANCHINA
-Gollini: 7.5
-Stankovic F.: 3
-Akanji: 0
-Cambiaso: 5.5
+Stankovic F.: 6
+Cambiaso: 6
+Akanji: 6
+Lucumì: 6
+Pavard: 6
 Comuzzo: 6
-Lucumì: 5.5
-Lulli: 0
-Koopmeiners: 0
-Soulè: 5
-Lang: 10
-Lucca: 5.5
-Cambiaghi: 9
+Kessiè: 6
+Koopmeiners: 6
+Lucca: 6
+Cambiaghi: 6
 
 
 F,C SHAKA
 ========================================
 
 TITOLARI
-Vicario: 5
-Kamara H.: 6
+Mandas: 6
+Spence: 6
 Vojvoda: 6
-Bisseck: 6
-Mora: 0
+Kamara H.: 6
+Calò: 11.5
+Goncalves P.: 6
 Ekkelenkamp: 6
-Goncalves P.: 0
-Samardzic: 6
-Kvernadze: 6
-Douvikas: 5.5
-Krstovic: 15
+Mora: 6
+Kvernadze: 6.5
+Castro S.: 6
+Douvikas: 6
 
 PANCHINA
-Mandas: 5.5
-Motta: 0
-Spence: 6
-Badiashile: 5.5
-Valeri: 5
-Holm: 0
-Stones: 0
-Calò: 6
+Motta: 6
+Vicario: 6
+Badiashile: 6
+Bisseck: 6
+Valeri: 6
+Holm: 6
+Stones: 6
+Samardzic: 6
 Massolin: 6
-Gudmundsson A.: 0
-Jones C.: 0
+Gudmundsson A.: 6
+Jones C.: 6
+Raimondo: 14
 Varela G.: 6
-Raimondo: 5.5
-Castro S.: 0
+Krstovic: 6
 
 
 Loop FC
 ========================================
 
 TITOLARI
-Carnesecchi: 5
+Carnesecchi: 6
 Spinazzola: 6
-Ramon: 7
+Ramon: 6
 Wesley: 6
-Carlos Augusto: 6.5
-McKennie: 5
-Calhanoglu: 9
-Zielinski: 0
+Carlos Augusto: 6
+McKennie: 6
+Calhanoglu: 6
+Zielinski: 6
 McTominay: 6
-Thuram: 10
-Kolo Muani: 9
+Thuram: 6
+Kolo Muani: 6
 
 PANCHINA
-Sportiello: 0
-Skorupski: 0
-Di Lorenzo: 6.5
-Solet: 6
-Milla: 0
-Modric: 7.5
+Sportiello: 6
+Skorupski: 6
+Milla: 6
+Modric: 6
 Bonny: 6
+Di Lorenzo: 6
+Solet: 6
 Belghali: 6
 Balerdi: 6
-Colpani: 0
-Mbangula: 0
-Beto: 5.5
+Colpani: 6
+Mbangula: 6
+Beto: 6
+Boga: 6
 
 
 Real Barbarian
 ========================================
 
 TITOLARI
-Martinez Jo.: 7
-Kristensen T.: 6
+Martinez Jo.: 6
+Palma: 6
 Molina N.: 6
-Dimarco: 6.5
-Pulisic: 5.5
-Taylor K.: 6.5
-Sarr P.: 6
+Dimarco: 6
+Mina: 6
+Pulisic: 6
+Taylor K.: 6
 Diouf: 6
-Orsolini: 10.5
 Davis K.: 6
-Ramos G.: 5.5
+Ramos G.: 6
+Simeone: 6
 
 PANCHINA
-Muric: 5
+Muric: 1
 Turati: 0
-Theate: 0
-Ostigard: 6.5
-Mina: 6.5
-Palma: 6
+Kristensen T.: 6
+Ostigard: 6
+Theate: 6
 Idzes: 0
-Hutchinson: 0
-Jashari: 0
+Sarr P.: 6
+Jashari: 6
+Hutchinson: 6
 Zaniolo: 6
-Gnonto: 5.5
-Woltemade: 5.5
-Simeone: 6
-Yildiz: 0
+Orsolini: 6
+Woltemade: 6
+Gnonto: 6
+Yildiz: 6
 
 
 CA River Nave
 ========================================
 
 TITOLARI
-Perri: 6
-Hermoso: 6
-Vasquez: 4
-Celik: 6
-Tiago Gabriel: 5.5
-Vlasic: 6
-Barella: 0
-Konè M.: 5.5
-Bernardeschi: 0
-Berardi: 5
-Malen: 3.5
+Okoye: 6
+Delprato: 6
+Kempf: 6
+Diego Carlos: 6
+Barella: 6
+Chukwueze: 6
+Politano: 6
+Bernardeschi: 6
+Ghedjemis: 6.5
+Romero D.: 6
+Berardi: 10
 
 PANCHINA
-Bijlow: 5
-Okoye: 6
-Kempf: 0
-Koulierakis: 0
-Diego Carlos: 4.5
-Delprato: 5.5
-El Shaarawy: 7
-Chukwueze: 5.5
-Politano: 0
-Gaetano: 0
 Esposito Se.: 6.5
-Romero D.: 6
-Bobcek: 5.5
-Ghedjemis: 5.5
+Vlasic: 6
+El Shaarawy: 6
+Gaetano: 6
+Hermoso: 6
+Koulierakis: 6
+Tiago Gabriel: 6
+Vasquez: 6
+Celik: 6
+Perri: 6
+Bijlow: 6
+Bobcek: 0
 
 
 Fc Galaxy
 ========================================
 
 TITOLARI
-Butez: 7
-Jimenez A.: 6
-Bastoni: 0
+Butez: 6
+Kaiki: 6
+Mangas: 6
 Couto: 6
-Paz N.: 6
-Da Cunha: 6.5
-Zaccagni: 6
-Moreira: 6.5
 Mastantuono: 6
-Diao: 5.5
-Adams C.: 6
+Da Cunha: 6
+Moreira: 6
+Paz N.: 6
+Zaccagni: 6
+Pellegrino M.: 6
+Laurientè: 6
 
 PANCHINA
-Sanchez Ro.: 0
-De Gea: 3.5
-Valle: 0
-Valdepenas: 5.5
-Kelly L.: 0
-Kaiki: 6.5
-Mangas: 6.5
+Sanchez Ro.: 6
+De Gea: 6
+Bastoni: 6
+Jimenez A.: 6
+Valle: 6
+Valdepenas: 6
+Kelly L.: 6
+Zambo Anguissa: 6
+Oulai: 6
 Casadei: 6
-Zambo Anguissa: 0
-Oulai: 5
-Laurientè: 6.5
-Pellegrino M.: 6
+Adams C.: 6
 Yeboah J.: 6
-Kean: 0
+Diao: 6
+Kean: 6
 
 
