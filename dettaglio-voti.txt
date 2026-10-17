@@ -16,14 +16,14 @@ Esposito F.P.: 6
 
 PANCHINA
 Piccoli: 6
-Miranda J.: 6
+Miranda J.: 6.5
 Perrone: 6
 Fitz-Jim: 6
 Rowe: 6
 Pasalic: 6
 Kabasele: 6
 Milinkovic-Savic V.: 0
-Provedel: 6
+Provedel: 0
 
 
 Fc Amaca Boys
@@ -39,7 +39,7 @@ De Bruyne: 4
 Mandragora: 6
 Sucic P.: 6
 Thorstvedt: 9.5
-Dovbyk: 6
+Dovbyk: 0
 Bowie: 5
 
 PANCHINA
@@ -76,9 +76,9 @@ Lang: 0
 PANCHINA
 Stankovic F.: 12
 Cambiaso: 6
-Akanji: 6
+Akanji: 5.5
 Lucumì: 6
-Pavard: 6
+Pavard: 0
 Comuzzo: 6
 Kessiè: 6
 Koopmeiners: 6
@@ -91,7 +91,7 @@ F,C SHAKA
 
 TITOLARI
 Mandas: 6
-Spence: 6
+Spence: 0
 Vojvoda: 6
 Kamara H.: 6
 Calò: 11.5
@@ -106,14 +106,14 @@ PANCHINA
 Motta: 6
 Vicario: 6
 Badiashile: 5.5
-Bisseck: 6
+Bisseck: 5.5
 Valeri: 6
-Holm: 6
-Stones: 6
+Holm: 0
+Stones: 0
 Samardzic: 6
 Massolin: 6
 Gudmundsson A.: 6
-Jones C.: 6
+Jones C.: 0
 Raimondo: 17.5
 Varela G.: 6
 Krstovic: 6
@@ -127,9 +127,9 @@ Carnesecchi: 6
 Spinazzola: 5.5
 Ramon: 6
 Wesley: 6
-Carlos Augusto: 6
+Carlos Augusto: 0
 McKennie: 6
-Calhanoglu: 6
+Calhanoglu: 0
 Zielinski: 6
 McTominay: 5.5
 Thuram: 6
@@ -137,16 +137,16 @@ Kolo Muani: 6
 
 PANCHINA
 Sportiello: 6
-Skorupski: 6
+Skorupski: 7
 Milla: 6
 Modric: 6
-Bonny: 6
+Bonny: 0
 Di Lorenzo: 5.5
 Solet: 6
 Belghali: 6
 Balerdi: 6
 Colpani: 6
-Mbangula: 6
+Mbangula: 0
 Beto: 6
 Boga: 6
 
@@ -155,14 +155,14 @@ Real Barbarian
 ========================================
 
 TITOLARI
-Martinez Jo.: 6
+Martinez Jo.: 5
 Palma: 6
 Molina N.: 6
 Dimarco: 6
 Mina: 6
 Pulisic: 6
 Taylor K.: 6
-Diouf: 6
+Diouf: 0
 Davis K.: 6
 Ramos G.: 6
 Simeone: 6
@@ -178,7 +178,7 @@ Sarr P.: 6
 Jashari: 6
 Hutchinson: 6
 Zaniolo: 6
-Orsolini: 6
+Orsolini: 0
 Woltemade: 6
 Gnonto: 6
 Yildiz: 6
@@ -192,10 +192,10 @@ Okoye: 6
 Delprato: 6
 Kempf: 6
 Diego Carlos: 6
-Barella: 6
+Barella: 5.5
 Chukwueze: 6
 Politano: 6
-Bernardeschi: 6
+Bernardeschi: 6.5
 Ghedjemis: 6.5
 Romero D.: 6
 Berardi: 10
