@@ -7,7 +7,7 @@ Gila: 6
 Mancini: 0
 N'Dicka: 6
 Tavares N.: 6
-Bartesaghi: 6
+Bartesaghi: 0
 Gonzalez N.: 6
 Conceicao: 6
 Romano: 6
@@ -17,7 +17,7 @@ Esposito F.P.: 5
 PANCHINA
 Piccoli: 6
 Miranda J.: 7
-Perrone: 0
+Perrone: 6
 Fitz-Jim: 6
 Rowe: 6
 Pasalic: 6
@@ -30,10 +30,10 @@ Fc Amaca Boys
 ========================================
 
 TITOLARI
-Maignan: 6
+Maignan: 7
 Pavlovic: 6
 Rrahmani: 5
-Dragusin: 5.5
+Dragusin: 5
 Rabiot: 6
 De Bruyne: 4
 Mandragora: 6
@@ -51,7 +51,7 @@ Sutalo J.: 6
 Bernasconi: 6
 Frattesi: 6
 Douglas Luiz: 6
-Scamacca: 6
+Scamacca: 0
 Santos A.: 6.5
 De Ketelaere: 6
 Pinamonti: 6
@@ -66,7 +66,7 @@ Bremer: 6
 Lulli: 10
 Chalobah T.: 6
 Baturina: 0
-Cissè A.: 6
+Cissè A.: 0
 Ederson D.S.: 6
 Alajbegovic: 6
 Soulè: 6.5
@@ -80,7 +80,7 @@ Akanji: 6
 Lucumì: 6
 Pavard: 0
 Comuzzo: 6
-Kessiè: 6
+Kessiè: 0
 Koopmeiners: 6
 Lucca: 5
 Cambiaghi: 6
@@ -95,12 +95,12 @@ Spence: 0
 Vojvoda: 5
 Kamara H.: 5
 Calò: 11.5
-Goncalves P.: 5.5
+Goncalves P.: 5
 Ekkelenkamp: 4.5
 Mora: 6
 Kvernadze: 7
 Castro S.: 10
-Douvikas: 5.5
+Douvikas: 10
 
 PANCHINA
 Motta: 6
@@ -123,7 +123,7 @@ Loop FC
 ========================================
 
 TITOLARI
-Carnesecchi: 6
+Carnesecchi: 7
 Spinazzola: 5.5
 Ramon: 6.5
 Wesley: 0
@@ -136,9 +136,9 @@ Thuram: 9.5
 Kolo Muani: 6
 
 PANCHINA
-Sportiello: 6
+Sportiello: 0
 Skorupski: 3
-Milla: 6
+Milla: 6.5
 Modric: 6
 Bonny: 10
 Di Lorenzo: 5.5
@@ -175,12 +175,12 @@ Ostigard: 5
 Theate: 5.5
 Idzes: 0
 Sarr P.: 6
-Jashari: 6
-Hutchinson: 6
+Jashari: 0
+Hutchinson: 0
 Zaniolo: 0
 Orsolini: 0
 Woltemade: 6
-Gnonto: 0
+Gnonto: 5.5
 Yildiz: 6
 
 
@@ -190,7 +190,7 @@ CA River Nave
 TITOLARI
 Okoye: 3.5
 Delprato: 6
-Kempf: 6
+Kempf: 6.5
 Diego Carlos: 6
 Barella: 7.5
 Chukwueze: 6
@@ -204,7 +204,7 @@ PANCHINA
 Esposito Se.: 6.5
 Vlasic: 6
 El Shaarawy: 6
-Gaetano: 6
+Gaetano: 0
 Hermoso: 6
 Koulierakis: 6
 Tiago Gabriel: 7
@@ -220,24 +220,24 @@ Fc Galaxy
 
 TITOLARI
 Butez: 5.5
-Kaiki: 0
+Kaiki: 6
 Mangas: 6
 Couto: 0
-Mastantuono: 6.5
+Mastantuono: 5.5
 Da Cunha: 6
 Moreira: 6
-Paz N.: 9.5
+Paz N.: 11
 Zaccagni: 6
-Pellegrino M.: 5.5
+Pellegrino M.: 5
 Laurientè: 5.5
 
 PANCHINA
 Sanchez Ro.: 0
-De Gea: 5
+De Gea: 2.5
 Bastoni: 6
 Jimenez A.: 5.5
 Valle: 7
-Valdepenas: 0
+Valdepenas: 5.5
 Kelly L.: 6
 Zambo Anguissa: 0
 Oulai: 0
