@@ -206,18 +206,76 @@ function animaSorpassi() {
     );
 }
 
-document.addEventListener("DOMContentLoaded", () => {
-    associaImmagini();
-    setTimeout(animaSorpassi, 100);
-});
-async function aggiornaGiornata(){
- try{const response=await fetch('https://raw.githubusercontent.com/FabioLuporini/fantacalcio-voti-live/main/data/giornata.txt',{cache:'no-store'});
- if(!response.ok)return;const value=(await response.text()).trim();if(!/^\d{1,3}$/.test(value)||Number(value)<1)return;
- const label=document.getElementById('matchday');label.textContent='GIORNATA '+Number(value);label.hidden=false;
- }catch(error){console.warn('Giornata non disponibile',error);}
+// Legge soltanto i risultati già pubblicati sullo stesso sito.
+let versioneLive = document.querySelector('meta[name="live-version"]')?.content || '';
+let controlloLiveInCorso = false;
+
+function applicaAggiornamentoLive(dati) {
+    const righe = Array.from(document.querySelectorAll('.team-row'));
+    const perNome = new Map(righe.map(riga => [riga.dataset.team.trim(), riga]));
+    // Valida l'intero aggiornamento prima di modificare la pagina.
+    if (!dati || typeof dati.version !== 'string' || !Number.isFinite(Date.parse(dati.version)) ||
+        typeof dati.updated_at !== 'string' || !Number.isInteger(dati.matchday) || dati.matchday < 1 ||
+        !Array.isArray(dati.teams) || dati.teams.length !== righe.length ||
+        new Set(dati.teams.map(team => team?.name)).size !== righe.length ||
+        !dati.teams.every(team => team && perNome.has(team.name) &&
+            typeof team.module === 'string' && typeof team.points === 'string' &&
+            /^-?\d+\.\d$/.test(team.points))) return false;
+    // Non torna indietro se una cache restituisce una pubblicazione precedente.
+    if (versioneLive && Date.parse(dati.version) < Date.parse(versioneLive)) return false;
+    const label = document.getElementById('matchday');
+    label.textContent = 'GIORNATA ' + dati.matchday;
+    label.hidden = false;
+    if (dati.version === versioneLive) return false;
+    const contenitore = document.querySelector('.standings');
+    dati.teams.forEach((team, indice) => {
+        const riga = perNome.get(team.name);
+        riga.querySelector('.module').textContent = team.module;
+        riga.querySelector('.points').textContent = team.points;
+        riga.querySelector('.position-number').textContent = indice + 1;
+        riga.classList.remove('position-up', 'position-down', 'arrived-up', 'arrived-down');
+        // Sposta i nodi esistenti: immagini e relativi timer rimangono caricati.
+        contenitore.appendChild(riga);
+    });
+    document.querySelector('.update-value').textContent = dati.updated_at;
+    versioneLive = dati.version;
+    animaSorpassi();
+    return true;
 }
-document.addEventListener('DOMContentLoaded',()=>{
- const label=document.getElementById('matchday');const live=document.querySelector('.live-status');
- function sizeDay(){const style=getComputedStyle(live);label.style.fontSize=style.fontSize;label.style.fontWeight=style.fontWeight;label.style.fontStyle=style.fontStyle;}
- sizeDay();window.addEventListener('resize',sizeDay);aggiornaGiornata();setInterval(aggiornaGiornata,60000);
+
+async function aggiornaLive() {
+    if (document.hidden || controlloLiveInCorso) return;
+    controlloLiveInCorso = true;
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 15000);
+    try {
+        const response = await fetch('live.json', {cache: 'no-store', signal: controller.signal});
+        if (response.ok) applicaAggiornamentoLive(await response.json());
+    } catch (errore) {
+        // In caso di rete assente conserva l'ultima classifica; riprova al prossimo controllo.
+        console.warn('Aggiornamento live temporaneamente non disponibile');
+    } finally {
+        clearTimeout(timeout);
+        controlloLiveInCorso = false;
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    associaImmagini();
+    animaSorpassi();
+    const label = document.getElementById('matchday');
+    const live = document.querySelector('.live-status');
+    function sizeDay() {
+        const style = getComputedStyle(live);
+        label.style.fontSize = style.fontSize;
+        label.style.fontWeight = style.fontWeight;
+        label.style.fontStyle = style.fontStyle;
+    }
+    sizeDay();
+    window.addEventListener('resize', sizeDay);
+    aggiornaLive();
+    setInterval(aggiornaLive, 60000);
+});
+document.addEventListener('visibilitychange', () => {
+    if (!document.hidden) aggiornaLive();
 });
