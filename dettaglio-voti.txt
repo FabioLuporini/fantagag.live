@@ -100,7 +100,7 @@ Ekkelenkamp: 4.5
 Mora: 6
 Kvernadze: 7
 Castro S.: 10
-Douvikas: 6
+Douvikas: 5.5
 
 PANCHINA
 Motta: 6
@@ -219,11 +219,11 @@ Fc Galaxy
 ========================================
 
 TITOLARI
-Butez: 7.5
+Butez: 5.5
 Kaiki: 0
 Mangas: 6
 Couto: 0
-Mastantuono: 6
+Mastantuono: 6.5
 Da Cunha: 6
 Moreira: 6
 Paz N.: 9.5
