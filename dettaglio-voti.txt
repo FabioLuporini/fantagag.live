@@ -8,7 +8,7 @@ Mancini: 0
 N'Dicka: 6
 Tavares N.: 6
 Bartesaghi: 0
-Gonzalez N.: 6
+Gonzalez N.: 5.5
 Conceicao: 6
 Romano: 6
 Hojlund: 6.5
@@ -62,7 +62,7 @@ PS Marlia United
 
 TITOLARI
 Gollini: 7
-Bremer: 6
+Bremer: 5.5
 Lulli: 10
 Chalobah T.: 6
 Baturina: 0
@@ -77,7 +77,7 @@ PANCHINA
 Stankovic F.: 12
 Cambiaso: 6
 Akanji: 6
-Lucumì: 6
+Lucumì: 5.5
 Pavard: 0
 Comuzzo: 6
 Kessiè: 0
@@ -104,7 +104,7 @@ Douvikas: 10
 
 PANCHINA
 Motta: 6
-Vicario: 7
+Vicario: 5
 Badiashile: 5.5
 Bisseck: 6
 Valeri: 6
@@ -133,7 +133,7 @@ Calhanoglu: 6
 Zielinski: 6.5
 McTominay: 5.5
 Thuram: 9.5
-Kolo Muani: 6
+Kolo Muani: 5.5
 
 PANCHINA
 Sportiello: 0
@@ -161,7 +161,7 @@ Molina N.: 0
 Dimarco: 6
 Mina: 6
 Pulisic: 6.5
-Taylor K.: 6
+Taylor K.: 5.5
 Diouf: 6.5
 Davis K.: 5
 Ramos G.: 7.5
@@ -174,7 +174,7 @@ Kristensen T.: 4.5
 Ostigard: 5
 Theate: 5.5
 Idzes: 0
-Sarr P.: 6
+Sarr P.: 5
 Jashari: 6
 Hutchinson: 5.5
 Zaniolo: 0
@@ -227,7 +227,7 @@ Mastantuono: 5.5
 Da Cunha: 6
 Moreira: 8
 Paz N.: 11
-Zaccagni: 6
+Zaccagni: 7.5
 Pellegrino M.: 5
 Laurientè: 5.5
 
