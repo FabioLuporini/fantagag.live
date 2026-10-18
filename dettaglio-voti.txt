@@ -6,10 +6,10 @@ Meret: 5
 Gila: 10
 Mancini: 0
 N'Dicka: 6
-Tavares N.: 6
+Tavares N.: 8
 Bartesaghi: 0
-Gonzalez N.: 5.5
-Conceicao: 6
+Gonzalez N.: 5
+Conceicao: 5.5
 Romano: 6
 Hojlund: 6.5
 Esposito F.P.: 5
@@ -45,16 +45,16 @@ Bowie: 5
 PANCHINA
 Caprile: 6
 Falcone: 7
-Kalulu: 6
+Kalulu: 5.5
 Bellanova: 7
-Sutalo J.: 6
+Sutalo J.: 6.5
 Bernasconi: 5
 Frattesi: 6
-Douglas Luiz: 6
+Douglas Luiz: 5.5
 Scamacca: 6
 Santos A.: 6.5
 De Ketelaere: 5
-Pinamonti: 6
+Pinamonti: 7
 
 
 PS Marlia United
@@ -62,7 +62,7 @@ PS Marlia United
 
 TITOLARI
 Gollini: 7
-Bremer: 5.5
+Bremer: 4.5
 Lulli: 10
 Chalobah T.: 6
 Baturina: 0
@@ -77,11 +77,11 @@ PANCHINA
 Stankovic F.: 12
 Cambiaso: 6
 Akanji: 6
-Lucumì: 5.5
+Lucumì: 5
 Pavard: 0
 Comuzzo: 6
 Kessiè: 0
-Koopmeiners: 6
+Koopmeiners: 0
 Lucca: 5
 Cambiaghi: 6
 
@@ -103,8 +103,8 @@ Castro S.: 10
 Douvikas: 10
 
 PANCHINA
-Motta: 6
-Vicario: 5
+Motta: 0
+Vicario: 3
 Badiashile: 5.5
 Bisseck: 6
 Valeri: 6
@@ -112,7 +112,7 @@ Holm: 0
 Stones: 0
 Samardzic: 5.5
 Massolin: 6
-Gudmundsson A.: 6
+Gudmundsson A.: 0
 Jones C.: 0
 Raimondo: 17.5
 Varela G.: 6
@@ -128,12 +128,12 @@ Spinazzola: 5.5
 Ramon: 6.5
 Wesley: 0
 Carlos Augusto: 11
-McKennie: 6
+McKennie: 5.5
 Calhanoglu: 6
 Zielinski: 6.5
 McTominay: 5.5
 Thuram: 9.5
-Kolo Muani: 5.5
+Kolo Muani: 5
 
 PANCHINA
 Sportiello: 0
@@ -148,7 +148,7 @@ Balerdi: 6.5
 Colpani: 6
 Mbangula: 0
 Beto: 0
-Boga: 6
+Boga: 0
 
 
 Real Barbarian
@@ -161,7 +161,7 @@ Molina N.: 0
 Dimarco: 6
 Mina: 6
 Pulisic: 6.5
-Taylor K.: 5.5
+Taylor K.: 6
 Diouf: 6.5
 Davis K.: 5
 Ramos G.: 7.5
@@ -179,9 +179,9 @@ Jashari: 6
 Hutchinson: 5.5
 Zaniolo: 0
 Orsolini: 0
-Woltemade: 6
+Woltemade: 5.5
 Gnonto: 5.5
-Yildiz: 6
+Yildiz: 0
 
 
 CA River Nave
@@ -209,7 +209,7 @@ Hermoso: 6
 Koulierakis: 6
 Tiago Gabriel: 7
 Vasquez: 5
-Celik: 6
+Celik: 5
 Perri: 6
 Bijlow: 4
 Bobcek: 0
@@ -227,7 +227,7 @@ Mastantuono: 5.5
 Da Cunha: 6
 Moreira: 8
 Paz N.: 11
-Zaccagni: 7.5
+Zaccagni: 7
 Pellegrino M.: 5
 Laurientè: 5.5
 
@@ -238,7 +238,7 @@ Bastoni: 6
 Jimenez A.: 5.5
 Valle: 7
 Valdepenas: 5.5
-Kelly L.: 6
+Kelly L.: 0
 Zambo Anguissa: 0
 Oulai: 0
 Casadei: 6
