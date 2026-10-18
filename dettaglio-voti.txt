@@ -7,7 +7,7 @@ Gila: 10
 Mancini: 0
 N'Dicka: 6
 Tavares N.: 6
-Bartesaghi: 6
+Bartesaghi: 0
 Gonzalez N.: 6
 Conceicao: 6
 Romano: 6
@@ -30,7 +30,7 @@ Fc Amaca Boys
 ========================================
 
 TITOLARI
-Maignan: 5
+Maignan: 4.5
 Pavlovic: 6
 Rrahmani: 5
 Dragusin: 5
@@ -46,7 +46,7 @@ PANCHINA
 Caprile: 6
 Falcone: 7
 Kalulu: 6
-Bellanova: 5.5
+Bellanova: 7
 Sutalo J.: 6
 Bernasconi: 5
 Frattesi: 6
@@ -66,7 +66,7 @@ Bremer: 6
 Lulli: 10
 Chalobah T.: 6
 Baturina: 0
-Cissè A.: 6
+Cissè A.: 0
 Ederson D.S.: 4.5
 Alajbegovic: 6
 Soulè: 6.5
@@ -80,7 +80,7 @@ Akanji: 6
 Lucumì: 6
 Pavard: 0
 Comuzzo: 6
-Kessiè: 6
+Kessiè: 0
 Koopmeiners: 6
 Lucca: 5
 Cambiaghi: 6
@@ -90,7 +90,7 @@ F,C SHAKA
 ========================================
 
 TITOLARI
-Mandas: 6
+Mandas: 7
 Spence: 0
 Vojvoda: 5
 Kamara H.: 5
@@ -116,7 +116,7 @@ Gudmundsson A.: 6
 Jones C.: 0
 Raimondo: 17.5
 Varela G.: 6
-Krstovic: 5.5
+Krstovic: 9.5
 
 
 Loop FC
@@ -136,7 +136,7 @@ Thuram: 9.5
 Kolo Muani: 6
 
 PANCHINA
-Sportiello: 6
+Sportiello: 0
 Skorupski: 3
 Milla: 6.5
 Modric: 6.5
@@ -176,7 +176,7 @@ Theate: 5.5
 Idzes: 0
 Sarr P.: 6
 Jashari: 6
-Hutchinson: 6
+Hutchinson: 5.5
 Zaniolo: 0
 Orsolini: 0
 Woltemade: 6
