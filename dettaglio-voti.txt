@@ -1,3 +1,36 @@
+Fc Galaxy
+========================================
+
+TITOLARI
+Butez: 5.5
+Kaiki: 6
+Mangas: 6.5
+Couto: 0
+Mastantuono: 5.5
+Da Cunha: 6
+Moreira: 8
+Paz N.: 11
+Zaccagni: 7
+Pellegrino M.: 5
+Laurientè: 5.5
+
+PANCHINA
+Sanchez Ro.: 0
+De Gea: 2.5
+Bastoni: 6
+Jimenez A.: 5.5
+Valle: 7
+Valdepenas: 5.5
+Kelly L.: 0
+Zambo Anguissa: 0
+Oulai: 0
+Casadei: 6
+Adams C.: 10
+Yeboah J.: 6
+Diao: 0
+Kean: 0
+
+
 A.C. Looters
 ========================================
 
@@ -26,6 +59,102 @@ Milinkovic-Savic V.: 0
 Provedel: 0
 
 
+Loop FC
+========================================
+
+TITOLARI
+Carnesecchi: 6.5
+Spinazzola: 5.5
+Ramon: 6.5
+Wesley: 0
+Carlos Augusto: 11
+McKennie: 5.5
+Calhanoglu: 6
+Zielinski: 6.5
+McTominay: 5.5
+Thuram: 9.5
+Kolo Muani: 5
+
+PANCHINA
+Sportiello: 0
+Skorupski: 3
+Milla: 6.5
+Modric: 6.5
+Bonny: 10
+Di Lorenzo: 5.5
+Solet: 4.5
+Belghali: 9
+Balerdi: 6.5
+Colpani: 6.5
+Mbangula: 0
+Beto: 0
+Boga: 0
+
+
+Real Barbarian
+========================================
+
+TITOLARI
+Martinez Jo.: 5
+Palma: 5.5
+Molina N.: 0
+Dimarco: 6
+Mina: 4
+Pulisic: 6.5
+Taylor K.: 6
+Diouf: 6.5
+Davis K.: 5
+Ramos G.: 7.5
+Simeone: 14
+
+PANCHINA
+Muric: 0
+Turati: 0
+Kristensen T.: 4.5
+Ostigard: 5
+Theate: 5.5
+Idzes: 0
+Sarr P.: 5
+Jashari: 6
+Hutchinson: 5.5
+Zaniolo: 0
+Orsolini: 0
+Woltemade: 5.5
+Gnonto: 5.5
+Yildiz: 0
+
+
+CA River Nave
+========================================
+
+TITOLARI
+Okoye: 3.5
+Delprato: 5.5
+Kempf: 6.5
+Diego Carlos: 4.5
+Barella: 7.5
+Chukwueze: 6
+Politano: 6
+Bernardeschi: 5.5
+Ghedjemis: 6.5
+Romero D.: 6
+Berardi: 10
+
+PANCHINA
+Esposito Se.: 6.5
+Vlasic: 6.5
+El Shaarawy: 6
+Gaetano: 10
+Hermoso: 6
+Koulierakis: 6
+Tiago Gabriel: 7
+Vasquez: 5
+Celik: 5
+Perri: 7.5
+Bijlow: 4
+Bobcek: 0
+
+
 Fc Amaca Boys
 ========================================
 
@@ -36,7 +165,7 @@ Rrahmani: 5
 Dragusin: 5
 Rabiot: 11
 De Bruyne: 4
-Mandragora: 6.5
+Mandragora: 6
 Sucic P.: 5.5
 Thorstvedt: 9.5
 Dovbyk: 5.5
@@ -55,35 +184,6 @@ Scamacca: 6
 Santos A.: 6.5
 De Ketelaere: 5
 Pinamonti: 7
-
-
-PS Marlia United
-========================================
-
-TITOLARI
-Gollini: 7
-Bremer: 4.5
-Lulli: 10
-Chalobah T.: 6
-Baturina: 0
-Cissè A.: 0
-Ederson D.S.: 4.5
-Alajbegovic: 6
-Soulè: 6.5
-Mendy P.: 5.5
-Lang: 0
-
-PANCHINA
-Stankovic F.: 12
-Cambiaso: 6
-Akanji: 6
-Lucumì: 5
-Pavard: 0
-Comuzzo: 6.5
-Kessiè: 0
-Koopmeiners: 0
-Lucca: 5
-Cambiaghi: 6
 
 
 F,C SHAKA
@@ -119,132 +219,32 @@ Varela G.: 15.5
 Krstovic: 9.5
 
 
-Loop FC
+PS Marlia United
 ========================================
 
 TITOLARI
-Carnesecchi: 6.5
-Spinazzola: 5.5
-Ramon: 6.5
-Wesley: 0
-Carlos Augusto: 11
-McKennie: 5.5
-Calhanoglu: 6
-Zielinski: 6.5
-McTominay: 5.5
-Thuram: 9.5
-Kolo Muani: 5
+Gollini: 7
+Bremer: 4.5
+Lulli: 10
+Chalobah T.: 6
+Baturina: 0
+Cissè A.: 0
+Ederson D.S.: 4.5
+Alajbegovic: 6
+Soulè: 6.5
+Mendy P.: 5.5
+Lang: 0
 
 PANCHINA
-Sportiello: 0
-Skorupski: 3
-Milla: 6.5
-Modric: 6.5
-Bonny: 10
-Di Lorenzo: 5.5
-Solet: 4.5
-Belghali: 7.5
-Balerdi: 6.5
-Colpani: 6.5
-Mbangula: 0
-Beto: 0
-Boga: 0
-
-
-Real Barbarian
-========================================
-
-TITOLARI
-Martinez Jo.: 5
-Palma: 5.5
-Molina N.: 0
-Dimarco: 6
-Mina: 4
-Pulisic: 6.5
-Taylor K.: 6
-Diouf: 6.5
-Davis K.: 5
-Ramos G.: 7.5
-Simeone: 10
-
-PANCHINA
-Muric: 0
-Turati: 0
-Kristensen T.: 4.5
-Ostigard: 5
-Theate: 5.5
-Idzes: 0
-Sarr P.: 5
-Jashari: 6
-Hutchinson: 5.5
-Zaniolo: 0
-Orsolini: 0
-Woltemade: 5.5
-Gnonto: 5.5
-Yildiz: 0
-
-
-CA River Nave
-========================================
-
-TITOLARI
-Okoye: 3.5
-Delprato: 5.5
-Kempf: 6.5
-Diego Carlos: 4.5
-Barella: 7.5
-Chukwueze: 6
-Politano: 6
-Bernardeschi: 5.5
-Ghedjemis: 6.5
-Romero D.: 6.5
-Berardi: 10
-
-PANCHINA
-Esposito Se.: 6.5
-Vlasic: 6.5
-El Shaarawy: 6
-Gaetano: 10
-Hermoso: 6
-Koulierakis: 6
-Tiago Gabriel: 7
-Vasquez: 5
-Celik: 5
-Perri: 7.5
-Bijlow: 4
-Bobcek: 0
-
-
-Fc Galaxy
-========================================
-
-TITOLARI
-Butez: 5.5
-Kaiki: 6
-Mangas: 6.5
-Couto: 0
-Mastantuono: 5.5
-Da Cunha: 6
-Moreira: 8
-Paz N.: 11
-Zaccagni: 7
-Pellegrino M.: 5
-Laurientè: 5.5
-
-PANCHINA
-Sanchez Ro.: 0
-De Gea: 2.5
-Bastoni: 6
-Jimenez A.: 5.5
-Valle: 7
-Valdepenas: 5.5
-Kelly L.: 0
-Zambo Anguissa: 0
-Oulai: 0
-Casadei: 6
-Adams C.: 10
-Yeboah J.: 6
-Diao: 0
-Kean: 0
+Stankovic F.: 12
+Cambiaso: 6
+Akanji: 6
+Lucumì: 5
+Pavard: 0
+Comuzzo: 6
+Kessiè: 0
+Koopmeiners: 0
+Lucca: 5
+Cambiaghi: 6
 
 
