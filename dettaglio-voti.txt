@@ -10,7 +10,7 @@ Tavares N.: 8
 Bartesaghi: 0
 Gonzalez N.: 5
 Conceicao: 5.5
-Romano: 6
+Romano: 5.5
 Hojlund: 6.5
 Esposito F.P.: 5
 
@@ -43,7 +43,7 @@ Dovbyk: 5.5
 Bowie: 5
 
 PANCHINA
-Caprile: 6
+Caprile: 4
 Falcone: 7
 Kalulu: 5.5
 Bellanova: 7
@@ -115,7 +115,7 @@ Massolin: 6
 Gudmundsson A.: 0
 Jones C.: 0
 Raimondo: 17.5
-Varela G.: 6
+Varela G.: 10
 Krstovic: 9.5
 
 
@@ -159,7 +159,7 @@ Martinez Jo.: 5
 Palma: 5.5
 Molina N.: 0
 Dimarco: 6
-Mina: 6
+Mina: 5
 Pulisic: 6.5
 Taylor K.: 6
 Diouf: 6.5
@@ -221,7 +221,7 @@ Fc Galaxy
 TITOLARI
 Butez: 5.5
 Kaiki: 6
-Mangas: 6
+Mangas: 6.5
 Couto: 0
 Mastantuono: 5.5
 Da Cunha: 6
