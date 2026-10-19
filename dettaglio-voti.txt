@@ -1,36 +1,3 @@
-Fc Galaxy
-========================================
-
-TITOLARI
-Butez: 5.5
-Kaiki: 6
-Mangas: 6.5
-Couto: 0
-Mastantuono: 5.5
-Da Cunha: 6
-Moreira: 8
-Paz N.: 11
-Zaccagni: 7
-Pellegrino M.: 5
-Laurientè: 5.5
-
-PANCHINA
-Sanchez Ro.: 0
-De Gea: 2.5
-Bastoni: 6
-Jimenez A.: 5.5
-Valle: 7
-Valdepenas: 5.5
-Kelly L.: 0
-Zambo Anguissa: 0
-Oulai: 0
-Casadei: 6
-Adams C.: 10
-Yeboah J.: 6
-Diao: 0
-Kean: 0
-
-
 A.C. Looters
 ========================================
 
@@ -51,12 +18,105 @@ PANCHINA
 Piccoli: 6
 Miranda J.: 7
 Perrone: 6
-Fitz-Jim: 6
+Fitz-Jim: 0
 Rowe: 5
 Pasalic: 5.5
 Kabasele: 0
 Milinkovic-Savic V.: 0
 Provedel: 0
+
+
+Fc Amaca Boys
+========================================
+
+TITOLARI
+Maignan: 4.5
+Pavlovic: 6
+Rrahmani: 5
+Dragusin: 5
+Rabiot: 11
+De Bruyne: 4
+Mandragora: 6
+Sucic P.: 5.5
+Thorstvedt: 9.5
+Dovbyk: 5.5
+Bowie: 5
+
+PANCHINA
+Caprile: 1.5
+Falcone: 7
+Kalulu: 5.5
+Bellanova: 7
+Sutalo J.: 6.5
+Bernasconi: 5
+Frattesi: 6
+Douglas Luiz: 5.5
+Scamacca: 6
+Santos A.: 6.5
+De Ketelaere: 5
+Pinamonti: 7
+
+
+PS Marlia United
+========================================
+
+TITOLARI
+Gollini: 7
+Bremer: 4.5
+Lulli: 10
+Chalobah T.: 6
+Baturina: 0
+Cissè A.: 0
+Ederson D.S.: 4.5
+Alajbegovic: 6
+Soulè: 6.5
+Mendy P.: 5.5
+Lang: 0
+
+PANCHINA
+Stankovic F.: 12
+Cambiaso: 6
+Akanji: 6
+Lucumì: 5
+Pavard: 0
+Comuzzo: 6
+Kessiè: 0
+Koopmeiners: 0
+Lucca: 5
+Cambiaghi: 6
+
+
+F,C SHAKA
+========================================
+
+TITOLARI
+Mandas: 7
+Spence: 0
+Vojvoda: 5
+Kamara H.: 5
+Calò: 11.5
+Goncalves P.: 5
+Ekkelenkamp: 4.5
+Mora: 6
+Kvernadze: 7
+Castro S.: 10
+Douvikas: 10
+
+PANCHINA
+Motta: 0
+Vicario: 3
+Badiashile: 5.5
+Bisseck: 6
+Valeri: 5.5
+Holm: 0
+Stones: 0
+Samardzic: 5.5
+Massolin: 0
+Gudmundsson A.: 0
+Jones C.: 0
+Raimondo: 17.5
+Varela G.: 15.5
+Krstovic: 9.5
 
 
 Loop FC
@@ -129,7 +189,7 @@ CA River Nave
 
 TITOLARI
 Okoye: 3.5
-Delprato: 5.5
+Delprato: 5
 Kempf: 6.5
 Diego Carlos: 4.5
 Barella: 7.5
@@ -155,96 +215,36 @@ Bijlow: 4
 Bobcek: 0
 
 
-Fc Amaca Boys
+Fc Galaxy
 ========================================
 
 TITOLARI
-Maignan: 4.5
-Pavlovic: 6
-Rrahmani: 5
-Dragusin: 5
-Rabiot: 11
-De Bruyne: 4
-Mandragora: 6
-Sucic P.: 5.5
-Thorstvedt: 9.5
-Dovbyk: 5.5
-Bowie: 5
+Butez: 5.5
+Kaiki: 6
+Mangas: 6.5
+Couto: 0
+Mastantuono: 5.5
+Da Cunha: 6
+Moreira: 8
+Paz N.: 11
+Zaccagni: 7
+Pellegrino M.: 5
+Laurientè: 5.5
 
 PANCHINA
-Caprile: 1.5
-Falcone: 7
-Kalulu: 5.5
-Bellanova: 7
-Sutalo J.: 6.5
-Bernasconi: 5
-Frattesi: 6
-Douglas Luiz: 5.5
-Scamacca: 6
-Santos A.: 6.5
-De Ketelaere: 5
-Pinamonti: 7
-
-
-F,C SHAKA
-========================================
-
-TITOLARI
-Mandas: 7
-Spence: 0
-Vojvoda: 5
-Kamara H.: 5
-Calò: 11.5
-Goncalves P.: 5
-Ekkelenkamp: 4.5
-Mora: 6
-Kvernadze: 7
-Castro S.: 10
-Douvikas: 10
-
-PANCHINA
-Motta: 0
-Vicario: 3
-Badiashile: 5.5
-Bisseck: 6
-Valeri: 6
-Holm: 0
-Stones: 0
-Samardzic: 5.5
-Massolin: 0
-Gudmundsson A.: 0
-Jones C.: 0
-Raimondo: 17.5
-Varela G.: 15.5
-Krstovic: 9.5
-
-
-PS Marlia United
-========================================
-
-TITOLARI
-Gollini: 7
-Bremer: 4.5
-Lulli: 10
-Chalobah T.: 6
-Baturina: 0
-Cissè A.: 0
-Ederson D.S.: 4.5
-Alajbegovic: 6
-Soulè: 6.5
-Mendy P.: 5.5
-Lang: 0
-
-PANCHINA
-Stankovic F.: 12
-Cambiaso: 6
-Akanji: 6
-Lucumì: 5
-Pavard: 0
-Comuzzo: 6
-Kessiè: 0
-Koopmeiners: 0
-Lucca: 5
-Cambiaghi: 6
+Sanchez Ro.: 0
+De Gea: 2.5
+Bastoni: 6
+Jimenez A.: 5.5
+Valle: 7
+Valdepenas: 5.5
+Kelly L.: 0
+Zambo Anguissa: 0
+Oulai: 0
+Casadei: 6
+Adams C.: 10
+Yeboah J.: 6
+Diao: 0
+Kean: 0
 
 
