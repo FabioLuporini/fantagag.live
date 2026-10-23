@@ -74,7 +74,7 @@ PANCHINA
 Stankovic F.: 6
 Cambiaso: 6
 Lucumì: 6
-Comuzzo: 6
+Comuzzo: 5
 Pavard: 6
 Kessiè: 6
 Koopmeiners: 6
@@ -111,7 +111,7 @@ Goncalves P.: 6
 Gudmundsson A.: 6
 Jones C.: 6
 Massolin: 6
-Varela G.: 6
+Varela G.: 10
 Kvernadze: 6
 Castro S.: 6
 
@@ -199,7 +199,7 @@ Berardi: 6
 
 PANCHINA
 Okoye: 6
-Perri: 7
+Perri: 5
 Ghedjemis: 6
 Esposito Se.: 6
 El Shaarawy: 6
