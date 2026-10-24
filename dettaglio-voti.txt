@@ -3,7 +3,7 @@ A.C. Looters
 
 TITOLARI
 Meret: 3.5
-Tavares N.: 5.5
+Tavares N.: 6.5
 Gila: 6
 Miranda J.: 7.5
 Mancini: 5.5
@@ -38,7 +38,7 @@ De Bruyne: 6.5
 Mandragora: 6.5
 Rabiot: 6
 Scamacca: 6
-Pinamonti: 6
+Pinamonti: 0
 
 PANCHINA
 Caprile: 4
@@ -87,7 +87,7 @@ F,C SHAKA
 ========================================
 
 TITOLARI
-Mandas: 8
+Mandas: 5.5
 Kamara H.: 6
 Bisseck: 6
 Spence: 6
@@ -100,15 +100,15 @@ Douvikas: 13.5
 Krstovic: 6
 
 PANCHINA
-Motta: 6
+Motta: 0
 Vicario: 6
 Vojvoda: 6
 Badiashile: 6.5
 Holm: 0
 Stones: 6
-Valeri: 6
+Valeri: 5.5
 Goncalves P.: 6
-Gudmundsson A.: 6
+Gudmundsson A.: 0
 Jones C.: 6
 Massolin: 5.5
 Varela G.: 10
@@ -158,7 +158,7 @@ Molina N.: 6.5
 Dimarco: 6
 Mina: 0
 Pulisic: 6
-Taylor K.: 6
+Taylor K.: 10
 Diouf: 6
 Ramos G.: 6
 Woltemade: 6
@@ -204,8 +204,8 @@ Ghedjemis: 6
 Esposito Se.: 0
 El Shaarawy: 6
 Romero D.: 6
-Delprato: 6
-Diego Carlos: 6
+Delprato: 5.5
+Diego Carlos: 4.5
 Bobcek: 6
 Malen: 6.5
 Konè M.: 0
