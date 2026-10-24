@@ -2,7 +2,7 @@ A.C. Looters
 ========================================
 
 TITOLARI
-Meret: 7.5
+Meret: 5.5
 Tavares N.: 6
 Gila: 6
 Miranda J.: 7.5
@@ -18,7 +18,7 @@ PANCHINA
 Bartesaghi: 6
 Cristante: 5.5
 Fitz-Jim: 10
-N'Dicka: 6.5
+N'Dicka: 6
 Milinkovic-Savic V.: 6
 Provedel: 6
 Kabasele: 6
@@ -34,7 +34,7 @@ Sutalo J.: 6
 Pavlovic: 6
 Bellanova: 6
 Frattesi: 6
-De Bruyne: 6
+De Bruyne: 6.5
 Mandragora: 6.5
 Rabiot: 6
 Scamacca: 6
@@ -66,9 +66,9 @@ Baturina: 5.5
 Cissè A.: 6
 Ederson D.S.: 6
 Alajbegovic: 6
-Soulè: 6
+Soulè: 10
 Mendy P.: 5.5
-Lang: 5.5
+Lang: 6
 
 PANCHINA
 Stankovic F.: 6
@@ -123,12 +123,12 @@ TITOLARI
 Carnesecchi: 6
 Di Lorenzo: 6.5
 Ramon: 6.5
-Wesley: 6
+Wesley: 5
 Carlos Augusto: 6
 McKennie: 6
 Calhanoglu: 6
 Zielinski: 6
-McTominay: 6
+McTominay: 10
 Thuram: 6
 Kolo Muani: 6
 
@@ -139,7 +139,7 @@ Modric: 6
 Milla: 6
 Bonny: 6
 Belghali: 10
-Balerdi: 6
+Balerdi: 5.5
 Spinazzola: 6
 Solet: 6
 Colpani: 0
@@ -190,7 +190,7 @@ Kempf: 6.5
 Tiago Gabriel: 6
 Vasquez: 6
 Hermoso: 6
-Politano: 6.5
+Politano: 8
 Vlasic: 10.5
 Bernardeschi: 8.5
 Barella: 6
@@ -207,7 +207,7 @@ Romero D.: 6
 Delprato: 6
 Diego Carlos: 6
 Bobcek: 6
-Malen: 5.5
+Malen: 7
 Konè M.: 6
 Chukwueze: 6
 Koulierakis: 6
