@@ -15,20 +15,20 @@ Esposito F.P.: 5.5
 Hojlund: 6
 
 PANCHINA
-Bartesaghi: 6
+Bartesaghi: 6.5
 Cristante: 5.5
 Fitz-Jim: 10
 N'Dicka: 6
 Milinkovic-Savic V.: 0
 Provedel: 4.5
-Kabasele: 6
+Kabasele: 5.5
 
 
 Fc Amaca Boys
 ========================================
 
 TITOLARI
-Maignan: 6
+Maignan: 7
 Kalulu: 6.5
 Sutalo J.: 6
 Pavlovic: 6
@@ -59,13 +59,13 @@ PS Marlia United
 
 TITOLARI
 Gollini: 3.5
-Bremer: 6
+Bremer: 6.5
 Lulli: 0
 Akanji: 6.5
 Baturina: 5.5
 Cissè A.: 6
 Ederson D.S.: 7
-Alajbegovic: 6
+Alajbegovic: 0
 Soulè: 10
 Mendy P.: 5.5
 Lang: 6
@@ -73,7 +73,7 @@ Lang: 6
 PANCHINA
 Stankovic F.: 5
 Cambiaso: 5.5
-Lucumì: 6
+Lucumì: 6.5
 Comuzzo: 5
 Pavard: 0
 Kessiè: 0
@@ -88,10 +88,10 @@ F,C SHAKA
 
 TITOLARI
 Mandas: 5.5
-Kamara H.: 6
+Kamara H.: 6.5
 Bisseck: 6
 Spence: 0
-Ekkelenkamp: 6
+Ekkelenkamp: 5.5
 Samardzic: 5.5
 Calò: 10.5
 Mora: 6
@@ -102,7 +102,7 @@ Krstovic: 15.5
 PANCHINA
 Motta: 0
 Vicario: 7
-Vojvoda: 6
+Vojvoda: 5.5
 Badiashile: 6.5
 Holm: 0
 Stones: 0
@@ -135,7 +135,7 @@ Kolo Muani: 5.5
 PANCHINA
 Sportiello: 0
 Skorupski: 7
-Modric: 6
+Modric: 7.5
 Milla: 6
 Bonny: 6
 Belghali: 10
@@ -157,10 +157,10 @@ Ostigard: 6.5
 Molina N.: 6.5
 Dimarco: 6
 Mina: 0
-Pulisic: 6
+Pulisic: 9.5
 Taylor K.: 10
 Diouf: 7
-Ramos G.: 6
+Ramos G.: 5.5
 Woltemade: 6
 Simeone: 8
 
@@ -171,14 +171,14 @@ Kristensen T.: 5
 Theate: 6.5
 Palma: 6
 Idzes: 0
-Hutchinson: 6
-Sarr P.: 6
+Hutchinson: 5.5
+Sarr P.: 0
 Jashari: 6
 Zaniolo: 6
 Orsolini: 0
-Davis K.: 6
+Davis K.: 5.5
 Gnonto: 5.5
-Yildiz: 6
+Yildiz: 0
 
 
 CA River Nave
@@ -198,7 +198,7 @@ Gaetano: 5.5
 Berardi: 5
 
 PANCHINA
-Okoye: 6
+Okoye: 5
 Perri: 4.5
 Ghedjemis: 11
 Esposito Se.: 0
@@ -211,7 +211,7 @@ Malen: 6.5
 Konè M.: 0
 Chukwueze: 6
 Koulierakis: 0
-Celik: 6
+Celik: 0
 
 
 Fc Galaxy
@@ -235,7 +235,7 @@ Sanchez Ro.: 0
 De Gea: 5.5
 Valle: 0
 Mangas: 6
-Kelly L.: 6
+Kelly L.: 0
 Jimenez A.: 10
 Valdepenas: 4.5
 Zambo Anguissa: 10
