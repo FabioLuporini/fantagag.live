@@ -43,13 +43,13 @@ Pinamonti: 0
 PANCHINA
 Caprile: 4
 Falcone: 6
-Bernasconi: 6
+Bernasconi: 5.5
 Rrahmani: 0
 Dragusin: 6.5
 Sucic P.: 6.5
 Thorstvedt: 0
 Douglas Luiz: 6
-De Ketelaere: 7.5
+De Ketelaere: 8
 Dovbyk: 0
 Bowie: 5
 
@@ -64,14 +64,14 @@ Lulli: 0
 Akanji: 6.5
 Baturina: 5.5
 Cissè A.: 6
-Ederson D.S.: 4.5
+Ederson D.S.: 7.5
 Alajbegovic: 6
 Soulè: 10
 Mendy P.: 5.5
 Lang: 6
 
 PANCHINA
-Stankovic F.: 7
+Stankovic F.: 5
 Cambiaso: 6
 Lucumì: 6
 Comuzzo: 5
@@ -93,11 +93,11 @@ Bisseck: 6
 Spence: 0
 Ekkelenkamp: 6
 Samardzic: 6
-Calò: 6.5
+Calò: 10.5
 Mora: 6
-Raimondo: 6
+Raimondo: 5.5
 Douvikas: 13.5
-Krstovic: 10
+Krstovic: 15.5
 
 PANCHINA
 Motta: 0
@@ -112,7 +112,7 @@ Gudmundsson A.: 0
 Jones C.: 0
 Massolin: 5.5
 Varela G.: 10
-Kvernadze: 6.5
+Kvernadze: 5.5
 Castro S.: 6.5
 
 
@@ -120,7 +120,7 @@ Loop FC
 ========================================
 
 TITOLARI
-Carnesecchi: 4
+Carnesecchi: 3
 Di Lorenzo: 6.5
 Ramon: 6.5
 Wesley: 6.5
@@ -153,7 +153,7 @@ Real Barbarian
 
 TITOLARI
 Martinez Jo.: 0
-Ostigard: 6
+Ostigard: 6.5
 Molina N.: 6.5
 Dimarco: 6
 Mina: 0
@@ -185,7 +185,7 @@ CA River Nave
 ========================================
 
 TITOLARI
-Bijlow: 7
+Bijlow: 8
 Kempf: 6.5
 Tiago Gabriel: 6
 Vasquez: 6
@@ -200,9 +200,9 @@ Berardi: 5
 PANCHINA
 Okoye: 6
 Perri: 4.5
-Ghedjemis: 7.5
+Ghedjemis: 9
 Esposito Se.: 0
-El Shaarawy: 6
+El Shaarawy: 7.5
 Romero D.: 6
 Delprato: 5.5
 Diego Carlos: 4.5
@@ -227,7 +227,7 @@ Moreira: 6
 Da Cunha: 6
 Mastantuono: 6.5
 Zaccagni: 6
-Yeboah J.: 6
+Yeboah J.: 6.5
 Laurientè: 5.5
 
 PANCHINA
