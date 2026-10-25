@@ -15,13 +15,13 @@ Esposito F.P.: 5.5
 Hojlund: 6
 
 PANCHINA
-Bartesaghi: 6.5
+Bartesaghi: 7
 Cristante: 5.5
 Fitz-Jim: 10
 N'Dicka: 6
 Milinkovic-Savic V.: 0
 Provedel: 4.5
-Kabasele: 5.5
+Kabasele: 6
 
 
 Fc Amaca Boys
@@ -88,7 +88,7 @@ F,C SHAKA
 
 TITOLARI
 Mandas: 5.5
-Kamara H.: 6.5
+Kamara H.: 6
 Bisseck: 6
 Spence: 0
 Ekkelenkamp: 5.5
@@ -157,10 +157,10 @@ Ostigard: 6.5
 Molina N.: 6.5
 Dimarco: 6
 Mina: 0
-Pulisic: 9.5
+Pulisic: 10
 Taylor K.: 10
 Diouf: 7
-Ramos G.: 5.5
+Ramos G.: 5
 Woltemade: 6
 Simeone: 8
 
@@ -169,14 +169,14 @@ Turati: 4
 Muric: 0
 Kristensen T.: 5
 Theate: 6.5
-Palma: 6
+Palma: 5.5
 Idzes: 0
-Hutchinson: 5.5
+Hutchinson: 9.5
 Sarr P.: 0
 Jashari: 6
-Zaniolo: 6
+Zaniolo: 5.5
 Orsolini: 0
-Davis K.: 5.5
+Davis K.: 5
 Gnonto: 5.5
 Yildiz: 0
 
@@ -198,7 +198,7 @@ Gaetano: 5.5
 Berardi: 5
 
 PANCHINA
-Okoye: 5
+Okoye: 3.5
 Perri: 4.5
 Ghedjemis: 11
 Esposito Se.: 0
