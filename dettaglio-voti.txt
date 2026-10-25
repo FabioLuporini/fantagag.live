@@ -9,7 +9,7 @@ Miranda J.: 7.5
 Mancini: 5.5
 Perrone: 6.5
 Romano: 6
-Pasalic: 6
+Pasalic: 5.5
 Rowe: 6
 Esposito F.P.: 5.5
 Hojlund: 6
@@ -29,7 +29,7 @@ Fc Amaca Boys
 
 TITOLARI
 Maignan: 6
-Kalulu: 6
+Kalulu: 6.5
 Sutalo J.: 6
 Pavlovic: 6
 Bellanova: 5.5
@@ -37,18 +37,18 @@ Frattesi: 6
 De Bruyne: 6.5
 Mandragora: 6.5
 Rabiot: 6
-Scamacca: 6
+Scamacca: 5.5
 Pinamonti: 0
 
 PANCHINA
 Caprile: 4
-Falcone: 6
-Bernasconi: 5.5
+Falcone: 4
+Bernasconi: 5
 Rrahmani: 0
 Dragusin: 6.5
 Sucic P.: 6.5
 Thorstvedt: 0
-Douglas Luiz: 6
+Douglas Luiz: 11.5
 De Ketelaere: 8
 Dovbyk: 0
 Bowie: 5
@@ -64,7 +64,7 @@ Lulli: 0
 Akanji: 6.5
 Baturina: 5.5
 Cissè A.: 6
-Ederson D.S.: 7.5
+Ederson D.S.: 7
 Alajbegovic: 6
 Soulè: 10
 Mendy P.: 5.5
@@ -72,12 +72,12 @@ Lang: 6
 
 PANCHINA
 Stankovic F.: 5
-Cambiaso: 6
+Cambiaso: 5.5
 Lucumì: 6
 Comuzzo: 5
 Pavard: 0
-Kessiè: 6
-Koopmeiners: 6
+Kessiè: 0
+Koopmeiners: 6.5
 Lucca: 0
 Cambiaghi: 6.5
 Vergara: 6
@@ -92,16 +92,16 @@ Kamara H.: 6
 Bisseck: 6
 Spence: 0
 Ekkelenkamp: 6
-Samardzic: 6
+Samardzic: 5.5
 Calò: 10.5
 Mora: 6
-Raimondo: 5.5
+Raimondo: 5
 Douvikas: 13.5
 Krstovic: 15.5
 
 PANCHINA
 Motta: 0
-Vicario: 6
+Vicario: 7
 Vojvoda: 6
 Badiashile: 6.5
 Holm: 0
@@ -120,20 +120,20 @@ Loop FC
 ========================================
 
 TITOLARI
-Carnesecchi: 3
+Carnesecchi: 2
 Di Lorenzo: 6.5
 Ramon: 6.5
 Wesley: 6.5
 Carlos Augusto: 6.5
-McKennie: 6
+McKennie: 10
 Calhanoglu: 6
 Zielinski: 9
 McTominay: 13.5
 Thuram: 10.5
-Kolo Muani: 6
+Kolo Muani: 5.5
 
 PANCHINA
-Sportiello: 6
+Sportiello: 0
 Skorupski: 7
 Modric: 6
 Milla: 6
@@ -167,7 +167,7 @@ Simeone: 8
 PANCHINA
 Turati: 4
 Muric: 0
-Kristensen T.: 5.5
+Kristensen T.: 5
 Theate: 6.5
 Palma: 6
 Idzes: 0
@@ -187,7 +187,7 @@ CA River Nave
 TITOLARI
 Bijlow: 8
 Kempf: 6.5
-Tiago Gabriel: 6
+Tiago Gabriel: 5.5
 Vasquez: 6
 Hermoso: 6
 Politano: 8
@@ -200,13 +200,13 @@ Berardi: 5
 PANCHINA
 Okoye: 6
 Perri: 4.5
-Ghedjemis: 9
+Ghedjemis: 11
 Esposito Se.: 0
 El Shaarawy: 7.5
 Romero D.: 6
 Delprato: 5.5
 Diego Carlos: 4.5
-Bobcek: 6
+Bobcek: 0
 Malen: 6.5
 Konè M.: 0
 Chukwueze: 6
