@@ -32,7 +32,7 @@ Maignan: 6
 Kalulu: 6
 Sutalo J.: 6
 Pavlovic: 6
-Bellanova: 6
+Bellanova: 5.5
 Frattesi: 6
 De Bruyne: 6.5
 Mandragora: 6.5
@@ -46,10 +46,10 @@ Falcone: 6
 Bernasconi: 6
 Rrahmani: 0
 Dragusin: 6.5
-Sucic P.: 6
+Sucic P.: 6.5
 Thorstvedt: 0
 Douglas Luiz: 6
-De Ketelaere: 6
+De Ketelaere: 7.5
 Dovbyk: 0
 Bowie: 5
 
@@ -61,10 +61,10 @@ TITOLARI
 Gollini: 3.5
 Bremer: 6
 Lulli: 0
-Akanji: 6
+Akanji: 6.5
 Baturina: 5.5
 Cissè A.: 6
-Ederson D.S.: 6
+Ederson D.S.: 4.5
 Alajbegovic: 6
 Soulè: 10
 Mendy P.: 5.5
@@ -75,7 +75,7 @@ Stankovic F.: 7
 Cambiaso: 6
 Lucumì: 6
 Comuzzo: 5
-Pavard: 6
+Pavard: 0
 Kessiè: 6
 Koopmeiners: 6
 Lucca: 0
@@ -90,14 +90,14 @@ TITOLARI
 Mandas: 5.5
 Kamara H.: 6
 Bisseck: 6
-Spence: 6
+Spence: 0
 Ekkelenkamp: 6
 Samardzic: 6
-Calò: 6
+Calò: 6.5
 Mora: 6
 Raimondo: 6
 Douvikas: 13.5
-Krstovic: 6
+Krstovic: 10
 
 PANCHINA
 Motta: 0
@@ -105,14 +105,14 @@ Vicario: 6
 Vojvoda: 6
 Badiashile: 6.5
 Holm: 0
-Stones: 6
+Stones: 0
 Valeri: 5.5
-Goncalves P.: 6
+Goncalves P.: 0
 Gudmundsson A.: 0
-Jones C.: 6
+Jones C.: 0
 Massolin: 5.5
 Varela G.: 10
-Kvernadze: 6
+Kvernadze: 6.5
 Castro S.: 6.5
 
 
@@ -120,16 +120,16 @@ Loop FC
 ========================================
 
 TITOLARI
-Carnesecchi: 6
+Carnesecchi: 4
 Di Lorenzo: 6.5
 Ramon: 6.5
 Wesley: 6.5
 Carlos Augusto: 6.5
 McKennie: 6
 Calhanoglu: 6
-Zielinski: 6
+Zielinski: 9
 McTominay: 13.5
-Thuram: 6.5
+Thuram: 10.5
 Kolo Muani: 6
 
 PANCHINA
@@ -144,7 +144,7 @@ Spinazzola: 6.5
 Solet: 6
 Colpani: 0
 Mbangula: 0
-Beto: 6
+Beto: 0
 Boga: 6
 
 
@@ -152,14 +152,14 @@ Real Barbarian
 ========================================
 
 TITOLARI
-Martinez Jo.: 6
+Martinez Jo.: 0
 Ostigard: 6
 Molina N.: 6.5
 Dimarco: 6
 Mina: 0
 Pulisic: 6
 Taylor K.: 10
-Diouf: 5.5
+Diouf: 7
 Ramos G.: 6
 Woltemade: 6
 Simeone: 8
@@ -167,7 +167,7 @@ Simeone: 8
 PANCHINA
 Turati: 4
 Muric: 0
-Kristensen T.: 6
+Kristensen T.: 5.5
 Theate: 6.5
 Palma: 6
 Idzes: 0
@@ -177,7 +177,7 @@ Jashari: 6
 Zaniolo: 6
 Orsolini: 0
 Davis K.: 6
-Gnonto: 6
+Gnonto: 5.5
 Yildiz: 6
 
 
@@ -194,13 +194,13 @@ Politano: 8
 Vlasic: 10.5
 Bernardeschi: 8.5
 Barella: 6
-Gaetano: 6
+Gaetano: 5.5
 Berardi: 5
 
 PANCHINA
 Okoye: 6
 Perri: 4.5
-Ghedjemis: 6
+Ghedjemis: 7.5
 Esposito Se.: 0
 El Shaarawy: 6
 Romero D.: 6
@@ -232,15 +232,15 @@ Laurientè: 5.5
 
 PANCHINA
 Sanchez Ro.: 0
-De Gea: 8
+De Gea: 5.5
 Valle: 0
 Mangas: 6
 Kelly L.: 6
 Jimenez A.: 10
-Valdepenas: 6
+Valdepenas: 4.5
 Zambo Anguissa: 10
 Casadei: 0
-Oulai: 6
+Oulai: 0
 Adams C.: 6.5
 Kean: 0
 Pellegrino M.: 5.5
