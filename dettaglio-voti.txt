@@ -11,7 +11,7 @@ Perrone: 6.5
 Romano: 6
 Pasalic: 6
 Rowe: 6
-Esposito F.P.: 6
+Esposito F.P.: 5.5
 Hojlund: 6
 
 PANCHINA
@@ -20,7 +20,7 @@ Cristante: 5.5
 Fitz-Jim: 10
 N'Dicka: 6
 Milinkovic-Savic V.: 0
-Provedel: 6
+Provedel: 4.5
 Kabasele: 6
 
 
@@ -45,7 +45,7 @@ Caprile: 4
 Falcone: 6
 Bernasconi: 6
 Rrahmani: 0
-Dragusin: 6
+Dragusin: 6.5
 Sucic P.: 6
 Thorstvedt: 0
 Douglas Luiz: 6
@@ -71,7 +71,7 @@ Mendy P.: 5.5
 Lang: 6
 
 PANCHINA
-Stankovic F.: 6
+Stankovic F.: 7
 Cambiaso: 6
 Lucumì: 6
 Comuzzo: 5
@@ -124,12 +124,12 @@ Carnesecchi: 6
 Di Lorenzo: 6.5
 Ramon: 6.5
 Wesley: 6.5
-Carlos Augusto: 6
+Carlos Augusto: 6.5
 McKennie: 6
 Calhanoglu: 6
 Zielinski: 6
 McTominay: 13.5
-Thuram: 6
+Thuram: 6.5
 Kolo Muani: 6
 
 PANCHINA
@@ -159,7 +159,7 @@ Dimarco: 6
 Mina: 0
 Pulisic: 6
 Taylor K.: 10
-Diouf: 6
+Diouf: 5.5
 Ramos G.: 6
 Woltemade: 6
 Simeone: 8
@@ -185,7 +185,7 @@ CA River Nave
 ========================================
 
 TITOLARI
-Bijlow: 6
+Bijlow: 7
 Kempf: 6.5
 Tiago Gabriel: 6
 Vasquez: 6
@@ -225,24 +225,24 @@ Kaiki: 8
 Paz N.: 0
 Moreira: 6
 Da Cunha: 6
-Mastantuono: 6
+Mastantuono: 6.5
 Zaccagni: 6
 Yeboah J.: 6
 Laurientè: 5.5
 
 PANCHINA
 Sanchez Ro.: 0
-De Gea: 6
+De Gea: 8
 Valle: 0
 Mangas: 6
 Kelly L.: 6
-Jimenez A.: 6
+Jimenez A.: 10
 Valdepenas: 6
 Zambo Anguissa: 10
 Casadei: 0
 Oulai: 6
 Adams C.: 6.5
 Kean: 0
-Pellegrino M.: 6
+Pellegrino M.: 5.5
 
 
