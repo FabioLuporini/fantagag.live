@@ -2,7 +2,7 @@ Fc Amaca Boys
 ========================================
 
 TITOLARI
-Maignan: 3
+Maignan: 2
 Kalulu: 6
 Rrahmani: 6
 Pavlovic: 6
@@ -43,15 +43,15 @@ Mendy P.: 6
 Lang: 6
 
 PANCHINA
-Stankovic F.: 7.5
+Stankovic F.: 4
 Lucumì: 6
 Cambiaso: 6
 Comuzzo: 5.5
-Pavard: 6
+Pavard: 0
 Vergara: 6
 Kessiè: 6
 Koopmeiners: 6
-Cambiaghi: 6
+Cambiaghi: 6.5
 Lucca: 6
 
 
@@ -59,7 +59,7 @@ CA River Nave
 ========================================
 
 TITOLARI
-Bijlow: 6
+Bijlow: 7
 Kempf: 6
 Tiago Gabriel: 6
 Vasquez: 6
@@ -72,14 +72,14 @@ Gaetano: 6
 Berardi: 4.5
 
 PANCHINA
-Okoye: 6
+Okoye: 10.5
 Perri: 3
 Ghedjemis: 6
 Esposito Se.: 10
 El Shaarawy: 6
 Romero D.: 5.5
 Delprato: 6.5
-Diego Carlos: 6
+Diego Carlos: 0
 Bobcek: 6
 Malen: 10
 Konè M.: 0
@@ -94,7 +94,7 @@ Fc Galaxy
 TITOLARI
 Sanchez Ro.: 6
 Jimenez A.: 6
-Bastoni: 5
+Bastoni: 5.5
 Couto: 7.5
 Zambo Anguissa: 6
 Mastantuono: 6
@@ -115,7 +115,7 @@ Valdepenas: 6
 Oulai: 6
 Casadei: 0
 Adams C.: 10
-Yeboah J.: 6
+Yeboah J.: 5.5
 
 
 A.C. Looters
@@ -127,7 +127,7 @@ Tavares N.: 6.5
 Bartesaghi: 4
 N'Dicka: 6
 Mancini: 5.5
-Miranda J.: 7.5
+Miranda J.: 8
 Rowe: 6
 Perrone: 5
 Pasalic: 6
@@ -148,23 +148,23 @@ Real Barbarian
 ========================================
 
 TITOLARI
-Martinez Jo.: 6
+Martinez Jo.: 0
 Ostigard: 6
 Molina N.: 7.5
 Dimarco: 5.5
-Pulisic: 6
+Pulisic: 5
 Taylor K.: 11
 Diouf: 6
-Zaniolo: 6
+Zaniolo: 5.5
 Hutchinson: 6.5
-Ramos G.: 5.5
+Ramos G.: 5
 Woltemade: 6
 
 PANCHINA
 Turati: 7
 Muric: 0
 Theate: 5
-Palma: 6
+Palma: 6.5
 Kristensen T.: 6
 Mina: 5
 Idzes: 0
@@ -185,26 +185,26 @@ Carnesecchi: 6
 Balerdi: 0
 Ramon: 9.5
 Belghali: 6
-Carlos Augusto: 6
+Carlos Augusto: 6.5
 McKennie: 6
 McTominay: 6
-Zielinski: 5.5
+Zielinski: 6
 Bonny: 5.5
 Kolo Muani: 6
-Thuram: 6
+Thuram: 6.5
 
 PANCHINA
 Sportiello: 6
-Skorupski: 4
+Skorupski: 4.5
 Wesley: 6
 Di Lorenzo: 6
-Calhanoglu: 6
+Calhanoglu: 6.5
 Milla: 6.5
-Modric: 6
+Modric: 5.5
 Spinazzola: 6
-Solet: 6
+Solet: 0
 Colpani: 6
-Mbangula: 14
+Mbangula: 17.5
 Boga: 6
 Beto: 6
 Raspadori: 6
@@ -217,10 +217,10 @@ TITOLARI
 Mandas: 4
 Kamara H.: 5.5
 Bisseck: 5.5
-Spence: 6
+Spence: 0
 Mora: 10.5
 Calò: 6
-Ekkelenkamp: 6.5
+Ekkelenkamp: 6
 Goncalves P.: 6
 Douvikas: 5.5
 Raimondo: 6
@@ -228,16 +228,16 @@ Krstovic: 6
 
 PANCHINA
 Motta: 0
-Vicario: 6
+Vicario: 7
 Valeri: 6
 Vojvoda: 6
 Holm: 6
-Stones: 6
+Stones: 0
 Badiashile: 6
 Samardzic: 6
 Massolin: 0
 Gudmundsson A.: 0
-Jones C.: 6
+Jones C.: 0
 Kvernadze: 6
 Varela G.: 6
 Castro S.: 5.5
