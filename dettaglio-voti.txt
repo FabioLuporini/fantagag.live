@@ -16,7 +16,7 @@ De Ketelaere: 6
 
 PANCHINA
 Caprile: 2.5
-Falcone: 6
+Falcone: 4
 Scalvini: 6
 Dragusin: 6
 Sutalo J.: 4.5
@@ -52,16 +52,16 @@ Vergara: 6
 Kessiè: 6
 Koopmeiners: 6
 Cambiaghi: 6.5
-Lucca: 6
+Lucca: 0
 
 
 CA River Nave
 ========================================
 
 TITOLARI
-Bijlow: 7
+Bijlow: 7.5
 Kempf: 6
-Tiago Gabriel: 6
+Tiago Gabriel: 5
 Vasquez: 6.5
 Hermoso: 0
 Politano: 11
@@ -74,9 +74,9 @@ Berardi: 4.5
 PANCHINA
 Okoye: 10.5
 Perri: 3
-Ghedjemis: 6
+Ghedjemis: 7.5
 Esposito Se.: 10
-El Shaarawy: 6
+El Shaarawy: 0
 Romero D.: 5.5
 Delprato: 6.5
 Diego Carlos: 0
@@ -85,7 +85,7 @@ Malen: 10
 Konè M.: 0
 Chukwueze: 0
 Koulierakis: 6
-Celik: 6
+Celik: 0
 
 
 Fc Galaxy
@@ -109,8 +109,8 @@ Butez: 0
 De Gea: 6
 Valle: 5.5
 Kaiki: 6.5
-Mangas: 5.5
-Kelly L.: 6
+Mangas: 5
+Kelly L.: 0
 Valdepenas: 6
 Oulai: 6
 Casadei: 0
@@ -136,12 +136,12 @@ Hojlund: 10
 
 PANCHINA
 Milinkovic-Savic V.: 6
-Meret: 6
+Meret: 0
 Kabasele: 6.5
 Fitz-Jim: 7.5
 Cristante: 6
 Romano: 5.5
-Colombo: 6
+Colombo: 0
 
 
 Real Barbarian
@@ -174,7 +174,7 @@ Orsolini: 0
 Davis K.: 5.5
 Simeone: 6.5
 Gnonto: 6
-Yildiz: 6
+Yildiz: 0
 
 
 Loop FC
@@ -201,11 +201,11 @@ Di Lorenzo: 7
 Calhanoglu: 6.5
 Milla: 6.5
 Modric: 5.5
-Spinazzola: 6
+Spinazzola: 0
 Solet: 0
 Colpani: 5.5
 Mbangula: 18
-Boga: 6
+Boga: 5.5
 Beto: 6
 Raspadori: 6
 
@@ -219,11 +219,11 @@ Kamara H.: 5.5
 Bisseck: 5.5
 Spence: 0
 Mora: 10.5
-Calò: 6
+Calò: 9
 Ekkelenkamp: 6
 Goncalves P.: 6
 Douvikas: 5.5
-Raimondo: 6
+Raimondo: 10
 Krstovic: 6
 
 PANCHINA
@@ -233,12 +233,12 @@ Valeri: 6
 Vojvoda: 6
 Holm: 0
 Stones: 0
-Badiashile: 6
+Badiashile: 0
 Samardzic: 6
 Massolin: 0
 Gudmundsson A.: 0
 Jones C.: 0
-Kvernadze: 6
+Kvernadze: 8
 Varela G.: 10
 Castro S.: 5.5
 
