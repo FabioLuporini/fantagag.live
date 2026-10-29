@@ -12,15 +12,15 @@ Douglas Luiz: 5
 Sucic P.: 6
 Thorstvedt: 4
 Pinamonti: 6
-De Ketelaere: 6
+De Ketelaere: 11.5
 
 PANCHINA
 Caprile: 2.5
-Falcone: 4
-Scalvini: 6
-Dragusin: 6
+Falcone: 2
+Scalvini: 5.5
+Dragusin: 5.5
 Sutalo J.: 4.5
-Bernasconi: 6
+Bernasconi: 5.5
 Bowie: 5.5
 Scamacca: 6
 Dovbyk: 0
@@ -36,7 +36,7 @@ Lulli: 11.5
 Akanji: 6
 Baturina: 10
 Cissè A.: 13.5
-Ederson D.S.: 6
+Ederson D.S.: 5
 Alajbegovic: 6
 Soulè: 6
 Mendy P.: 6
@@ -61,14 +61,14 @@ CA River Nave
 TITOLARI
 Bijlow: 7.5
 Kempf: 6
-Tiago Gabriel: 5
+Tiago Gabriel: 4.5
 Vasquez: 6.5
 Hermoso: 0
 Politano: 11
 Vlasic: 5.5
 Bernardeschi: 6
 Barella: 5.5
-Gaetano: 6
+Gaetano: 6.5
 Berardi: 4.5
 
 PANCHINA
@@ -80,7 +80,7 @@ El Shaarawy: 0
 Romero D.: 5.5
 Delprato: 6.5
 Diego Carlos: 0
-Bobcek: 6
+Bobcek: 0
 Malen: 10
 Konè M.: 0
 Chukwueze: 0
@@ -93,20 +93,20 @@ Fc Galaxy
 
 TITOLARI
 Sanchez Ro.: 6
-Jimenez A.: 6
+Jimenez A.: 7.5
 Bastoni: 5.5
 Couto: 7.5
 Zambo Anguissa: 6
-Mastantuono: 6
+Mastantuono: 6.5
 Paz N.: 11.5
 Zaccagni: 11.5
 Da Cunha: 6.5
 Laurientè: 5.5
-Pellegrino M.: 6
+Pellegrino M.: 4.5
 
 PANCHINA
 Butez: 0
-De Gea: 6
+De Gea: 4.5
 Valle: 5.5
 Kaiki: 6.5
 Mangas: 5
@@ -128,9 +128,9 @@ Bartesaghi: 4
 N'Dicka: 6
 Mancini: 5.5
 Miranda J.: 8
-Rowe: 6
+Rowe: 5.5
 Perrone: 5
-Pasalic: 6
+Pasalic: 5.5
 Esposito F.P.: 6
 Hojlund: 10
 
@@ -173,7 +173,7 @@ Sarr P.: 5
 Orsolini: 0
 Davis K.: 5.5
 Simeone: 6.5
-Gnonto: 6
+Gnonto: 5
 Yildiz: 0
 
 
@@ -181,7 +181,7 @@ Loop FC
 ========================================
 
 TITOLARI
-Carnesecchi: 6
+Carnesecchi: 4
 Balerdi: 0
 Ramon: 9.5
 Belghali: 6
@@ -219,12 +219,12 @@ Kamara H.: 5.5
 Bisseck: 5.5
 Spence: 0
 Mora: 10.5
-Calò: 9
+Calò: 9.5
 Ekkelenkamp: 6
 Goncalves P.: 6
 Douvikas: 5.5
 Raimondo: 10
-Krstovic: 6
+Krstovic: 5.5
 
 PANCHINA
 Motta: 0
@@ -238,7 +238,7 @@ Samardzic: 6
 Massolin: 0
 Gudmundsson A.: 0
 Jones C.: 0
-Kvernadze: 8
+Kvernadze: 10
 Varela G.: 10
 Castro S.: 5.5
 
