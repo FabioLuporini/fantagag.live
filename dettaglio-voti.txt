@@ -29,7 +29,7 @@ PS Marlia United
 ========================================
 
 TITOLARI
-Gollini: 7.5
+Gollini: 5
 Lulli: 6
 Bremer: 6
 Akanji: 6
@@ -134,7 +134,7 @@ Provedel: 6
 Gila: 6
 Bartesaghi: 6
 Kabasele: 4
-Cristante: 10.5
+Cristante: 10
 Romano: 6
 Colombo: 6
 
@@ -150,7 +150,7 @@ Molina N.: 6
 Pulisic: 6
 Diouf: 6
 Taylor K.: 6
-Zaniolo: 5.5
+Zaniolo: 9
 Orsolini: 0
 Ramos G.: 6
 Simeone: 6
