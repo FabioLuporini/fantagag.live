@@ -5,7 +5,7 @@ TITOLARI
 Maignan: 6
 Sutalo J.: 6
 Scalvini: 6
-Pavlovic: 6.5
+Pavlovic: 7
 Bernasconi: 6
 Frattesi: 6
 De Bruyne: 6
@@ -20,7 +20,7 @@ Caprile: 6
 Rrahmani: 6
 Dragusin: 6
 Kalulu: 6
-Sucic P.: 5.5
+Sucic P.: 5
 Douglas Luiz: 6
 Bowie: 6
 
@@ -35,7 +35,7 @@ Bremer: 6
 Akanji: 7
 Baturina: 6
 Ederson D.S.: 6
-Cissè A.: 6
+Cissè A.: 0
 Koopmeiners: 6
 Alajbegovic: 6
 Soulè: 9.5
@@ -89,7 +89,7 @@ Butez: 6
 Valle: 6
 Couto: 6
 Kaiki: 6
-Moreira: 13
+Moreira: 12.5
 Zaccagni: 6
 Da Cunha: 6
 Paz N.: 6
@@ -126,13 +126,13 @@ Perrone: 6
 Pasalic: 6
 Fitz-Jim: 6
 Hojlund: 6
-Esposito F.P.: 6
+Esposito F.P.: 0
 
 PANCHINA
 Milinkovic-Savic V.: 6
-Provedel: 6
-Gila: 6
-Bartesaghi: 6
+Provedel: 0
+Gila: 6.5
+Bartesaghi: 0
 Kabasele: 4
 Cristante: 10
 Romano: 6
@@ -144,7 +144,7 @@ Real Barbarian
 
 TITOLARI
 Martinez Jo.: 3
-Dimarco: 6
+Dimarco: 0
 Ostigard: 6
 Molina N.: 6
 Pulisic: 10
@@ -152,7 +152,7 @@ Diouf: 5.5
 Taylor K.: 6
 Zaniolo: 9
 Orsolini: 0
-Ramos G.: 5.5
+Ramos G.: 6
 Simeone: 6
 
 PANCHINA
@@ -163,9 +163,9 @@ Theate: 5.5
 Kristensen T.: 6
 Mina: 6
 Idzes: 6
-Hutchinson: 6
+Hutchinson: 0
 Sarr P.: 6
-Jashari: 6
+Jashari: 0
 Woltemade: 6
 Davis K.: 5
 Gnonto: 6
@@ -180,12 +180,12 @@ Carnesecchi: 6
 Ramon: 6
 Balerdi: 0
 Wesley: 7.5
-Carlos Augusto: 5
-Modric: 6.5
-Calhanoglu: 6
+Carlos Augusto: 4
+Modric: 7
+Calhanoglu: 5.5
 McTominay: 6
-Zielinski: 6
-Thuram: 5.5
+Zielinski: 5.5
+Thuram: 5
 Kolo Muani: 6
 
 PANCHINA
@@ -196,7 +196,7 @@ Di Lorenzo: 6
 McKennie: 6
 Mbangula: 5.5
 Milla: 6
-Bonny: 6
+Bonny: 0
 Colpani: 0
 Beto: 6
 Boga: 6
@@ -222,13 +222,13 @@ PANCHINA
 Motta: 6
 Vicario: 6
 Holm: 0
-Stones: 6
+Stones: 0
 Vojvoda: 5
 Valeri: 6
 Badiashile: 6
 Gudmundsson A.: 6
 Samardzic: 6
-Jones C.: 6
+Jones C.: 0
 Massolin: 6
 Varela G.: 9
 Kvernadze: 6
