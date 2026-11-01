@@ -15,7 +15,7 @@ Dovbyk: 0
 De Ketelaere: 6
 
 PANCHINA
-Falcone: 6
+Falcone: 7
 Caprile: 4.5
 Rrahmani: 6
 Dragusin: 6
@@ -56,7 +56,7 @@ CA River Nave
 ========================================
 
 TITOLARI
-Bijlow: 6
+Bijlow: 7
 Hermoso: 6
 Tiago Gabriel: 6
 Kempf: 6.5
