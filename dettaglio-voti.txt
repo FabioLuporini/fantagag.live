@@ -15,7 +15,7 @@ Dovbyk: 0
 De Ketelaere: 6
 
 PANCHINA
-Falcone: 7
+Falcone: 4
 Caprile: 4.5
 Rrahmani: 6
 Dragusin: 6
@@ -56,14 +56,14 @@ CA River Nave
 ========================================
 
 TITOLARI
-Bijlow: 7
+Bijlow: 5.5
 Hermoso: 6
-Tiago Gabriel: 6
+Tiago Gabriel: 5
 Kempf: 6.5
 Bernardeschi: 8.5
 Barella: 5
 Politano: 6
-El Shaarawy: 6
+El Shaarawy: 7.5
 Esposito Se.: 6
 Ghedjemis: 10.5
 Malen: 10
@@ -77,7 +77,7 @@ Vlasic: 5.5
 Delprato: 6
 Bobcek: 0
 Koulierakis: 0
-Vasquez: 6
+Vasquez: 6.5
 Diego Carlos: 6
 
 
@@ -116,7 +116,7 @@ A.C. Looters
 ========================================
 
 TITOLARI
-Meret: 6
+Meret: 7
 Tavares N.: 6
 Miranda J.: 8
 Mancini: 0
@@ -136,7 +136,7 @@ Bartesaghi: 0
 Kabasele: 4
 Cristante: 10
 Romano: 5.5
-Colombo: 6
+Colombo: 0
 
 
 Real Barbarian
@@ -145,7 +145,7 @@ Real Barbarian
 TITOLARI
 Martinez Jo.: 3
 Dimarco: 0
-Ostigard: 6
+Ostigard: 6.5
 Molina N.: 6
 Pulisic: 10
 Diouf: 5.5
@@ -220,7 +220,7 @@ Krstovic: 6
 
 PANCHINA
 Motta: 0
-Vicario: 6
+Vicario: 7
 Holm: 0
 Stones: 0
 Vojvoda: 5
