@@ -37,17 +37,17 @@ Baturina: 6.5
 Ederson D.S.: 6
 Cissè A.: 0
 Koopmeiners: 5.5
-Alajbegovic: 6.5
+Alajbegovic: 10
 Soulè: 9.5
 Cambiaghi: 6.5
 
 PANCHINA
 Stankovic F.: 5.5
 Lucumì: 5.5
-Cambiaso: 6
+Cambiaso: 7
 Comuzzo: 5.5
-Vergara: 6
-Lang: 6
+Vergara: 5.5
+Lang: 5.5
 Lucca: 6.5
 Mendy P.: 5.5
 
@@ -62,7 +62,7 @@ Tiago Gabriel: 5
 Kempf: 6.5
 Bernardeschi: 8.5
 Barella: 5
-Politano: 6
+Politano: 5.5
 El Shaarawy: 7.5
 Esposito Se.: 6
 Ghedjemis: 10.5
@@ -105,7 +105,7 @@ Mangas: 5.5
 Bastoni: 9.5
 Valdepenas: 6
 Kelly L.: 6
-Zambo Anguissa: 6
+Zambo Anguissa: 5.5
 Oulai: 6
 Casadei: 0
 Yeboah J.: 5.5
@@ -116,7 +116,7 @@ A.C. Looters
 ========================================
 
 TITOLARI
-Meret: 7.5
+Meret: 4.5
 Tavares N.: 6
 Miranda J.: 8
 Mancini: 0
@@ -125,11 +125,11 @@ Rowe: 6
 Perrone: 6
 Pasalic: 6
 Fitz-Jim: 0
-Hojlund: 6
+Hojlund: 0
 Esposito F.P.: 0
 
 PANCHINA
-Milinkovic-Savic V.: 6
+Milinkovic-Savic V.: 0
 Provedel: 0
 Gila: 6.5
 Bartesaghi: 0
@@ -164,12 +164,12 @@ Kristensen T.: 6
 Mina: 0
 Idzes: 6
 Hutchinson: 0
-Sarr P.: 6
+Sarr P.: 0
 Jashari: 0
-Woltemade: 6
+Woltemade: 6.5
 Davis K.: 5
 Gnonto: 6
-Yildiz: 6
+Yildiz: 0
 
 
 Loop FC
@@ -183,10 +183,10 @@ Wesley: 7.5
 Carlos Augusto: 4
 Modric: 7
 Calhanoglu: 5.5
-McTominay: 5.5
+McTominay: 5
 Zielinski: 5.5
 Thuram: 5
-Kolo Muani: 5.5
+Kolo Muani: 5
 
 PANCHINA
 Skorupski: 9
@@ -199,7 +199,7 @@ Milla: 5.5
 Bonny: 0
 Colpani: 0
 Beto: 6
-Boga: 6
+Boga: 10
 
 
 F,C SHAKA
@@ -225,7 +225,7 @@ Holm: 0
 Stones: 0
 Vojvoda: 5
 Valeri: 6
-Badiashile: 6
+Badiashile: 0
 Gudmundsson A.: 0
 Samardzic: 6
 Jones C.: 0
