@@ -21,7 +21,7 @@ Rrahmani: 6
 Dragusin: 6
 Kalulu: 6
 Sucic P.: 5
-Douglas Luiz: 6
+Douglas Luiz: 5.5
 Bowie: 6
 
 
@@ -36,19 +36,19 @@ Akanji: 7
 Baturina: 6.5
 Ederson D.S.: 6
 Cissè A.: 0
-Koopmeiners: 6
-Alajbegovic: 6
+Koopmeiners: 5.5
+Alajbegovic: 6.5
 Soulè: 9.5
 Cambiaghi: 6.5
 
 PANCHINA
 Stankovic F.: 5.5
-Lucumì: 6
+Lucumì: 5.5
 Cambiaso: 6
 Comuzzo: 5.5
 Vergara: 6
 Lang: 6
-Lucca: 6
+Lucca: 6.5
 Mendy P.: 5.5
 
 
@@ -116,7 +116,7 @@ A.C. Looters
 ========================================
 
 TITOLARI
-Meret: 7
+Meret: 7.5
 Tavares N.: 6
 Miranda J.: 8
 Mancini: 0
@@ -183,17 +183,17 @@ Wesley: 7.5
 Carlos Augusto: 4
 Modric: 7
 Calhanoglu: 5.5
-McTominay: 6
+McTominay: 5.5
 Zielinski: 5.5
 Thuram: 5
-Kolo Muani: 6
+Kolo Muani: 5.5
 
 PANCHINA
 Skorupski: 9
 Sportiello: 6
 Belghali: 6
-Di Lorenzo: 6
-McKennie: 6
+Di Lorenzo: 5.5
+McKennie: 5.5
 Mbangula: 5.5
 Milla: 5.5
 Bonny: 0
@@ -220,7 +220,7 @@ Krstovic: 6
 
 PANCHINA
 Motta: 0
-Vicario: 7
+Vicario: 7.5
 Holm: 0
 Stones: 0
 Vojvoda: 5
