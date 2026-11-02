@@ -4,25 +4,25 @@ Fc Amaca Boys
 TITOLARI
 Maignan: 6
 Sutalo J.: 5.5
-Scalvini: 6
+Scalvini: 5
 Pavlovic: 7
-Bernasconi: 6
+Bernasconi: 5
 Frattesi: 5.5
 De Bruyne: 6
 Rabiot: 10
 Pinamonti: 9.5
 Dovbyk: 0
-De Ketelaere: 6
+De Ketelaere: 5.5
 
 PANCHINA
 Falcone: 4
 Caprile: 4.5
 Rrahmani: 6
-Dragusin: 6
+Dragusin: 4.5
 Kalulu: 6
 Sucic P.: 5
 Douglas Luiz: 5.5
-Bowie: 6
+Bowie: 5.5
 
 
 PS Marlia United
@@ -34,7 +34,7 @@ Lulli: 0
 Bremer: 6
 Akanji: 7
 Baturina: 6.5
-Ederson D.S.: 6
+Ederson D.S.: 5
 Cissè A.: 0
 Koopmeiners: 5.5
 Alajbegovic: 10
@@ -64,17 +64,17 @@ Bernardeschi: 8.5
 Barella: 5
 Politano: 5.5
 El Shaarawy: 7.5
-Esposito Se.: 6
+Esposito Se.: 7.5
 Ghedjemis: 10.5
 Malen: 10
 
 PANCHINA
 Okoye: 0
 Perri: 3.5
-Berardi: 6
+Berardi: 5.5
 Romero D.: 6
 Vlasic: 5.5
-Delprato: 6
+Delprato: 6.5
 Bobcek: 0
 Koulierakis: 0
 Vasquez: 6.5
@@ -93,17 +93,17 @@ Moreira: 12.5
 Zaccagni: 6
 Da Cunha: 9
 Paz N.: 6
-Mastantuono: 6
-Laurientè: 6
-Pellegrino M.: 6
+Mastantuono: 10
+Laurientè: 14
+Pellegrino M.: 10
 
 PANCHINA
 Sanchez Ro.: 0
-De Gea: 6
-Jimenez A.: 6
+De Gea: 3
+Jimenez A.: 5
 Mangas: 5.5
 Bastoni: 9.5
-Valdepenas: 6
+Valdepenas: 9.5
 Kelly L.: 6
 Zambo Anguissa: 5.5
 Oulai: 6
@@ -121,9 +121,9 @@ Tavares N.: 6
 Miranda J.: 8
 Mancini: 0
 N'Dicka: 9.5
-Rowe: 6
+Rowe: 5
 Perrone: 6
-Pasalic: 6
+Pasalic: 5
 Fitz-Jim: 0
 Hojlund: 0
 Esposito F.P.: 0
@@ -156,19 +156,19 @@ Ramos G.: 6
 Simeone: 5.5
 
 PANCHINA
-Turati: 6
-Muric: 6
+Turati: 2
+Muric: 0
 Palma: 8
 Theate: 5.5
 Kristensen T.: 6
 Mina: 0
-Idzes: 6
+Idzes: 5.5
 Hutchinson: 0
 Sarr P.: 0
 Jashari: 0
 Woltemade: 6.5
 Davis K.: 5
-Gnonto: 6
+Gnonto: 5.5
 Yildiz: 0
 
 
@@ -176,7 +176,7 @@ Loop FC
 ========================================
 
 TITOLARI
-Carnesecchi: 6
+Carnesecchi: 2.5
 Ramon: 6.5
 Balerdi: 0
 Wesley: 7.5
@@ -213,10 +213,10 @@ Bisseck: 5.5
 Calò: 10.5
 Ekkelenkamp: 5.5
 Mora: 10
-Goncalves P.: 6
+Goncalves P.: 8
 Raimondo: 6
 Douvikas: 6.5
-Krstovic: 6
+Krstovic: 5
 
 PANCHINA
 Motta: 0
@@ -224,7 +224,7 @@ Vicario: 7.5
 Holm: 0
 Stones: 0
 Vojvoda: 5
-Valeri: 6
+Valeri: 6.5
 Badiashile: 0
 Gudmundsson A.: 0
 Samardzic: 6
