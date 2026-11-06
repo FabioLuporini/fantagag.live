@@ -9,8 +9,8 @@ Molina N.: 6
 Pulisic: 6
 Orsolini: 6
 Taylor K.: 6
-Zaniolo: 6
-Davis K.: 6
+Zaniolo: 5.5
+Davis K.: 5.5
 Simeone: 6
 Woltemade: 6
 
@@ -18,7 +18,7 @@ PANCHINA
 Turati: 6
 Muric: 6
 Theate: 6
-Palma: 6
+Palma: 5.5
 Kristensen T.: 6
 Mina: 6
 Idzes: 6
@@ -80,7 +80,7 @@ Krstovic: 6
 PANCHINA
 Motta: 6
 Vicario: 6
-Vojvoda: 6
+Vojvoda: 5.5
 Valeri: 6
 Holm: 6
 Stones: 6
@@ -116,7 +116,7 @@ Pasalic: 6
 Bartesaghi: 6
 Perrone: 6
 Colombo: 6
-Kabasele: 6
+Kabasele: 5.5
 Provedel: 6
 Milinkovic-Savic V.: 6
 
@@ -138,7 +138,7 @@ Soulè: 6
 Lang: 6
 
 PANCHINA
-Stankovic F.: 7
+Stankovic F.: 5.5
 Lucumì: 6
 Cambiaso: 6
 Comuzzo: 6
@@ -178,7 +178,7 @@ Boga: 6
 Bonny: 6
 Colpani: 6
 Beto: 6
-Solet: 6
+Solet: 6.5
 Spinazzola: 6
 Raspadori: 6
 
@@ -209,7 +209,7 @@ Tiago Gabriel: 6
 Diego Carlos: 6
 Koulierakis: 6
 Bijlow: 6
-Okoye: 7
+Okoye: 3.5
 
 
 Fc Galaxy
