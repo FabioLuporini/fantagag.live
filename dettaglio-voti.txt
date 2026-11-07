@@ -7,7 +7,7 @@ Dimarco: 6
 Ostigard: 6
 Molina N.: 6
 Pulisic: 6
-Orsolini: 6
+Orsolini: 9
 Taylor K.: 6
 Zaniolo: 5.5
 Davis K.: 5.5
@@ -16,12 +16,12 @@ Woltemade: 6
 
 PANCHINA
 Turati: 6
-Muric: 6
-Theate: 5.5
+Muric: 4
+Theate: 10
 Palma: 5
 Kristensen T.: 6
 Mina: 0
-Idzes: 6
+Idzes: 5.5
 Hutchinson: 6
 Diouf: 6
 Sarr P.: 6
@@ -57,7 +57,7 @@ Sutalo J.: 6
 Sucic P.: 6
 Douglas Luiz: 6
 Pinamonti: 6
-Dovbyk: 6
+Dovbyk: 0
 Bowie: 6
 
 
@@ -69,7 +69,7 @@ Mandas: 6
 Kamara H.: 6
 Bisseck: 6
 Spence: 6
-Mora: 6
+Mora: 6.5
 Calò: 6.5
 Ekkelenkamp: 6
 Goncalves P.: 6
@@ -81,8 +81,8 @@ PANCHINA
 Motta: 6
 Vicario: 6
 Vojvoda: 5.5
-Valeri: 6
-Holm: 6
+Valeri: 5.5
+Holm: 0
 Stones: 6
 Badiashile: 6
 Samardzic: 6
@@ -147,17 +147,17 @@ Vergara: 6
 Kessiè: 6
 Lucca: 6
 Mendy P.: 8
-Cambiaghi: 5.5
+Cambiaghi: 8
 
 
 Loop FC
 ========================================
 
 TITOLARI
-Skorupski: 7
+Skorupski: 5.5
 Ramon: 6
 Belghali: 6.5
-Wesley: 6
+Wesley: 6.5
 Carlos Augusto: 6
 Mbangula: 6.5
 Calhanoglu: 6
@@ -169,7 +169,7 @@ Kolo Muani: 6
 PANCHINA
 Carnesecchi: 6
 Sportiello: 6
-Balerdi: 6
+Balerdi: 6.5
 Di Lorenzo: 6
 McKennie: 6
 Modric: 6
@@ -189,24 +189,24 @@ CA River Nave
 TITOLARI
 Perri: 5
 Kempf: 6
-Delprato: 6.5
-Hermoso: 6
+Delprato: 5.5
+Hermoso: 10
 Politano: 6
 Barella: 6
-Bernardeschi: 5.5
+Bernardeschi: 6.5
 Vlasic: 5.5
 Romero D.: 5.5
 Ghedjemis: 6
-Malen: 6
+Malen: 6.5
 
 PANCHINA
-Esposito Se.: 6
+Esposito Se.: 5.5
 Berardi: 6
 Bobcek: 6
 El Shaarawy: 6
 Vasquez: 6
 Tiago Gabriel: 6.5
-Diego Carlos: 6
+Diego Carlos: 0
 Koulierakis: 6
 Bijlow: 6
 Okoye: 3.5
@@ -239,6 +239,6 @@ Kelly L.: 6
 Oulai: 6
 Casadei: 0
 Yeboah J.: 6
-Laurientè: 6
+Laurientè: 5
 
 
