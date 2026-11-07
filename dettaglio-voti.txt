@@ -18,7 +18,7 @@ PANCHINA
 Turati: 6
 Muric: 6
 Theate: 6
-Palma: 5.5
+Palma: 5
 Kristensen T.: 6
 Mina: 6
 Idzes: 6
