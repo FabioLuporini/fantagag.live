@@ -11,13 +11,13 @@ Orsolini: 6
 Taylor K.: 6
 Zaniolo: 5.5
 Davis K.: 5.5
-Simeone: 9.5
+Simeone: 6.5
 Woltemade: 6
 
 PANCHINA
 Turati: 6
 Muric: 6
-Theate: 6
+Theate: 5.5
 Palma: 5
 Kristensen T.: 6
 Mina: 0
@@ -141,13 +141,13 @@ PANCHINA
 Stankovic F.: 5.5
 Lucumì: 6
 Cambiaso: 6
-Comuzzo: 8
+Comuzzo: 7
 Pavard: 6
 Vergara: 6
 Kessiè: 6
 Lucca: 6
 Mendy P.: 8
-Cambiaghi: 6
+Cambiaghi: 5.5
 
 
 Loop FC
@@ -159,7 +159,7 @@ Ramon: 6
 Belghali: 6.5
 Wesley: 6
 Carlos Augusto: 6
-Mbangula: 6
+Mbangula: 6.5
 Calhanoglu: 6
 McTominay: 6
 Zielinski: 6
@@ -189,13 +189,13 @@ CA River Nave
 TITOLARI
 Perri: 5
 Kempf: 6
-Delprato: 6
+Delprato: 6.5
 Hermoso: 6
 Politano: 6
 Barella: 6
-Bernardeschi: 6
+Bernardeschi: 5.5
 Vlasic: 5.5
-Romero D.: 6
+Romero D.: 5.5
 Ghedjemis: 6
 Malen: 6
 
