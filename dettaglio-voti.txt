@@ -5,7 +5,7 @@ TITOLARI
 Martinez Jo.: 6
 Dimarco: 6
 Ostigard: 6
-Molina N.: 6
+Molina N.: 6.5
 Pulisic: 6
 Orsolini: 9
 Taylor K.: 6
@@ -15,13 +15,13 @@ Simeone: 6.5
 Woltemade: 6
 
 PANCHINA
-Turati: 6
-Muric: 4
+Turati: 0
+Muric: 3
 Theate: 10
 Palma: 5
 Kristensen T.: 6
 Mina: 0
-Idzes: 5.5
+Idzes: 5
 Hutchinson: 6
 Diouf: 6
 Sarr P.: 6
@@ -39,7 +39,7 @@ Maignan: 6
 Pavlovic: 6
 Rrahmani: 6
 Kalulu: 6
-Thorstvedt: 6
+Thorstvedt: 5
 Rabiot: 6
 Mandragora: 0
 De Bruyne: 6
@@ -58,7 +58,7 @@ Sucic P.: 6
 Douglas Luiz: 6
 Pinamonti: 6
 Dovbyk: 0
-Bowie: 6
+Bowie: 5.5
 
 
 F,C SHAKA
@@ -69,7 +69,7 @@ Mandas: 6
 Kamara H.: 6
 Bisseck: 6
 Spence: 6
-Mora: 6.5
+Mora: 10
 Calò: 6.5
 Ekkelenkamp: 6
 Goncalves P.: 6
@@ -90,7 +90,7 @@ Gudmundsson A.: 6
 Massolin: 0
 Jones C.: 6
 Douvikas: 6
-Castro S.: 6
+Castro S.: 0
 
 
 A.C. Looters
@@ -99,11 +99,11 @@ A.C. Looters
 TITOLARI
 Meret: 6
 Miranda J.: 6
-N'Dicka: 6
+N'Dicka: 6.5
 Gila: 6
-Mancini: 6
+Mancini: 0
 Tavares N.: 6
-Cristante: 6
+Cristante: 6.5
 Fitz-Jim: 5
 Rowe: 6
 Hojlund: 6
@@ -125,8 +125,8 @@ PS Marlia United
 ========================================
 
 TITOLARI
-Gollini: 6
-Lulli: 6
+Gollini: 0
+Lulli: 0
 Bremer: 6
 Akanji: 6
 Baturina: 6
@@ -134,7 +134,7 @@ Ederson D.S.: 6
 Cissè A.: 6
 Koopmeiners: 6
 Alajbegovic: 6
-Soulè: 6
+Soulè: 6.5
 Lang: 6
 
 PANCHINA
@@ -190,24 +190,24 @@ TITOLARI
 Perri: 5
 Kempf: 6
 Delprato: 5.5
-Hermoso: 10
+Hermoso: 10.5
 Politano: 6
 Barella: 6
 Bernardeschi: 6.5
 Vlasic: 5.5
 Romero D.: 5.5
 Ghedjemis: 6
-Malen: 6.5
+Malen: 7.5
 
 PANCHINA
 Esposito Se.: 5.5
-Berardi: 6
+Berardi: 0
 Bobcek: 6
 El Shaarawy: 6
 Vasquez: 6
 Tiago Gabriel: 6.5
 Diego Carlos: 0
-Koulierakis: 6
+Koulierakis: 0
 Bijlow: 6
 Okoye: 3.5
 
