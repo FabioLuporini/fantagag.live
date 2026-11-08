@@ -68,7 +68,7 @@ TITOLARI
 Mandas: 6
 Kamara H.: 6
 Bisseck: 6
-Spence: 6
+Spence: 6.5
 Mora: 10
 Calò: 6.5
 Ekkelenkamp: 6
@@ -107,14 +107,14 @@ Cristante: 6.5
 Fitz-Jim: 5
 Rowe: 6
 Hojlund: 5.5
-Esposito F.P.: 6
+Esposito F.P.: 10
 
 PANCHINA
 Romano: 6
 Piccoli: 6
 Pasalic: 6
 Bartesaghi: 0
-Perrone: 6
+Perrone: 5.5
 Colombo: 5.5
 Kabasele: 5.5
 Provedel: 6
@@ -155,7 +155,7 @@ Loop FC
 
 TITOLARI
 Skorupski: 5.5
-Ramon: 6
+Ramon: 5
 Belghali: 6.5
 Wesley: 6.5
 Carlos Augusto: 6
@@ -163,7 +163,7 @@ Mbangula: 6.5
 Calhanoglu: 6
 McTominay: 6
 Zielinski: 6
-Thuram: 6
+Thuram: 6.5
 Kolo Muani: 6
 
 PANCHINA
@@ -224,13 +224,13 @@ Da Cunha: 6
 Zambo Anguissa: 5.5
 Mastantuono: 6
 Moreira: 6.5
-Paz N.: 6
+Paz N.: 5.5
 Adams C.: 6
 Pellegrino M.: 6
 
 PANCHINA
 Butez: 6
-Sanchez Ro.: 7
+Sanchez Ro.: 5
 Valdepenas: 6
 Valle: 6
 Couto: 6
