@@ -12,7 +12,7 @@ Taylor K.: 6.5
 Zaniolo: 5.5
 Davis K.: 5.5
 Simeone: 6.5
-Woltemade: 6
+Woltemade: 5.5
 
 PANCHINA
 Turati: 0
@@ -23,7 +23,7 @@ Kristensen T.: 0
 Mina: 0
 Idzes: 5
 Hutchinson: 6
-Diouf: 6
+Diouf: 0
 Sarr P.: 6
 Jashari: 5.5
 Ramos G.: 7.5
@@ -54,7 +54,7 @@ Dragusin: 6
 Scalvini: 6.5
 Bernasconi: 6
 Sutalo J.: 6.5
-Sucic P.: 6
+Sucic P.: 0
 Douglas Luiz: 6
 Pinamonti: 5.5
 Dovbyk: 0
@@ -67,28 +67,28 @@ F,C SHAKA
 TITOLARI
 Mandas: 6
 Kamara H.: 6
-Bisseck: 6
+Bisseck: 0
 Spence: 6.5
 Mora: 10
 Calò: 6.5
 Ekkelenkamp: 6
-Goncalves P.: 6
+Goncalves P.: 7.5
 Kvernadze: 5
 Varela G.: 5.5
 Krstovic: 10
 
 PANCHINA
 Motta: 0
-Vicario: 6
+Vicario: 5
 Vojvoda: 5.5
 Valeri: 5.5
 Holm: 0
-Stones: 6
+Stones: 0
 Badiashile: 0
 Samardzic: 0
 Gudmundsson A.: 0
 Massolin: 0
-Jones C.: 6
+Jones C.: 0
 Douvikas: 5
 Castro S.: 0
 
@@ -117,7 +117,7 @@ Bartesaghi: 0
 Perrone: 5.5
 Colombo: 5.5
 Kabasele: 5.5
-Provedel: 6
+Provedel: 0
 Milinkovic-Savic V.: 5.5
 
 
@@ -142,7 +142,7 @@ Stankovic F.: 5.5
 Lucumì: 6
 Cambiaso: 6
 Comuzzo: 7
-Pavard: 6
+Pavard: 0
 Vergara: 5
 Kessiè: 0
 Lucca: 5.5
@@ -216,9 +216,9 @@ Fc Galaxy
 ========================================
 
 TITOLARI
-De Gea: 6
+De Gea: 7
 Mangas: 5.5
-Bastoni: 6.5
+Bastoni: 7
 Jimenez A.: 6
 Da Cunha: 5
 Zambo Anguissa: 5.5
@@ -226,10 +226,10 @@ Mastantuono: 6
 Moreira: 6.5
 Paz N.: 5
 Adams C.: 6
-Pellegrino M.: 6
+Pellegrino M.: 10
 
 PANCHINA
-Butez: 6
+Butez: 0
 Sanchez Ro.: 4
 Valdepenas: 6
 Valle: 5
