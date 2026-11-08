@@ -72,7 +72,7 @@ Spence: 6.5
 Mora: 10
 Calò: 6.5
 Ekkelenkamp: 6
-Goncalves P.: 7.5
+Goncalves P.: 7
 Kvernadze: 5
 Varela G.: 5.5
 Krstovic: 10
@@ -164,14 +164,14 @@ Calhanoglu: 6
 McTominay: 6
 Zielinski: 7
 Thuram: 10.5
-Kolo Muani: 7.5
+Kolo Muani: 8
 
 PANCHINA
 Carnesecchi: 8
 Sportiello: 0
 Balerdi: 6.5
 Di Lorenzo: 0
-McKennie: 6
+McKennie: 6.5
 Modric: 6.5
 Milla: 5.5
 Boga: 6
