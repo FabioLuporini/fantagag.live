@@ -12,7 +12,7 @@ Taylor K.: 6.5
 Zaniolo: 5.5
 Davis K.: 5.5
 Simeone: 6.5
-Woltemade: 5.5
+Woltemade: 9.5
 
 PANCHINA
 Turati: 0
@@ -50,7 +50,7 @@ De Ketelaere: 5
 PANCHINA
 Falcone: 6
 Caprile: 8.5
-Dragusin: 6
+Dragusin: 5.5
 Scalvini: 6.5
 Bernasconi: 6
 Sutalo J.: 6.5
@@ -127,7 +127,7 @@ PS Marlia United
 TITOLARI
 Gollini: 0
 Lulli: 0
-Bremer: 6
+Bremer: 5
 Akanji: 6
 Baturina: 5.5
 Ederson D.S.: 5
@@ -139,7 +139,7 @@ Lang: 6
 
 PANCHINA
 Stankovic F.: 5.5
-Lucumì: 6
+Lucumì: 5.5
 Cambiaso: 6
 Comuzzo: 7
 Pavard: 0
@@ -164,7 +164,7 @@ Calhanoglu: 6
 McTominay: 6
 Zielinski: 7
 Thuram: 10.5
-Kolo Muani: 6
+Kolo Muani: 7.5
 
 PANCHINA
 Carnesecchi: 8
@@ -216,7 +216,7 @@ Fc Galaxy
 ========================================
 
 TITOLARI
-De Gea: 7
+De Gea: 5.5
 Mangas: 5.5
 Bastoni: 7
 Jimenez A.: 6
@@ -236,7 +236,7 @@ Valle: 5
 Couto: 5.5
 Kaiki: 6
 Kelly L.: 6
-Oulai: 6
+Oulai: 6.5
 Casadei: 0
 Yeboah J.: 6
 Laurientè: 5
