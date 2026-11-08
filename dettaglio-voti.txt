@@ -72,14 +72,14 @@ Spence: 6.5
 Mora: 10
 Calò: 6.5
 Ekkelenkamp: 6
-Goncalves P.: 7
+Goncalves P.: 7.5
 Kvernadze: 5
 Varela G.: 5.5
 Krstovic: 10
 
 PANCHINA
 Motta: 0
-Vicario: 5
+Vicario: 4
 Vojvoda: 5.5
 Valeri: 5.5
 Holm: 0
@@ -127,7 +127,7 @@ PS Marlia United
 TITOLARI
 Gollini: 0
 Lulli: 0
-Bremer: 5
+Bremer: 4.5
 Akanji: 6
 Baturina: 5.5
 Ederson D.S.: 5
@@ -139,7 +139,7 @@ Lang: 6
 
 PANCHINA
 Stankovic F.: 5.5
-Lucumì: 5.5
+Lucumì: 5
 Cambiaso: 6
 Comuzzo: 7
 Pavard: 0
@@ -171,10 +171,10 @@ Carnesecchi: 8
 Sportiello: 0
 Balerdi: 6.5
 Di Lorenzo: 0
-McKennie: 6.5
+McKennie: 6
 Modric: 6.5
 Milla: 5.5
-Boga: 6
+Boga: 5.5
 Bonny: 6
 Colpani: 5.5
 Beto: 6
@@ -219,10 +219,10 @@ TITOLARI
 De Gea: 5.5
 Mangas: 5.5
 Bastoni: 7
-Jimenez A.: 6
+Jimenez A.: 6.5
 Da Cunha: 5
 Zambo Anguissa: 5.5
-Mastantuono: 6
+Mastantuono: 6.5
 Moreira: 6.5
 Paz N.: 5
 Adams C.: 6
@@ -236,7 +236,7 @@ Valle: 5
 Couto: 5.5
 Kaiki: 6
 Kelly L.: 6
-Oulai: 6.5
+Oulai: 6
 Casadei: 0
 Yeboah J.: 6
 Laurientè: 5
