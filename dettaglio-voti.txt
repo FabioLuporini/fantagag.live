@@ -4,11 +4,11 @@ Real Barbarian
 TITOLARI
 Martinez Jo.: 6
 Dimarco: 6
-Ostigard: 6
+Ostigard: 5
 Molina N.: 6.5
-Pulisic: 6
+Pulisic: 10
 Orsolini: 9
-Taylor K.: 6
+Taylor K.: 6.5
 Zaniolo: 5.5
 Davis K.: 5.5
 Simeone: 6.5
@@ -26,7 +26,7 @@ Hutchinson: 6
 Diouf: 6
 Sarr P.: 6
 Jashari: 6
-Ramos G.: 6
+Ramos G.: 7.5
 Gnonto: 6
 Yildiz: 6
 
@@ -35,28 +35,28 @@ Fc Amaca Boys
 ========================================
 
 TITOLARI
-Maignan: 6
+Maignan: 7
 Pavlovic: 6
 Rrahmani: 6
 Kalulu: 6
 Thorstvedt: 5
-Rabiot: 6
+Rabiot: 7.5
 Mandragora: 0
 De Bruyne: 6
-Frattesi: 6
+Frattesi: 10
 Scamacca: 6
-De Ketelaere: 6
+De Ketelaere: 5.5
 
 PANCHINA
 Falcone: 6
 Caprile: 8.5
 Dragusin: 6
 Scalvini: 6
-Bernasconi: 6
-Sutalo J.: 6
+Bernasconi: 5.5
+Sutalo J.: 6.5
 Sucic P.: 6
 Douglas Luiz: 6
-Pinamonti: 6
+Pinamonti: 5.5
 Dovbyk: 0
 Bowie: 5.5
 
@@ -78,15 +78,15 @@ Varela G.: 6
 Krstovic: 6
 
 PANCHINA
-Motta: 6
+Motta: 0
 Vicario: 6
 Vojvoda: 5.5
 Valeri: 5.5
 Holm: 0
 Stones: 6
-Badiashile: 6
+Badiashile: 0
 Samardzic: 6
-Gudmundsson A.: 6
+Gudmundsson A.: 0
 Massolin: 0
 Jones C.: 6
 Douvikas: 6
@@ -97,28 +97,28 @@ A.C. Looters
 ========================================
 
 TITOLARI
-Meret: 6
+Meret: 0
 Miranda J.: 6
 N'Dicka: 6.5
 Gila: 6
 Mancini: 0
-Tavares N.: 6
+Tavares N.: 6.5
 Cristante: 6.5
 Fitz-Jim: 5
 Rowe: 6
-Hojlund: 6
+Hojlund: 5.5
 Esposito F.P.: 6
 
 PANCHINA
 Romano: 6
 Piccoli: 6
-Pasalic: 6
+Pasalic: 5.5
 Bartesaghi: 6
 Perrone: 6
 Colombo: 6
 Kabasele: 5.5
 Provedel: 6
-Milinkovic-Savic V.: 6
+Milinkovic-Savic V.: 5.5
 
 
 PS Marlia United
@@ -130,8 +130,8 @@ Lulli: 0
 Bremer: 6
 Akanji: 6
 Baturina: 6
-Ederson D.S.: 6
-Cissè A.: 6
+Ederson D.S.: 5.5
+Cissè A.: 10
 Koopmeiners: 6
 Alajbegovic: 6
 Soulè: 6.5
@@ -143,9 +143,9 @@ Lucumì: 6
 Cambiaso: 6
 Comuzzo: 7
 Pavard: 6
-Vergara: 6
+Vergara: 5
 Kessiè: 6
-Lucca: 6
+Lucca: 5.5
 Mendy P.: 8
 Cambiaghi: 8
 
@@ -167,10 +167,10 @@ Thuram: 6
 Kolo Muani: 6
 
 PANCHINA
-Carnesecchi: 6
+Carnesecchi: 8
 Sportiello: 6
 Balerdi: 6.5
-Di Lorenzo: 6
+Di Lorenzo: 0
 McKennie: 6
 Modric: 6
 Milla: 6
@@ -179,7 +179,7 @@ Bonny: 6
 Colpani: 6
 Beto: 6
 Solet: 6.5
-Spinazzola: 6
+Spinazzola: 0
 Raspadori: 6
 
 
@@ -204,11 +204,11 @@ Esposito Se.: 5.5
 Berardi: 0
 Bobcek: 6
 El Shaarawy: 6
-Vasquez: 6
+Vasquez: 4.5
 Tiago Gabriel: 6.5
 Diego Carlos: 0
 Koulierakis: 0
-Bijlow: 6
+Bijlow: 4
 Okoye: 3.5
 
 
@@ -221,7 +221,7 @@ Mangas: 6
 Bastoni: 6
 Jimenez A.: 6
 Da Cunha: 6
-Zambo Anguissa: 6
+Zambo Anguissa: 5.5
 Mastantuono: 6
 Moreira: 6
 Paz N.: 6
