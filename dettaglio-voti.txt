@@ -1,30 +1,64 @@
-PS Marlia United
+Real Barbarian
 ========================================
 
 TITOLARI
-Gollini: 0
-Lulli: 0
-Bremer: 8.5
-Akanji: 6
-Baturina: 5.5
-Ederson D.S.: 5
-Cissè A.: 10
-Koopmeiners: 6
-Alajbegovic: 6
-Soulè: 6.5
-Lang: 6
+Martinez Jo.: 7
+Dimarco: 6.5
+Ostigard: 5.5
+Molina N.: 6.5
+Pulisic: 9.5
+Orsolini: 9
+Taylor K.: 6.5
+Zaniolo: 5.5
+Davis K.: 5.5
+Simeone: 6.5
+Woltemade: 9.5
 
 PANCHINA
-Stankovic F.: 5.5
-Lucumì: 5
-Cambiaso: 6
-Comuzzo: 7
-Pavard: 0
-Vergara: 5
-Kessiè: 0
-Lucca: 5.5
-Mendy P.: 8
-Cambiaghi: 8
+Turati: 0
+Muric: 3
+Theate: 10
+Palma: 5
+Kristensen T.: 0
+Mina: 0
+Idzes: 5
+Hutchinson: 6
+Diouf: 0
+Sarr P.: 0
+Jashari: 5.5
+Ramos G.: 7.5
+Gnonto: 0
+Yildiz: 0
+
+
+Fc Amaca Boys
+========================================
+
+TITOLARI
+Maignan: 5.5
+Pavlovic: 0
+Rrahmani: 6
+Kalulu: 6
+Thorstvedt: 5
+Rabiot: 7
+Mandragora: 0
+De Bruyne: 6
+Frattesi: 10
+Scamacca: 0
+De Ketelaere: 5
+
+PANCHINA
+Falcone: 6
+Caprile: 8.5
+Dragusin: 5
+Scalvini: 6.5
+Bernasconi: 6
+Sutalo J.: 6.5
+Sucic P.: 0
+Douglas Luiz: 7
+Pinamonti: 5.5
+Dovbyk: 0
+Bowie: 5.5
 
 
 F,C SHAKA
@@ -45,7 +79,7 @@ Krstovic: 10
 
 PANCHINA
 Motta: 0
-Vicario: 4
+Vicario: 4.5
 Vojvoda: 5.5
 Valeri: 5.5
 Holm: 0
@@ -87,6 +121,35 @@ Provedel: 0
 Milinkovic-Savic V.: 5.5
 
 
+PS Marlia United
+========================================
+
+TITOLARI
+Gollini: 0
+Lulli: 0
+Bremer: 8.5
+Akanji: 6
+Baturina: 5.5
+Ederson D.S.: 5
+Cissè A.: 10
+Koopmeiners: 6.5
+Alajbegovic: 6
+Soulè: 6.5
+Lang: 6
+
+PANCHINA
+Stankovic F.: 5.5
+Lucumì: 5
+Cambiaso: 0
+Comuzzo: 7
+Pavard: 0
+Vergara: 5
+Kessiè: 0
+Lucca: 5.5
+Mendy P.: 8
+Cambiaghi: 8
+
+
 Loop FC
 ========================================
 
@@ -114,103 +177,10 @@ Milla: 5.5
 Boga: 5.5
 Bonny: 6
 Colpani: 5.5
-Beto: 6
+Beto: 0
 Solet: 6.5
 Spinazzola: 0
 Raspadori: 0
-
-
-Fc Galaxy
-========================================
-
-TITOLARI
-De Gea: 3
-Mangas: 5.5
-Bastoni: 7
-Jimenez A.: 6.5
-Da Cunha: 5
-Zambo Anguissa: 5.5
-Mastantuono: 6.5
-Moreira: 6.5
-Paz N.: 5
-Adams C.: 6
-Pellegrino M.: 10
-
-PANCHINA
-Butez: 0
-Sanchez Ro.: 4
-Valdepenas: 6
-Valle: 5
-Couto: 5.5
-Kaiki: 6
-Kelly L.: 6
-Oulai: 6
-Casadei: 0
-Yeboah J.: 6
-Laurientè: 5
-
-
-Real Barbarian
-========================================
-
-TITOLARI
-Martinez Jo.: 7
-Dimarco: 6.5
-Ostigard: 5.5
-Molina N.: 6.5
-Pulisic: 9.5
-Orsolini: 9
-Taylor K.: 6.5
-Zaniolo: 5.5
-Davis K.: 5.5
-Simeone: 6.5
-Woltemade: 9.5
-
-PANCHINA
-Turati: 0
-Muric: 3
-Theate: 10
-Palma: 5
-Kristensen T.: 0
-Mina: 0
-Idzes: 5
-Hutchinson: 6
-Diouf: 0
-Sarr P.: 6
-Jashari: 5.5
-Ramos G.: 7.5
-Gnonto: 6
-Yildiz: 6
-
-
-Fc Amaca Boys
-========================================
-
-TITOLARI
-Maignan: 5.5
-Pavlovic: 0
-Rrahmani: 6
-Kalulu: 6
-Thorstvedt: 5
-Rabiot: 7
-Mandragora: 0
-De Bruyne: 6
-Frattesi: 10
-Scamacca: 0
-De Ketelaere: 5
-
-PANCHINA
-Falcone: 6
-Caprile: 8.5
-Dragusin: 5
-Scalvini: 6.5
-Bernasconi: 6
-Sutalo J.: 6.5
-Sucic P.: 0
-Douglas Luiz: 7
-Pinamonti: 5.5
-Dovbyk: 0
-Bowie: 5.5
 
 
 CA River Nave
@@ -240,5 +210,35 @@ Diego Carlos: 0
 Koulierakis: 0
 Bijlow: 4
 Okoye: 3.5
+
+
+Fc Galaxy
+========================================
+
+TITOLARI
+De Gea: 3
+Mangas: 5.5
+Bastoni: 7
+Jimenez A.: 6.5
+Da Cunha: 5
+Zambo Anguissa: 5.5
+Mastantuono: 6
+Moreira: 6.5
+Paz N.: 5
+Adams C.: 6
+Pellegrino M.: 10
+
+PANCHINA
+Butez: 0
+Sanchez Ro.: 4
+Valdepenas: 0
+Valle: 5
+Couto: 5.5
+Kaiki: 6
+Kelly L.: 0
+Oulai: 6
+Casadei: 0
+Yeboah J.: 6
+Laurientè: 5
 
 
