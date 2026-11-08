@@ -3,7 +3,7 @@ Real Barbarian
 
 TITOLARI
 Martinez Jo.: 7
-Dimarco: 6
+Dimarco: 6.5
 Ostigard: 5.5
 Molina N.: 6.5
 Pulisic: 9.5
@@ -89,7 +89,7 @@ Samardzic: 0
 Gudmundsson A.: 0
 Massolin: 0
 Jones C.: 6
-Douvikas: 6
+Douvikas: 5
 Castro S.: 0
 
 
@@ -107,7 +107,7 @@ Cristante: 6.5
 Fitz-Jim: 5
 Rowe: 6
 Hojlund: 5.5
-Esposito F.P.: 10
+Esposito F.P.: 9.5
 
 PANCHINA
 Romano: 6
@@ -129,7 +129,7 @@ Gollini: 0
 Lulli: 0
 Bremer: 6
 Akanji: 6
-Baturina: 6
+Baturina: 5.5
 Ederson D.S.: 5
 Cissè A.: 10
 Koopmeiners: 6
@@ -158,12 +158,12 @@ Skorupski: 5.5
 Ramon: 5
 Belghali: 6.5
 Wesley: 6.5
-Carlos Augusto: 6
+Carlos Augusto: 6.5
 Mbangula: 6.5
 Calhanoglu: 6
 McTominay: 6
-Zielinski: 6
-Thuram: 6.5
+Zielinski: 7
+Thuram: 10.5
 Kolo Muani: 6
 
 PANCHINA
@@ -173,7 +173,7 @@ Balerdi: 6.5
 Di Lorenzo: 0
 McKennie: 6
 Modric: 6.5
-Milla: 6
+Milla: 5.5
 Boga: 6
 Bonny: 6
 Colpani: 5.5
@@ -188,11 +188,11 @@ CA River Nave
 
 TITOLARI
 Perri: 5
-Kempf: 6
+Kempf: 5
 Delprato: 5.5
 Hermoso: 10.5
 Politano: 6
-Barella: 6
+Barella: 6.5
 Bernardeschi: 6.5
 Vlasic: 5.5
 Romero D.: 5.5
@@ -218,22 +218,22 @@ Fc Galaxy
 TITOLARI
 De Gea: 6
 Mangas: 5.5
-Bastoni: 6
+Bastoni: 6.5
 Jimenez A.: 6
-Da Cunha: 6
+Da Cunha: 5
 Zambo Anguissa: 5.5
 Mastantuono: 6
 Moreira: 6.5
-Paz N.: 5.5
+Paz N.: 5
 Adams C.: 6
 Pellegrino M.: 6
 
 PANCHINA
 Butez: 6
-Sanchez Ro.: 5
+Sanchez Ro.: 4
 Valdepenas: 6
-Valle: 6
-Couto: 6
+Valle: 5
+Couto: 5.5
 Kaiki: 6
 Kelly L.: 6
 Oulai: 6
