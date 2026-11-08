@@ -2,11 +2,11 @@ Real Barbarian
 ========================================
 
 TITOLARI
-Martinez Jo.: 6
+Martinez Jo.: 7
 Dimarco: 6
-Ostigard: 5
+Ostigard: 5.5
 Molina N.: 6.5
-Pulisic: 10
+Pulisic: 9.5
 Orsolini: 9
 Taylor K.: 6.5
 Zaniolo: 5.5
@@ -19,13 +19,13 @@ Turati: 0
 Muric: 3
 Theate: 10
 Palma: 5
-Kristensen T.: 6
+Kristensen T.: 0
 Mina: 0
 Idzes: 5
 Hutchinson: 6
 Diouf: 6
 Sarr P.: 6
-Jashari: 6
+Jashari: 5.5
 Ramos G.: 7.5
 Gnonto: 6
 Yildiz: 6
@@ -35,24 +35,24 @@ Fc Amaca Boys
 ========================================
 
 TITOLARI
-Maignan: 7
-Pavlovic: 6
+Maignan: 5.5
+Pavlovic: 0
 Rrahmani: 6
 Kalulu: 6
 Thorstvedt: 5
-Rabiot: 7.5
+Rabiot: 7
 Mandragora: 0
 De Bruyne: 6
 Frattesi: 10
-Scamacca: 6
-De Ketelaere: 5.5
+Scamacca: 0
+De Ketelaere: 5
 
 PANCHINA
 Falcone: 6
 Caprile: 8.5
 Dragusin: 6
-Scalvini: 6
-Bernasconi: 5.5
+Scalvini: 6.5
+Bernasconi: 6
 Sutalo J.: 6.5
 Sucic P.: 6
 Douglas Luiz: 6
@@ -74,8 +74,8 @@ Calò: 6.5
 Ekkelenkamp: 6
 Goncalves P.: 6
 Kvernadze: 5
-Varela G.: 6
-Krstovic: 6
+Varela G.: 5.5
+Krstovic: 10
 
 PANCHINA
 Motta: 0
@@ -85,7 +85,7 @@ Valeri: 5.5
 Holm: 0
 Stones: 6
 Badiashile: 0
-Samardzic: 6
+Samardzic: 0
 Gudmundsson A.: 0
 Massolin: 0
 Jones C.: 6
@@ -112,10 +112,10 @@ Esposito F.P.: 6
 PANCHINA
 Romano: 6
 Piccoli: 6
-Pasalic: 5.5
-Bartesaghi: 6
+Pasalic: 6
+Bartesaghi: 0
 Perrone: 6
-Colombo: 6
+Colombo: 5.5
 Kabasele: 5.5
 Provedel: 6
 Milinkovic-Savic V.: 5.5
@@ -130,7 +130,7 @@ Lulli: 0
 Bremer: 6
 Akanji: 6
 Baturina: 6
-Ederson D.S.: 5.5
+Ederson D.S.: 5
 Cissè A.: 10
 Koopmeiners: 6
 Alajbegovic: 6
@@ -144,7 +144,7 @@ Cambiaso: 6
 Comuzzo: 7
 Pavard: 6
 Vergara: 5
-Kessiè: 6
+Kessiè: 0
 Lucca: 5.5
 Mendy P.: 8
 Cambiaghi: 8
@@ -168,19 +168,19 @@ Kolo Muani: 6
 
 PANCHINA
 Carnesecchi: 8
-Sportiello: 6
+Sportiello: 0
 Balerdi: 6.5
 Di Lorenzo: 0
 McKennie: 6
-Modric: 6
+Modric: 6.5
 Milla: 6
 Boga: 6
 Bonny: 6
-Colpani: 6
+Colpani: 5.5
 Beto: 6
 Solet: 6.5
 Spinazzola: 0
-Raspadori: 6
+Raspadori: 0
 
 
 CA River Nave
@@ -217,20 +217,20 @@ Fc Galaxy
 
 TITOLARI
 De Gea: 6
-Mangas: 6
+Mangas: 5.5
 Bastoni: 6
 Jimenez A.: 6
 Da Cunha: 6
 Zambo Anguissa: 5.5
 Mastantuono: 6
-Moreira: 6
+Moreira: 6.5
 Paz N.: 6
 Adams C.: 6
 Pellegrino M.: 6
 
 PANCHINA
 Butez: 6
-Sanchez Ro.: 6
+Sanchez Ro.: 7
 Valdepenas: 6
 Valle: 6
 Couto: 6
