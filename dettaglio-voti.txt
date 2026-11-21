@@ -32,8 +32,8 @@ PS Marlia United
 ========================================
 
 TITOLARI
-Svilar: 7
-Lulli: 6
+Svilar: 6
+Lulli: 7.5
 Bremer: 6
 Chalobah T.: 0
 Baturina: 6.5
@@ -41,11 +41,11 @@ Vergara: 6
 Cissè A.: 6
 Koopmeiners: 6
 Alajbegovic: 6
-Soulè: 6
+Soulè: 6.5
 Martinez L.: 6
 
 PANCHINA
-Gollini: 6
+Gollini: 0
 Stankovic F.: 6
 Lucumì: 6
 Akanji: 6
@@ -70,7 +70,7 @@ Bisseck: 6
 Spence: 6
 Goncalves P.: 6
 Calò: 6
-Mora: 6
+Mora: 10
 Gudmundsson A.: 0
 Krstovic: 6
 Douvikas: 6
@@ -82,14 +82,14 @@ Vicario: 6
 Stones: 6
 Badiashile: 6
 Vojvoda: 6
-Valeri: 6
+Valeri: 4.5
 Holm: 6
 Ekkelenkamp: 6
 Samardzic: 6
 Jones C.: 6
 Massolin: 0
 Kvernadze: 6
-Castro S.: 6
+Castro S.: 0
 Raimondo: 6
 
 
@@ -100,7 +100,7 @@ TITOLARI
 Martinez Jo.: 6
 Dimarco: 6
 Ostigard: 6
-Molina N.: 6
+Molina N.: 5.5
 Pulisic: 6
 Orsolini: 6
 Taylor K.: 7
@@ -130,11 +130,11 @@ A.C. Looters
 ========================================
 
 TITOLARI
-Milinkovic-Savic V.: 6
+Milinkovic-Savic V.: 7
 Gila: 6
-N'Dicka: 6
-Mancini: 6
-Cristante: 6
+N'Dicka: 0
+Mancini: 6.5
+Cristante: 6.5
 Conceicao: 6
 Rowe: 6
 Perrone: 6
@@ -161,14 +161,14 @@ TITOLARI
 Bijlow: 6
 Kempf: 6
 Celik: 6
-Hermoso: 6
-Konè M.: 6
+Hermoso: 6.5
+Konè M.: 6.5
 Barella: 6
 Bernardeschi: 6
 Politano: 6
 Esposito Se.: 6
 Ghedjemis: 6
-Malen: 6
+Malen: 21
 
 PANCHINA
 Vasquez: 6
@@ -176,14 +176,14 @@ Tiago Gabriel: 5.5
 El Shaarawy: 6
 Vlasic: 6
 Gaetano: 6
-Romero D.: 6
+Romero D.: 0
 Bobcek: 6
-Delprato: 6
-Koulierakis: 6
-Diego Carlos: 6
+Delprato: 5
+Koulierakis: 0
+Diego Carlos: 0
 Berardi: 6
 Chukwueze: 6
-Perri: 6
+Perri: 7
 Okoye: 6
 
 
@@ -220,12 +220,12 @@ Loop FC
 TITOLARI
 Skorupski: 6
 Ramon: 10.5
-Balerdi: 6
-Wesley: 6
+Balerdi: 5.5
+Wesley: 11
 Carlos Augusto: 6
 Mbangula: 6
 Calhanoglu: 6
-McTominay: 6
+McTominay: 6.5
 McKennie: 6
 Thuram: 6
 Kolo Muani: 6
