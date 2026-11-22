@@ -20,10 +20,10 @@ Caprile: 4.5
 Dragusin: 6
 Scalvini: 3.5
 Bernasconi: 6
-Sucic P.: 6
+Sucic P.: 9
 Douglas Luiz: 5.5
 Mandragora: 5.5
-De Ketelaere: 5
+De Ketelaere: 13.5
 Scamacca: 6
 Dovbyk: 0
 
@@ -51,9 +51,9 @@ Lucumì: 0
 Akanji: 6
 Cambiaso: 6
 Comuzzo: 5
-Pavard: 6.5
+Pavard: 5.5
 Ederson D.S.: 5.5
-Kessiè: 5
+Kessiè: 8.5
 Lucca: 0
 Mendy P.: 5.5
 Cambiaghi: 6
@@ -67,7 +67,7 @@ TITOLARI
 Mandas: 7.5
 Kamara H.: 5.5
 Bisseck: 6
-Spence: 6.5
+Spence: 5.5
 Goncalves P.: 6
 Calò: 4.5
 Mora: 10
@@ -86,7 +86,7 @@ Valeri: 4.5
 Holm: 0
 Ekkelenkamp: 6
 Samardzic: 6
-Jones C.: 6
+Jones C.: 5
 Massolin: 0
 Kvernadze: 6
 Castro S.: 0
@@ -97,7 +97,7 @@ Real Barbarian
 ========================================
 
 TITOLARI
-Martinez Jo.: 5
+Martinez Jo.: 3
 Dimarco: 7.5
 Ostigard: 6.5
 Molina N.: 5.5
@@ -136,11 +136,11 @@ N'Dicka: 0
 Mancini: 6.5
 Cristante: 6.5
 Conceicao: 0
-Rowe: 6
+Rowe: 7.5
 Perrone: 6
 Hojlund: 6
 Dybala: 6
-Esposito F.P.: 17.5
+Esposito F.P.: 17
 
 PANCHINA
 Piccoli: 0
@@ -208,7 +208,7 @@ Sanchez Ro.: 0
 De Gea: 6
 Mangas: 6
 Valle: 0
-Bastoni: 6.5
+Bastoni: 5
 Kelly L.: 6.5
 Valdepenas: 6
 Oulai: 6
@@ -222,7 +222,7 @@ Skorupski: 5.5
 Ramon: 10.5
 Balerdi: 5.5
 Wesley: 11
-Carlos Augusto: 6
+Carlos Augusto: 5.5
 Mbangula: 0
 Calhanoglu: 6.5
 McTominay: 10
@@ -232,7 +232,7 @@ Kolo Muani: 9
 
 PANCHINA
 Carnesecchi: 6
-Sportiello: 3
+Sportiello: 1.5
 Belghali: 6
 Di Lorenzo: 0
 Zielinski: 6
