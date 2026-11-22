@@ -19,12 +19,12 @@ Falcone: 3
 Caprile: 4.5
 Dragusin: 6
 Scalvini: 3.5
-Bernasconi: 6
+Bernasconi: 0
 Sucic P.: 9
 Douglas Luiz: 5.5
 Mandragora: 5.5
 De Ketelaere: 13.5
-Scamacca: 6
+Scamacca: 0
 Dovbyk: 0
 
 
@@ -42,7 +42,7 @@ Cissè A.: 9.5
 Koopmeiners: 10.5
 Alajbegovic: 5.5
 Soulè: 6.5
-Martinez L.: 6
+Martinez L.: 0
 
 PANCHINA
 Gollini: 0
@@ -66,7 +66,7 @@ F,C SHAKA
 TITOLARI
 Mandas: 7.5
 Kamara H.: 5.5
-Bisseck: 6
+Bisseck: 0
 Spence: 5.5
 Goncalves P.: 6
 Calò: 4.5
@@ -79,13 +79,13 @@ Varela G.: 6
 PANCHINA
 Motta: 0
 Vicario: 7
-Stones: 6
+Stones: 0
 Badiashile: 0
 Vojvoda: 0
 Valeri: 4.5
 Holm: 0
 Ekkelenkamp: 6
-Samardzic: 6
+Samardzic: 0
 Jones C.: 5
 Massolin: 0
 Kvernadze: 6
@@ -114,10 +114,10 @@ Turati: 0
 Muric: 4
 Theate: 6
 Palma: 5
-Kristensen T.: 6
+Kristensen T.: 0
 Mina: 0
 Idzes: 5.5
-Diouf: 6
+Diouf: 0
 Hutchinson: 0
 Sarr P.: 6
 Jashari: 10
@@ -150,7 +150,7 @@ Colombo: 0
 Pasalic: 6
 Romano: 5.5
 Neres: 0
-Provedel: 6
+Provedel: 0
 Kabasele: 6
 
 
@@ -175,7 +175,7 @@ Vasquez: 6.5
 Tiago Gabriel: 5.5
 El Shaarawy: 0
 Vlasic: 5.5
-Gaetano: 6
+Gaetano: 0
 Romero D.: 0
 Bobcek: 0
 Delprato: 5
@@ -222,7 +222,7 @@ Skorupski: 5.5
 Ramon: 10.5
 Balerdi: 5.5
 Wesley: 11
-Carlos Augusto: 5.5
+Carlos Augusto: 5
 Mbangula: 0
 Calhanoglu: 6.5
 McTominay: 10
@@ -231,17 +231,17 @@ Thuram: 8
 Kolo Muani: 9
 
 PANCHINA
-Carnesecchi: 6
+Carnesecchi: 0
 Sportiello: 1.5
 Belghali: 6
 Di Lorenzo: 0
-Zielinski: 6
+Zielinski: 0
 Modric: 7
 Milla: 5.5
 Colpani: 6
 Solet: 5.5
 Spinazzola: 6
-Bonny: 6
+Bonny: 0
 Boga: 0
 Raspadori: 6
 Beto: 6
