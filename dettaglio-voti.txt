@@ -5,10 +5,10 @@ TITOLARI
 Maignan: 5
 Pavlovic: 6
 Rrahmani: 6.5
-Bellanova: 6
+Bellanova: 5
 Thorstvedt: 5
 Frattesi: 10
-Rabiot: 8
+Rabiot: 9.5
 De Bruyne: 6.5
 Atta: 6
 Pinamonti: 6
@@ -18,12 +18,12 @@ PANCHINA
 Falcone: 3
 Caprile: 4.5
 Dragusin: 6
-Scalvini: 6
+Scalvini: 3.5
 Bernasconi: 6
 Sucic P.: 6
 Douglas Luiz: 5.5
 Mandragora: 5.5
-De Ketelaere: 6
+De Ketelaere: 5
 Scamacca: 6
 Dovbyk: 0
 
@@ -38,7 +38,7 @@ Bremer: 6.5
 Chalobah T.: 0
 Baturina: 6.5
 Vergara: 6
-Cissè A.: 6
+Cissè A.: 9.5
 Koopmeiners: 10.5
 Alajbegovic: 5.5
 Soulè: 6.5
@@ -51,9 +51,9 @@ Lucumì: 0
 Akanji: 6
 Cambiaso: 6
 Comuzzo: 5
-Pavard: 6
-Ederson D.S.: 6
-Kessiè: 6
+Pavard: 6.5
+Ederson D.S.: 5.5
+Kessiè: 5
 Lucca: 0
 Mendy P.: 5.5
 Cambiaghi: 6
@@ -67,12 +67,12 @@ TITOLARI
 Mandas: 7.5
 Kamara H.: 5.5
 Bisseck: 6
-Spence: 6
+Spence: 6.5
 Goncalves P.: 6
-Calò: 5
+Calò: 4.5
 Mora: 10
 Gudmundsson A.: 0
-Krstovic: 6
+Krstovic: 5.5
 Douvikas: 6
 Varela G.: 6
 
@@ -88,20 +88,20 @@ Ekkelenkamp: 6
 Samardzic: 6
 Jones C.: 6
 Massolin: 0
-Kvernadze: 6.5
+Kvernadze: 6
 Castro S.: 0
-Raimondo: 6
+Raimondo: 0
 
 
 Real Barbarian
 ========================================
 
 TITOLARI
-Martinez Jo.: 6
-Dimarco: 6
+Martinez Jo.: 5
+Dimarco: 7.5
 Ostigard: 6.5
 Molina N.: 5.5
-Pulisic: 6
+Pulisic: 10.5
 Orsolini: 5.5
 Taylor K.: 7
 Zaniolo: 10
@@ -118,9 +118,9 @@ Kristensen T.: 6
 Mina: 0
 Idzes: 5.5
 Diouf: 6
-Hutchinson: 6
+Hutchinson: 0
 Sarr P.: 6
-Jashari: 6
+Jashari: 10
 Gnonto: 6
 Davis K.: 0
 Yildiz: 0
@@ -131,7 +131,7 @@ A.C. Looters
 
 TITOLARI
 Milinkovic-Savic V.: 7
-Gila: 6
+Gila: 6.5
 N'Dicka: 0
 Mancini: 6.5
 Cristante: 6.5
@@ -140,11 +140,11 @@ Rowe: 6
 Perrone: 6
 Hojlund: 6
 Dybala: 6
-Esposito F.P.: 6
+Esposito F.P.: 17.5
 
 PANCHINA
 Piccoli: 0
-Bartesaghi: 6.5
+Bartesaghi: 6
 Fitz-Jim: 0
 Colombo: 0
 Pasalic: 6
@@ -163,11 +163,11 @@ Kempf: 6
 Celik: 6
 Hermoso: 6.5
 Konè M.: 6.5
-Barella: 6
+Barella: 7
 Bernardeschi: 5.5
 Politano: 6.5
 Esposito Se.: 5
-Ghedjemis: 6.5
+Ghedjemis: 5.5
 Malen: 21
 
 PANCHINA
@@ -177,12 +177,12 @@ El Shaarawy: 0
 Vlasic: 5.5
 Gaetano: 6
 Romero D.: 0
-Bobcek: 6
+Bobcek: 0
 Delprato: 5
 Koulierakis: 0
 Diego Carlos: 0
 Berardi: 5
-Chukwueze: 6
+Chukwueze: 0
 Perri: 6
 Okoye: 5.5
 
@@ -199,7 +199,7 @@ Zambo Anguissa: 5.5
 Paz N.: 6
 Da Cunha: 10
 Mastantuono: 6
-Moreira: 6.5
+Moreira: 8
 Pellegrino M.: 6
 Laurientè: 6
 
@@ -208,7 +208,7 @@ Sanchez Ro.: 0
 De Gea: 6
 Mangas: 6
 Valle: 0
-Bastoni: 6
+Bastoni: 6.5
 Kelly L.: 6.5
 Valdepenas: 6
 Oulai: 6
@@ -224,19 +224,19 @@ Balerdi: 5.5
 Wesley: 11
 Carlos Augusto: 6
 Mbangula: 0
-Calhanoglu: 6
+Calhanoglu: 6.5
 McTominay: 10
 McKennie: 6.5
-Thuram: 6
+Thuram: 8
 Kolo Muani: 9
 
 PANCHINA
 Carnesecchi: 6
-Sportiello: 6
+Sportiello: 3
 Belghali: 6
 Di Lorenzo: 0
 Zielinski: 6
-Modric: 6.5
+Modric: 7
 Milla: 5.5
 Colpani: 6
 Solet: 5.5
