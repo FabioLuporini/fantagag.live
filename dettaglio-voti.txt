@@ -2,17 +2,17 @@ Fc Amaca Boys
 ========================================
 
 TITOLARI
-Maignan: 6
+Maignan: 5
 Pavlovic: 6
 Rrahmani: 6.5
 Bellanova: 6
 Thorstvedt: 5
 Frattesi: 10
-Rabiot: 6
+Rabiot: 8
 De Bruyne: 6.5
 Atta: 6
 Pinamonti: 6
-Bowie: 6
+Bowie: 5.5
 
 PANCHINA
 Falcone: 3
@@ -25,7 +25,7 @@ Douglas Luiz: 5.5
 Mandragora: 5.5
 De Ketelaere: 6
 Scamacca: 6
-Dovbyk: 6
+Dovbyk: 0
 
 
 PS Marlia United
@@ -56,7 +56,7 @@ Ederson D.S.: 6
 Kessiè: 6
 Lucca: 0
 Mendy P.: 5.5
-Cambiaghi: 6.5
+Cambiaghi: 6
 Lang: 7.5
 
 
@@ -69,7 +69,7 @@ Kamara H.: 5.5
 Bisseck: 6
 Spence: 6
 Goncalves P.: 6
-Calò: 6
+Calò: 5
 Mora: 10
 Gudmundsson A.: 0
 Krstovic: 6
@@ -81,14 +81,14 @@ Motta: 0
 Vicario: 7
 Stones: 6
 Badiashile: 0
-Vojvoda: 6
+Vojvoda: 0
 Valeri: 4.5
-Holm: 6
+Holm: 0
 Ekkelenkamp: 6
 Samardzic: 6
 Jones C.: 6
 Massolin: 0
-Kvernadze: 6
+Kvernadze: 6.5
 Castro S.: 0
 Raimondo: 6
 
@@ -104,16 +104,16 @@ Molina N.: 5.5
 Pulisic: 6
 Orsolini: 5.5
 Taylor K.: 7
-Zaniolo: 6
-Ramos G.: 6
+Zaniolo: 10
+Ramos G.: 10
 Simeone: 6
 Woltemade: 11.5
 
 PANCHINA
-Turati: 6
+Turati: 0
 Muric: 4
 Theate: 6
-Palma: 4.5
+Palma: 5
 Kristensen T.: 6
 Mina: 0
 Idzes: 5.5
@@ -122,7 +122,7 @@ Hutchinson: 6
 Sarr P.: 6
 Jashari: 6
 Gnonto: 6
-Davis K.: 6
+Davis K.: 0
 Yildiz: 0
 
 
@@ -143,10 +143,10 @@ Dybala: 6
 Esposito F.P.: 6
 
 PANCHINA
-Piccoli: 6
-Bartesaghi: 6
+Piccoli: 0
+Bartesaghi: 6.5
 Fitz-Jim: 0
-Colombo: 6
+Colombo: 0
 Pasalic: 6
 Romano: 5.5
 Neres: 0
@@ -167,13 +167,13 @@ Barella: 6
 Bernardeschi: 5.5
 Politano: 6.5
 Esposito Se.: 5
-Ghedjemis: 6
+Ghedjemis: 6.5
 Malen: 21
 
 PANCHINA
-Vasquez: 6
+Vasquez: 6.5
 Tiago Gabriel: 5.5
-El Shaarawy: 6
+El Shaarawy: 0
 Vlasic: 5.5
 Gaetano: 6
 Romero D.: 0
@@ -184,7 +184,7 @@ Diego Carlos: 0
 Berardi: 5
 Chukwueze: 6
 Perri: 6
-Okoye: 5
+Okoye: 5.5
 
 
 Fc Galaxy
@@ -199,7 +199,7 @@ Zambo Anguissa: 5.5
 Paz N.: 6
 Da Cunha: 10
 Mastantuono: 6
-Moreira: 6
+Moreira: 6.5
 Pellegrino M.: 6
 Laurientè: 6
 
@@ -218,12 +218,12 @@ Loop FC
 ========================================
 
 TITOLARI
-Skorupski: 7.5
+Skorupski: 5.5
 Ramon: 10.5
 Balerdi: 5.5
 Wesley: 11
 Carlos Augusto: 6
-Mbangula: 6
+Mbangula: 0
 Calhanoglu: 6
 McTominay: 10
 McKennie: 6.5
@@ -236,7 +236,7 @@ Sportiello: 6
 Belghali: 6
 Di Lorenzo: 0
 Zielinski: 6
-Modric: 6
+Modric: 6.5
 Milla: 5.5
 Colpani: 6
 Solet: 5.5
