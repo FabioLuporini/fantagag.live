@@ -4,12 +4,12 @@ Fc Amaca Boys
 TITOLARI
 Maignan: 6
 Pavlovic: 6
-Rrahmani: 6
+Rrahmani: 6.5
 Bellanova: 6
 Thorstvedt: 6
 Frattesi: 10
 Rabiot: 6
-De Bruyne: 6
+De Bruyne: 6.5
 Atta: 6
 Pinamonti: 6
 Bowie: 6
@@ -22,7 +22,7 @@ Scalvini: 6
 Bernasconi: 6
 Sucic P.: 6
 Douglas Luiz: 6
-Mandragora: 6
+Mandragora: 5.5
 De Ketelaere: 6
 Scamacca: 6
 Dovbyk: 6
@@ -50,14 +50,14 @@ Stankovic F.: 6
 Lucumì: 6
 Akanji: 6
 Cambiaso: 6
-Comuzzo: 6
+Comuzzo: 5
 Pavard: 6
 Ederson D.S.: 6
 Kessiè: 6
-Lucca: 6
+Lucca: 0
 Mendy P.: 5.5
 Cambiaghi: 6
-Lang: 6
+Lang: 7.5
 
 
 F,C SHAKA
@@ -80,7 +80,7 @@ PANCHINA
 Motta: 0
 Vicario: 6
 Stones: 6
-Badiashile: 6
+Badiashile: 0
 Vojvoda: 6
 Valeri: 4.5
 Holm: 6
@@ -145,11 +145,11 @@ Esposito F.P.: 6
 PANCHINA
 Piccoli: 6
 Bartesaghi: 6
-Fitz-Jim: 6
+Fitz-Jim: 0
 Colombo: 6
 Pasalic: 6
 Romano: 5.5
-Neres: 6
+Neres: 0
 Provedel: 6
 Kabasele: 6
 
@@ -165,7 +165,7 @@ Hermoso: 6.5
 Konè M.: 6.5
 Barella: 6
 Bernardeschi: 6
-Politano: 6
+Politano: 6.5
 Esposito Se.: 6
 Ghedjemis: 6
 Malen: 21
@@ -174,7 +174,7 @@ PANCHINA
 Vasquez: 6
 Tiago Gabriel: 5.5
 El Shaarawy: 6
-Vlasic: 6
+Vlasic: 5.5
 Gaetano: 6
 Romero D.: 0
 Bobcek: 6
@@ -183,7 +183,7 @@ Koulierakis: 0
 Diego Carlos: 0
 Berardi: 6
 Chukwueze: 6
-Perri: 7
+Perri: 6
 Okoye: 6
 
 
@@ -195,7 +195,7 @@ Butez: 7
 Kaiki: 6.5
 Jimenez A.: 6
 Couto: 9
-Zambo Anguissa: 6
+Zambo Anguissa: 5.5
 Paz N.: 6
 Da Cunha: 10
 Mastantuono: 6
@@ -225,7 +225,7 @@ Wesley: 11
 Carlos Augusto: 6
 Mbangula: 6
 Calhanoglu: 6
-McTominay: 6.5
+McTominay: 10
 McKennie: 6
 Thuram: 6
 Kolo Muani: 6
@@ -234,7 +234,7 @@ PANCHINA
 Carnesecchi: 6
 Sportiello: 6
 Belghali: 6
-Di Lorenzo: 6
+Di Lorenzo: 0
 Zielinski: 6
 Modric: 6
 Milla: 5.5
