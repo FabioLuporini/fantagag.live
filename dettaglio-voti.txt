@@ -17,7 +17,7 @@ Bowie: 5.5
 PANCHINA
 Falcone: 3
 Caprile: 4.5
-Dragusin: 6
+Dragusin: 5.5
 Scalvini: 3.5
 Bernasconi: 0
 Sucic P.: 9
@@ -74,7 +74,7 @@ Mora: 10
 Gudmundsson A.: 0
 Krstovic: 5.5
 Douvikas: 6
-Varela G.: 6
+Varela G.: 13
 
 PANCHINA
 Motta: 0
@@ -121,7 +121,7 @@ Diouf: 0
 Hutchinson: 0
 Sarr P.: 6
 Jashari: 10
-Gnonto: 6
+Gnonto: 5.5
 Davis K.: 0
 Yildiz: 0
 
@@ -193,25 +193,25 @@ Fc Galaxy
 TITOLARI
 Butez: 7
 Kaiki: 6.5
-Jimenez A.: 6
+Jimenez A.: 5.5
 Couto: 9
 Zambo Anguissa: 5.5
 Paz N.: 6
 Da Cunha: 10
-Mastantuono: 6
+Mastantuono: 5.5
 Moreira: 8
-Pellegrino M.: 6
+Pellegrino M.: 5.5
 Laurientè: 6
 
 PANCHINA
 Sanchez Ro.: 0
-De Gea: 6
+De Gea: 3
 Mangas: 6
 Valle: 0
 Bastoni: 5
 Kelly L.: 6.5
 Valdepenas: 6
-Oulai: 6
+Oulai: 5
 
 
 Loop FC
