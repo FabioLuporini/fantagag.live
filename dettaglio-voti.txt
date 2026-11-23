@@ -10,14 +10,14 @@ Thorstvedt: 5
 Frattesi: 10
 Rabiot: 9.5
 De Bruyne: 6.5
-Atta: 6
+Atta: 0
 Pinamonti: 6
 Bowie: 5.5
 
 PANCHINA
 Falcone: 3
 Caprile: 4.5
-Dragusin: 5.5
+Dragusin: 4
 Scalvini: 3.5
 Bernasconi: 0
 Sucic P.: 9
@@ -121,7 +121,7 @@ Diouf: 0
 Hutchinson: 0
 Sarr P.: 6
 Jashari: 10
-Gnonto: 5.5
+Gnonto: 5
 Davis K.: 0
 Yildiz: 0
 
@@ -193,25 +193,25 @@ Fc Galaxy
 TITOLARI
 Butez: 7
 Kaiki: 6.5
-Jimenez A.: 5.5
+Jimenez A.: 5
 Couto: 9
 Zambo Anguissa: 5.5
 Paz N.: 6
 Da Cunha: 10
-Mastantuono: 5.5
+Mastantuono: 5
 Moreira: 8
-Pellegrino M.: 5.5
+Pellegrino M.: 5
 Laurientè: 6
 
 PANCHINA
 Sanchez Ro.: 0
-De Gea: 3
-Mangas: 6
+De Gea: 2.5
+Mangas: 6.5
 Valle: 0
 Bastoni: 5
 Kelly L.: 6.5
-Valdepenas: 6
-Oulai: 5
+Valdepenas: 5.5
+Oulai: 4.5
 
 
 Loop FC
@@ -238,7 +238,7 @@ Di Lorenzo: 0
 Zielinski: 0
 Modric: 7
 Milla: 5.5
-Colpani: 6
+Colpani: 0
 Solet: 5.5
 Spinazzola: 6
 Bonny: 0
