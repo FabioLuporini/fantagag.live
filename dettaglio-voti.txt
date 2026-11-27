@@ -46,7 +46,7 @@ Lang: 6
 
 PANCHINA
 Gollini: 6
-Stankovic F.: 7
+Stankovic F.: 7.5
 Bremer: 6
 Lucumì: 6
 Cambiaso: 6
@@ -98,7 +98,7 @@ Real Barbarian
 TITOLARI
 Martinez Jo.: 6
 Dimarco: 6
-Theate: 6
+Theate: 6.5
 Molina N.: 6
 Pulisic: 6
 Diouf: 6
@@ -164,7 +164,7 @@ Hermoso: 6
 Konè M.: 6
 Barella: 6
 Politano: 6
-Bernardeschi: 6
+Bernardeschi: 5.5
 Bobcek: 6
 Ghedjemis: 6
 Malen: 6
@@ -198,7 +198,7 @@ Moreira: 6
 Paz N.: 6
 Mastantuono: 6
 Zaccagni: 6
-Yeboah J.: 6.5
+Yeboah J.: 5
 Pellegrino M.: 6
 Laurientè: 6
 
@@ -227,7 +227,7 @@ Ramon: 6
 Balerdi: 6
 Wesley: 6
 Carlos Augusto: 6
-Mbangula: 6
+Mbangula: 5.5
 Zielinski: 6
 McTominay: 6
 McKennie: 6
