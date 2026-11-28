@@ -63,11 +63,11 @@ F,C SHAKA
 ========================================
 
 TITOLARI
-Mandas: 6
+Mandas: 7
 Kamara H.: 6
 Bisseck: 6
 Spence: 6
-Calò: 6
+Calò: 6.5
 Mora: 6
 Goncalves P.: 6
 Gudmundsson A.: 6
@@ -82,14 +82,14 @@ Stones: 6
 Holm: 0
 Vojvoda: 6
 Badiashile: 6
-Valeri: 6
+Valeri: 0
 Samardzic: 6
 Ekkelenkamp: 6
 Jones C.: 6
 Massolin: 6
 Varela G.: 6
 Castro S.: 6
-Raimondo: 6
+Raimondo: 0
 
 
 Real Barbarian
@@ -165,24 +165,24 @@ Konè M.: 6
 Barella: 6
 Politano: 6
 Bernardeschi: 5.5
-Bobcek: 6
-Ghedjemis: 6
+Bobcek: 17
+Ghedjemis: 7
 Malen: 6
 
 PANCHINA
-Delprato: 6
+Delprato: 4.5
 Vasquez: 6
 Berardi: 6
 Esposito Se.: 6
 Vlasic: 6
 Gaetano: 6
 El Shaarawy: 6
-Diego Carlos: 6
+Diego Carlos: 0
 Celik: 6
 Koulierakis: 6
-Perri: 6
+Perri: 7
 Bijlow: 6
-Romero D.: 6
+Romero D.: 0
 Chukwueze: 6
 
 
