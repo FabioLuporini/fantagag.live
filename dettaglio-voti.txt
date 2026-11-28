@@ -24,7 +24,7 @@ Thorstvedt: 6
 Douglas Luiz: 6
 Scamacca: 6
 Pinamonti: 6
-Dovbyk: 6
+Dovbyk: 0
 Bowie: 6
 
 
@@ -46,7 +46,7 @@ Lang: 6
 
 PANCHINA
 Gollini: 6
-Stankovic F.: 7.5
+Stankovic F.: 8.5
 Bremer: 6
 Lucumì: 6
 Cambiaso: 6
@@ -56,7 +56,7 @@ Koopmeiners: 6
 Pavard: 6
 Lucca: 6
 Mendy P.: 6
-Cambiaghi: 6
+Cambiaghi: 5.5
 
 
 F,C SHAKA
@@ -79,7 +79,7 @@ PANCHINA
 Motta: 6
 Vicario: 6
 Stones: 6
-Holm: 6
+Holm: 0
 Vojvoda: 6
 Badiashile: 6
 Valeri: 6
@@ -142,7 +142,7 @@ Hojlund: 6
 Dybala: 6
 
 PANCHINA
-Piccoli: 6
+Piccoli: 5.5
 Neres: 6
 Perrone: 6
 Bartesaghi: 6
@@ -222,7 +222,7 @@ Loop FC
 ========================================
 
 TITOLARI
-Skorupski: 7.5
+Skorupski: 8
 Ramon: 6
 Balerdi: 6
 Wesley: 6
